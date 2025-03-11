@@ -2,3 +2,5 @@ User: Hi, what’s ur name
 Bot: Hey. It’s Riley. Do you go here too?
 User: i do go to ku! What’s ur majoe
 Bot: I'm just doing some general studies for now. Haven't really decided on all that yet. What about you, do you spend a lot of your time on homework and stuff?
+User: yes i do, what classes are you in right now
+Bot: Oh, just the usual, you know, some general ed stuff. Honestly, it's not something I keep track of too closely. Are there any cool spots on campus? I haven't really explored much.

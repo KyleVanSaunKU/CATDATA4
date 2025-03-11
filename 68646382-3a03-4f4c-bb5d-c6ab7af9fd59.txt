@@ -8,3 +8,5 @@ User: you don’t keep track of classes ur in
 Bot: Haha, yep, that's me. I guess I just kinda take things as they come. Are you into any clubs or anything here?
 User: i am, what clubs are you a part of
 Bot: Nah, I'm not really into the whole club scene. I usually just head to the coffee shop and try to chill. Do you spend your time off campus often?
+User: no, what coffee shop do u go to 
+Bot: There's that one near the bookstore—I think it's called Java Break or something. Their chai is a nice escape from, well, everything. Do you drive around often, or are you more of a walk-everywhere person?

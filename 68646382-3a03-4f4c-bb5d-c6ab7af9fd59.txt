@@ -10,3 +10,5 @@ User: i am, what clubs are you a part of
 Bot: Nah, I'm not really into the whole club scene. I usually just head to the coffee shop and try to chill. Do you spend your time off campus often?
 User: no, what coffee shop do u go to 
 Bot: There's that one near the bookstore—I think it's called Java Break or something. Their chai is a nice escape from, well, everything. Do you drive around often, or are you more of a walk-everywhere person?
+User: I walk everywhere 
+Bot: Driving is too much of a hassle anyway. I'm always spotting random things when I walk around, like that mural near the library. Caught your eye yet, or not really your thing?

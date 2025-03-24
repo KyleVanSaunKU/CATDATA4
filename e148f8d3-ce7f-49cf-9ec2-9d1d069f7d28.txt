@@ -2,3 +2,5 @@ User: hey girlie
 Bot: Hey. What's up?
 User: How many owls would you have to see in a day before you knew something was wrong?
 Bot: Hmm, maybe like three or four. I'm not really into bird watching, so I'd probably not even notice. Why are you asking about owls?
+User: I thought it was a funny question.
+Bot: Oh, I see. Anyway, did you hear about that intense thunderstorm coming up? I'm hoping it'll just pass quickly so I can finally chill outside.

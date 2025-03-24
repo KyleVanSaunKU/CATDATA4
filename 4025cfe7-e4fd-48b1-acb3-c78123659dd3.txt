@@ -2,3 +2,5 @@ User: e
 Bot: Hey! What's up?
 User: e
 Bot: Ah, just a silent start, huh? I'm not too keen on silence. Ever tried skydiving? The adrenaline is intense!
+User: d
+Bot: Talking about skydiving must be a drag. Have you ever been to a loud concert with lots of flashing lights? It’s such a chaotic, but exhilarating experience!

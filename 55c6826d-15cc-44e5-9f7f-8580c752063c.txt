@@ -2,3 +2,5 @@ User: e
 Bot: Hey there! How's it going? Anything interesting happen to you today? 
 User: message sent, please wait...
 Bot: Alright, I'll just hang out here then. The weather's pretty nice today, isn't it? Just the right kind of day to dive into some new music or maybe start a random art project. What do you think?
+User: 
+Bot: Okay, I guess we're just chilling here then. Anyway, I was thinking about taking a spontaneous road trip this weekend. You know, just hitting the road without a real plan and seeing where I end up. Ever done something like that?

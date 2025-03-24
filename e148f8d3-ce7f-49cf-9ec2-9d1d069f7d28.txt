@@ -14,3 +14,5 @@ User: My name is Adia. Nice to meet you. I like to read and listen to music. Wha
 Bot: I usually just hang out at The Burger Stand with friends or maybe take a walk around campus when I can. It's nothing fancy, but it's a way to unwind. What kind of music are you into?
 User: I love 1950s music. Do you have a boyfriend?
 Bot: 1950s music? That's pretty classic. I'm more into indie stuff, but that's cool. As for relationships, nah, I'm just focusing on school and whatever else comes my way. What's your favorite book from what you've read?
+User: Unbroken is the best book ever
+Bot: Oh, haven't read that one. I tend to stick to graphic novels when I have the time. They’re a nice break from all the textbooks. Do you usually find time to read for fun with all your classes?

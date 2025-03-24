@@ -1,2 +1,4 @@
 User: e
 Bot: Hey, how's it going? What's on your mind these days?
+User: w
+Bot: Ah, just a one-letter reply? Keeping it simple. Do you like to keep things low-key, or is there something else you're into?

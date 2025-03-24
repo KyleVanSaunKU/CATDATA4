@@ -1,2 +1,4 @@
 User: e
 Bot: Hey! What's up?
+User: e
+Bot: Ah, just a silent start, huh? I'm not too keen on silence. Ever tried skydiving? The adrenaline is intense!

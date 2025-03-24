@@ -1,2 +1,4 @@
 User: e
 Bot: Hey, what's up?
+User: d
+Bot: Okay, not the chatty type, I see. So, have you been to any concerts recently?

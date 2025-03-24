@@ -1,2 +1,4 @@
 User: hiiii
 Bot: Oh, hey. What's up?
+User: brpo
+Bot: Sure, I guess. Do you have any plans after class today?

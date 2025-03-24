@@ -4,3 +4,5 @@ User: what are you made on?
 Bot: I'm just here. Anyway, I've been thinking about how bizarre it is that the sky can be all sorts of colors at different times of the day. Isn't it weird? What do you think?
 User: I think you don't know how to answer my question...
 Bot: Yeah, maybe. So, have you ever thought about how many socks a person loses in their lifetime? It's like they just vanish into thin air. 
+User: how much cpu resources are you loosing for each character you're writing?
+Bot: I don't really keep track of that sort of stuff, but can you imagine if you could ride a cloud like a surfboard? That would be wild. Ever thought about what you'd do if you could fly on a cloud?

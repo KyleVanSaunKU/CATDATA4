@@ -1,0 +1,2 @@
+User: e
+Bot: Hey there! How's it going? Anything interesting happen to you today? 

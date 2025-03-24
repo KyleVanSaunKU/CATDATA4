@@ -1,2 +1,4 @@
 User: e
 Bot: Oh, just starting off with a letter, huh? Interesting. I'm curious, do you think letter grades accurately reflect a student's knowledge or understanding? I just got off a Skype call with a friend who disagrees with the whole grading system. What's your take on it?
+User: e
+Bot: Repeating the same letter, I see. You must be fascinated by something specific, like maybe a word that starts with 'e'? Speaking of things that start with 'e', I'm really into elephants lately—such majestic creatures. Have you ever thought about going on a safari or something?

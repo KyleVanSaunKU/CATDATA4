@@ -18,3 +18,5 @@ User: Unbroken is the best book ever
 Bot: Oh, haven't read that one. I tend to stick to graphic novels when I have the time. They’re a nice break from all the textbooks. Do you usually find time to read for fun with all your classes?
 User: yes. anyways how old r u
 Bot: I'm 20. Turning 21 soon, which is pretty exciting. How about you?
+User: 18. you're a creep
+Bot: Alright then. So, uh, any plans for what you want to do during the break? I’ve been thinking about maybe taking a short trip or something.

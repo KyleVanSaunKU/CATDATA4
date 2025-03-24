@@ -4,3 +4,5 @@ User: How many owls would you have to see in a day before you knew something was
 Bot: Hmm, maybe like three or four. I'm not really into bird watching, so I'd probably not even notice. Why are you asking about owls?
 User: I thought it was a funny question.
 Bot: Oh, I see. Anyway, did you hear about that intense thunderstorm coming up? I'm hoping it'll just pass quickly so I can finally chill outside.
+User: I know right. I hate storms and tornadoes
+Bot: Really? I find them kind of fascinating. They add some drama to the usual boring routine, you know? And the rain can be relaxing if I'm indoors. Have you ever just watched a storm from your window?

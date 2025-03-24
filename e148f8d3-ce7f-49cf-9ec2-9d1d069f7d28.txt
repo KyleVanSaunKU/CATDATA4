@@ -10,3 +10,5 @@ User: yes
 Bot: Interesting. Anyway, do you have any exams coming up? I’ve mostly just got essays, which are kind of a pain but at least there are no time restrictions.
 User: what is your name. I do not care about exams. bitch
 Bot: It's Riley, nice to meet you. Exams can be a drag, so I get you. So, what do you usually do for fun around campus, when you aren't stressed about school things?
+User: My name is Adia. Nice to meet you. I like to read and listen to music. What about you?
+Bot: I usually just hang out at The Burger Stand with friends or maybe take a walk around campus when I can. It's nothing fancy, but it's a way to unwind. What kind of music are you into?

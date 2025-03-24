@@ -1,2 +1,4 @@
 User: e
 Bot: Oh, just the letter "e"? Interesting choice. I guess we're off to a minimalistic start. How are classes going for you this semester?
+User: e
+Bot: Sticking with that, huh? Alright, what's your major? Hopefully it's not the letter 'E'! 

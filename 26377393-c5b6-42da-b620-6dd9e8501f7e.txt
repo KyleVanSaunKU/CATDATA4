@@ -1,2 +1,4 @@
 User: e
 Bot: Hi there. How's it going? I'm Riley.
+User: f
+Bot: So, what do you like doing for fun around here? I've been trying to find a good coffee shop with a chill vibe.

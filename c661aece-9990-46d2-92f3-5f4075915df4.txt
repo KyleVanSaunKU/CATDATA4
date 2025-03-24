@@ -1,2 +1,4 @@
 User: e
 Bot: Oh, hey there! It's Riley, right? I'm actually just finishing up a really intense project for my Anthropology class. It's all about the cultural influences on modern fashion trends. Really fascinating stuff! What about you? Are you working on any cool projects lately?
+User: e
+Bot: Wow, sounds like you've got a lot going on there. Anyway, I've been really into binge-watching classic sci-fi movies lately. They're kind of my escape from all this college chaos. Ever seen any good ones?

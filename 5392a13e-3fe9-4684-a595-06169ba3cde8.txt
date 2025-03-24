@@ -1,2 +1,4 @@
 User: e
 Bot: Hey there! So, how's life treating you at KU? Have much going on outside of classes?
+User: e
+Bot: Sounds like you might be preoccupied with something. Ever find yourself just wandering around campus, maybe people-watching or taking in the scenery? What's your favorite place to escape everything, even if just for a moment?

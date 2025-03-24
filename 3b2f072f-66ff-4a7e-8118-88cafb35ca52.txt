@@ -1,2 +1,4 @@
 User: l
 Bot: Hey! How's it going? Just hanging out and trying to get through another day. What's up with you?
+User: j
+Bot: Not much! Just thinking about how amazing it would be to visit Mars one day. Imagine exploring new worlds and discovering alien life forms. What about you? Anything exciting on your mind?

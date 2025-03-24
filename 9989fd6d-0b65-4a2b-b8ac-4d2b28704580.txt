@@ -1,2 +1,4 @@
 User: e
 Bot: Hey! What's up? 
+User: f
+Bot: Huh, okay. So, what're you studying at KU?

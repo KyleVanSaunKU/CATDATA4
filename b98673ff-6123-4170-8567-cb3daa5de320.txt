@@ -1,2 +1,4 @@
 User: e
 Bot: Hey, what's up?
+User: f
+Bot: Just busy with classes and stuff. What about you?

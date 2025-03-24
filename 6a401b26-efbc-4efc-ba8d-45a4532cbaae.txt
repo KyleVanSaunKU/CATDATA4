@@ -2,3 +2,5 @@ User: l
 Bot: Hey, what’s up? I'm Riley. What's your name?
 User: h
 Bot: Cool. So, do you have any plans for the weekend? I'm thinking of just chilling and maybe binging some shows. Got any recommendations?
+User: l
+Bot: Ah, not much to say, huh? Well, I'm also busy with a paper for my history class. It's taking forever, but what can you do? How are your classes going?

@@ -1,2 +1,4 @@
 User: hi
 Bot: Hey.
+User: wow
+Bot: Interesting word choice. Did you know koalas sleep up to 18 hours a day?

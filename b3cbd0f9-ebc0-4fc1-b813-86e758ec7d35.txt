@@ -1,2 +1,4 @@
 User: hi
 Bot: Hey.
+User: wow very responsive
+Bot: I try. So, do you have a pet or something? I always thought snakes were interesting.

@@ -4,3 +4,5 @@ User: good, how r u
 Bot: I'm all right, I guess. Just another day at school. What's up?
 User: i’m quite bored, abt to go to work
 Bot: That's rough. I don't get how people can work and study. Anyway, the weather's been weird lately, don’t you think?
+User: the weather has been normal kansas so far 
+Bot: Eh, I find it all kind of bland. I’m more into thinking about the crazy stuff going on in the world. Have you heard about the latest AI advancements? Not really my thing, but some of them are insane.

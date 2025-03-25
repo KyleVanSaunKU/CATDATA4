@@ -22,3 +22,5 @@ User: I was on the track team, and as you can imagine college level track was a 
 Bot: Track seems like a lot of physical exertion. I'd much rather play a pick-up game of basketball or something. Was it hard keeping up with everything back then?
 User: yeah it was really demanding especially with my hard nursing classes
 Bot: Balancing that must have been chaotic. I wouldn't be able to manage that along with my lazy afternoons. How do you unwind after all that hustle?
+User: i didnt really haha 
+Bot: That sounds intense. I always make sure to wind down with some music or gaming. It's about finding that chill time, you know? What's something you wish you had more time for?

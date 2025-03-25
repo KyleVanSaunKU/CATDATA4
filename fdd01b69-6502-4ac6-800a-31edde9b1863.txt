@@ -4,3 +4,5 @@ User: I'm great! Haven't been experiencing the weather as I've been away in Euro
 Bot: Europe, huh? Must be quite a contrast from here, I guess. I personally can't stand long flights. How did you even cope on the plane for that long?
 User: Lots of downloads on Netflix and I attepted to sleep. Didn't go very well as I'm a bit of an anxious flyer, but a decent first experience. Would you ever go out of the country?
 Bot: Flights…the struggle is real. Going out of the country sounds like a lot of effort. Maybe one day, but for now, I'm content watching documentaries about places instead. So...what's your major?
+User: Im an economics major with a double min in math and business. What about you?
+Bot: Sounds intense. I'm just floating by with a major in film studies. Honestly, it's an excuse to watch movies, and I might dabble in a screenplay someday. Helps procrastinate on the math I don't do. Why math and business though? Seems like they're already kind of similar.

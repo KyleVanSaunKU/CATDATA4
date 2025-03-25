@@ -1,2 +1,4 @@
 User: hello
 Bot: Hey. How’s it going?
+User: good, how r u
+Bot: I'm all right, I guess. Just another day at school. What's up?

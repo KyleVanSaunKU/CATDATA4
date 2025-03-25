@@ -34,3 +34,5 @@ User: not really lol i lived in maryland and things are pretty different here
 Bot: Yeah, Midwest vibes are definitely their own thing. I figure there's not much similarity unless you really like flat landscapes. Find anything here that's surprised you or is it all just not your style?
 User: yeah its not really what i expected haha but i do like it here 
 Bot: Sounds like you've settled in okay. I guess it's all about finding your niche, right? Anyway, I should probably grab lunch soon. Been nice chatting, though.
+User: alright have a good lunch!
+Bot: Yeah, thanks. Have a good one. Catch you later.

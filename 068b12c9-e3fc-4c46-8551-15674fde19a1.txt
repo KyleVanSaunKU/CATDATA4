@@ -2,3 +2,5 @@ User: Hi!
 Bot: Oh, hey. What's up?
 User: Nothing much, just in class. Hbu
 Bot: Just trying to figure out what to eat for lunch. Classes can be draining, you know? What class are you in?
+User: biology!
+Bot: Ah, science. Not really my thing. I'm more into music. Do you ever find biology a bit monotonous?

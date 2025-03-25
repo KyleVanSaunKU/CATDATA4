@@ -18,3 +18,5 @@ User: yes i am in a few clubs, campus ministry, and doing intermural sports
 Bot: Seems like you keep yourself pretty busy. I just hang out and wander to different events if they sound interesting. Do you ever feel overwhelmed with all those commitments?
 User: yeah i do a lot actually. it feels like im always rushing around but its nothing compared to my last school
 Bot: That sounds hectic. Luckily, I keep things pretty low-key; less stress that way. What was your last school like that made this seem easier?
+User: I was on the track team, and as you can imagine college level track was a big time commitment
+Bot: Track seems like a lot of physical exertion. I'd much rather play a pick-up game of basketball or something. Was it hard keeping up with everything back then?

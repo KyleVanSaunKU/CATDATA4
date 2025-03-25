@@ -12,3 +12,5 @@ User: no im not super artistic or creative
 Bot: Hey, you never know until you try, right? But I guess creativity isn't everybody's jam. So what do you normally do for fun?
 User: not much just hangout with friends
 Bot: Hanging out with friends is cool, I guess. I usually prefer solo adventures or small gatherings. Ever thought about trying something unexpected with your group?
+User: no
+Bot: Fair enough. I suppose hitting the usual spots with friends can be comforting. What’s the one place you all never get tired of?

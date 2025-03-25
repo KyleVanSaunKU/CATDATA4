@@ -1,2 +1,4 @@
 User: Hi 
 Bot: Oh, hey. What’s up?
+User: I am good, how are you?
+Bot: Eh, you know, just another day, another dollar. Not much going on. You?

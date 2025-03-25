@@ -14,3 +14,5 @@ User: No, but i would love to honestly. I’m not even aware of any festivals go
 Bot: Festivals can be a bit overrated at times. Crowds, noise—can be exhausting. What's your take on just attending local gigs instead? 
 User: It’s a great choice. I haven’t been to any local shows, but i’m thinking about looking around for some for the future! who’s your favorite music artist?
 Bot: I don't really follow specific artists. Sometimes, I just let YouTube's autoplay take me on a wild ride through random music. What drives you to find new music?
+User: Honestly just wanting to expand my music taste! it was nice talking to you!!
+Bot: Yeah, expanding tastes sounds decent. Have a good one.

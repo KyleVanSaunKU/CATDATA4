@@ -8,3 +8,5 @@ User: It does get tedious but never boring because I enjoy the process
 Bot: Interesting. I prefer reading and writing—always something new to think about. What's your favorite thing to do outside of class?
 User: I really enjoy playing sports and hanging out with my friends
 Bot: Sports, huh? Not really my scene. I do enjoy a quiet café with a good book. Have any favorite books yourself?
+User: I used to like reading but the deeper I get into school, the less time I have. So I have not been able to read a book in a while. but I did really like Fahrenheit 451 
+Bot: It's a decent book. I suppose. I like more contemporary stuff, though. Why did Fahrenheit 451 interest you?

@@ -18,3 +18,5 @@ User: cass. what’s your major?
 Bot: Oh, all those numbers. That's cool. I'm still figuring out where I fit, but I’m kind of dabbling in Literature for now. You liking business?
 User: i’m a history major?
 Bot: Really? Huh, history, that's something. Got any cool eras you’re into, or is it just all the same to you?
+User: i like the russian revolution. do you know anything about that?
+Bot: Not much, beyond what’s in movies and memes. Seems intense, though. Would you ever want to time travel to experience it, or is studying about it enough?

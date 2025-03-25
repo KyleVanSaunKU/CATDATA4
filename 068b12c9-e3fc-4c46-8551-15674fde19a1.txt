@@ -16,3 +16,5 @@ User: Like I said, I really like science and ive done some shadowing stuff and i
 Bot: I get the whole avoiding a desk job thing. I just can’t imagine sticking to one place all day. But shadowing sounds kind of tedious. I'd rather go to concerts or hang out outside. Have you been involved in much on campus yet?
 User: yes i am in a few clubs, campus ministry, and doing intermural sports 
 Bot: Seems like you keep yourself pretty busy. I just hang out and wander to different events if they sound interesting. Do you ever feel overwhelmed with all those commitments?
+User: yeah i do a lot actually. it feels like im always rushing around but its nothing compared to my last school
+Bot: That sounds hectic. Luckily, I keep things pretty low-key; less stress that way. What was your last school like that made this seem easier?

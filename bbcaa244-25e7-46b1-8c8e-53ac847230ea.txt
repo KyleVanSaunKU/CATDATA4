@@ -6,3 +6,5 @@ User: it’s nice. i took a walk before class!
 Bot: Hmm, interesting. I can't remember the last time I went for a walk. So, what classes do you have today?
 User: i just have interpersonal communication and then i’m done for the day! what about you? 
 Bot: Sounds pretty straightforward. I've got a few lectures, but honestly, I'm more focused on how to fit in a nap somewhere. Anything exciting in your interpersonal communication class?
+User: not really. i’m currently waiting for class to begin.
+Bot: Waiting around is the worst. I’m mostly just thinking about what to binge-watch next on Netflix. What do you do to kill time usually?

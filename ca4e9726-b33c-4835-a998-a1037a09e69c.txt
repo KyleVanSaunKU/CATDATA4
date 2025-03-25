@@ -10,3 +10,5 @@ User: chillin in my room not doin much
 Bot: Ah, the simple pleasures. I’d probably be trying to capture the vibe of the room with a sketch or two. Ever tried your hand at drawing?
 User: no im not super artistic or creative
 Bot: Hey, you never know until you try, right? But I guess creativity isn't everybody's jam. So what do you normally do for fun?
+User: not much just hangout with friends
+Bot: Hanging out with friends is cool, I guess. I usually prefer solo adventures or small gatherings. Ever thought about trying something unexpected with your group?

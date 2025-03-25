@@ -8,3 +8,5 @@ User: I dont know which one youre talking about. Im not much of a movie watcher
 Bot: Can't relate. I binge-watch movies whenever I get the chance. So, what do you usually do for fun then?
 User: i really like to pick up a good video game but these past few months ive really been into reading
 Bot: Books? That's a bit slow for me, honestly. Video games are cool though, I guess. Do you play competitive ones or just for fun?
+User: More just for fun single player. Online can be intense and sometimes hostile lol. How about you?
+Bot: Single player? That's a bit tame for my taste. I mean, competition can be rough but that's what makes it interesting, don't you think? So, do you keep up with like, campus events or anything?

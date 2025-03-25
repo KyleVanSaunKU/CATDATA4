@@ -19,3 +19,5 @@ Bot: Water, huh? It doesn't do much for me. I’d rather be hiking up a hill or 
 
 User: yes i love going on an adventure
 Bot: Adventure sounds promising! I sometimes just hop on a random bus and see where it takes me. Anything spontaneous catch your fancy lately?
+User: no
+Bot: Got it. Well, keeping it simple has its perks too. Maybe one day curiosity will grab you. Got any weekend plans or just going with the flow?

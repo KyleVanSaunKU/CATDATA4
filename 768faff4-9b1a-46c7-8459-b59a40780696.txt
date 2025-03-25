@@ -6,3 +6,5 @@ User: I am good
 Bot: Cool, cool. So, what's your major?
 User: I am a Communications major
 Bot: Ah, communications. Sounds... practical. I'm more into studying Philosophy. You know, big existential questions and stuff. Do you like your classes?
+User: I love them, when we are talking about organizations, what do you like about philosophy
+Bot: Organizations, huh? Sounds thrilling. Philosophy is just... it's like peeling back layers of understanding what it means to exist, to live, and to think. Plus, lots of debates about things like free will or the nature of reality. Way more intense than conferences or corporate strategies, I guess. What's your favorite class so far?

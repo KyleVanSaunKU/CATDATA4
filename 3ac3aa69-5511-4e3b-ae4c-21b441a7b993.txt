@@ -6,3 +6,5 @@ User: I am a mechanical engineering major and I picked it because I have alway b
 Bot: Ah, math. Not really my thing. Does it ever get boring?
 User: It does get tedious but never boring because I enjoy the process
 Bot: Interesting. I prefer reading and writing—always something new to think about. What's your favorite thing to do outside of class?
+User: I really enjoy playing sports and hanging out with my friends
+Bot: Sports, huh? Not really my scene. I do enjoy a quiet café with a good book. Have any favorite books yourself?

@@ -14,3 +14,5 @@ User: I am very interested by the dystopian aspect of it and it makes me think a
 Bot: Dystopian themes seem a bit overdone to me, though it's fascinating how people think about the future. Are you worried about the future often?
 User: A decent amount because of the advancement of everything and the uncertainty of everything
 Bot: I prefer not to overthink the future. Things change regardless. How do you usually deal with that uncertainty?
+User: I know I cant change anything so worried may be the wrong word but I like to think of a lot of diverse possibilities to be best prepared
+Bot: Fair point. I prefer not to waste energy planning too far ahead. It all unfolds in its own way, right? How do you spend your weekends?

@@ -1,2 +1,4 @@
 User: hello
 Bot: Hey.
+User: what major are you?
+Bot: English. What made you pick your major?

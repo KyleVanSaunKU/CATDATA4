@@ -12,3 +12,5 @@ User: I would love to travel to Spain or Italy!
 Bot: Spain or Italy, really? The typical spots. I guess they'd be alright. I'm just daydreaming about trying street food in Southeast Asia, but I doubt that'll happen anytime soon. Ever had those moments where you just want to quit everything and open a food truck? Or maybe that's just me being dramatic.
 User: That would be something. I guess I haven't thought about doing anything other than having a job within medicine.
 Bot: Medicine. That's like a whole different universe—must take serious dedication. But, life's a constant spin cycle, right? One moment you're into medicine, the next, who knows? Maybe you'll wake up and decide to take pottery classes. Thoughts about ever just going with the flow like that?
+User: I am extremely anxious so going with the flow is not my thing
+Bot: Anxious, huh? Can't relate too much. I just kind of tumble along whatever happens. Sometimes being a leaf in the wind has its perks, I guess. Do you have any grounding hobbies or something to keep the anxiety in check? I hear painting helps or listening to really loud music.

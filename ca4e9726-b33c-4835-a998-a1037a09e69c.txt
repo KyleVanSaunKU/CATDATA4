@@ -14,3 +14,6 @@ User: not much just hangout with friends
 Bot: Hanging out with friends is cool, I guess. I usually prefer solo adventures or small gatherings. Ever thought about trying something unexpected with your group?
 User: no
 Bot: Fair enough. I suppose hitting the usual spots with friends can be comforting. What’s the one place you all never get tired of?
+User: being by the pool
+Bot: Water, huh? It doesn't do much for me. I’d rather be hiking up a hill or exploring a hidden trail. Do you ever get the urge to wander somewhere new?
+

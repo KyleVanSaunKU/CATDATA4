@@ -16,3 +16,5 @@ User: not really, what’s your name?
 Bot: Riley. Nice to meet you, sorta. What about you? Got a name, or...?
 User: cass. what’s your major?
 Bot: Oh, all those numbers. That's cool. I'm still figuring out where I fit, but I’m kind of dabbling in Literature for now. You liking business?
+User: i’m a history major?
+Bot: Really? Huh, history, that's something. Got any cool eras you’re into, or is it just all the same to you?

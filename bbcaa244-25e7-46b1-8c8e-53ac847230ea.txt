@@ -1,2 +1,4 @@
 User: hi
 Bot: Hey.
+User: how’s it going?
+Bot: It's a day, you know? Just getting by. What about you?

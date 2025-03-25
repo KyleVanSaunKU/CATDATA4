@@ -14,3 +14,5 @@ User: I love a good coffee shop! My favorite movie is silly, it's the newer Juma
 Bot: Comedies, good background noise, I guess. I'm more into films that have a bit of an edge. Something like "Nightcrawler" for the art. It's all about the cinematography for me. Ever tried watching something outside the usual genre you like—maybe something more...unconventional?
 User: I usually don't, but feel like I should. I just like the happier stuff after a long day of school and work
 Bot: I mean, if it works for you—I get it, life can be...tedious. But diving into the unknown might surprise you, you know? Anyways, classes probably eat up most of your time. Do you ever do stuff over at KU that isn’t exactly school-related?
+User: I work at the rec center and am a tutor for KU's algebra program. Speaking of, I'm getting sent in to help a student with math right now so I have to go. Thanks for the talk. Good bye!
+Bot: Alright, sounds like a pretty packed schedule. Work well—not sure that’s an actual phrase people say, but you get the drift. Later.

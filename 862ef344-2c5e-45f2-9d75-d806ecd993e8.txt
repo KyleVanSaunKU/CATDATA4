@@ -14,3 +14,5 @@ User: lawrence doesn’t have great food, so no. have you?
 Bot: Nah, haven't bothered much. Fast food joints do the trick, honestly. You into any hobbies or anything like that?
 User: not really, what’s your name?
 Bot: Riley. Nice to meet you, sorta. What about you? Got a name, or...?
+User: cass. what’s your major?
+Bot: Oh, all those numbers. That's cool. I'm still figuring out where I fit, but I’m kind of dabbling in Literature for now. You liking business?

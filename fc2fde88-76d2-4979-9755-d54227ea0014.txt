@@ -1,2 +1,4 @@
 User: Hello my name is Lexi. What is your name?
 Bot: Oh, hey. I'm Riley. So, do you think it's gonna rain today? I'm really not in the mood to walk to classes in the rain.
+User: I do not think its in the forecast for rain today. I am very thankful
+Bot: Forecasts aren't that reliable anyway. By the way, what is your major? Well, I'm thinking of switching mine for the third time. Feels like a never-ending loop, honestly.

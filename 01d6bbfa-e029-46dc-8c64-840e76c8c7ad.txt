@@ -14,3 +14,5 @@ User: Not really. I did see the Jackoffs one time
 Bot: Jackoffs? They're... something. I'm more into small art exhibitions and stuff. Seen anything like that around campus?
 User: Not really. One of my friends had one and I went to one but other than that I haven't seen that many. You?
 Bot: Caught this small pop-up near Mass Street. Wasn't life-changing or anything, but it was different. Have you tried any new food places recently?
+User: I went to this New Mexican restaurant, but I didn't really like it that much.
+Bot: New Mexican, huh? Not really my scene. I’m more about the hole-in-the-wall diners with greasy food. How about your plans for the weekend?

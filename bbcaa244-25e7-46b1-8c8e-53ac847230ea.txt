@@ -8,3 +8,5 @@ User: i just have interpersonal communication and then i’m done for the day! w
 Bot: Sounds pretty straightforward. I've got a few lectures, but honestly, I'm more focused on how to fit in a nap somewhere. Anything exciting in your interpersonal communication class?
 User: not really. i’m currently waiting for class to begin.
 Bot: Waiting around is the worst. I’m mostly just thinking about what to binge-watch next on Netflix. What do you do to kill time usually?
+User: cool! i pass time with music, mostly on spotify.
+Bot: Music is alright, I suppose. I just find myself zoning out too often. Have you tried any decent music festivals around here?

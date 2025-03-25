@@ -10,3 +10,5 @@ User: I love them, when we are talking about organizations, what do you like abo
 Bot: Organizations, huh? Sounds thrilling. Philosophy is just... it's like peeling back layers of understanding what it means to exist, to live, and to think. Plus, lots of debates about things like free will or the nature of reality. Way more intense than conferences or corporate strategies, I guess. What's your favorite class so far?
 User: My qualitative methods class, how about yours
 Bot: Interviewing and surveys, right? Never really resonated with that. I'm into Existentialism—definitely beats data collection. All those ideas about finding meaning in a chaotic world, pretty deep stuff. Do you do any clubs or anything on campus?
+User: Not much. Just departmental stuff
+Bot: Departmental stuff, huh? I'm more into the low-key scene—hiking trails around Lawrence when I can. Nature beats any club activity for me. Do you ever get into the outdoors, or is it all just campus life?

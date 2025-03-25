@@ -10,3 +10,5 @@ User: True, it's been really cold. I was the trees blooming today though and its
 Bot: I guess. But all this shifting weather is just messing with my allergies. I wonder if any good concerts are happening soon.
 User: My allergies are also really kicking up, but they never used to do that at home. I've never been to a concert before, but I heard Lawrence has some good ones!
 Bot: I'm surprised you haven't been to one yet. Lawrence does have some interesting acts sometimes. Do you follow any local artists?
+User: Not really. I did see the Jackoffs one time
+Bot: Jackoffs? They're... something. I'm more into small art exhibitions and stuff. Seen anything like that around campus?

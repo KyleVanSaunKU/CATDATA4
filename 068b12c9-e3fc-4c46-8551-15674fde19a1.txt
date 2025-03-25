@@ -8,3 +8,5 @@ User: I really like science haha but my class rn seems to be a lot of monotony
 Bot: Yeah, sitting through that sounds exhausting. I'm all about things that keep me active, like playing guitar or trying out new cafes around town. Tried any good places to eat recently?
 User: I just moved to the area so I am still trying to find good stuff around here
 Bot: Moving can be such a hassle. I don't really care much for all the unpacking and organizing. You'll probably figure it out. You more into chain restaurants or local spots?
+User: I like local spots more but they tend to be more expensive so I really only go if my parents are paying lol
+Bot: Always good to let someone else pick up the tab, I guess. Personally, I'd rather just grab some fast food and save the cash. Any idea what you want to major in, or are you undecided like everyone else around here?

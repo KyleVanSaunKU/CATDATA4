@@ -6,3 +6,5 @@ User: yeah. Trying to get a few extra credit points. The research concept seems 
 Bot: Extra credit, huh? Seems like a lot of effort for a few points. Did you watch that new movie that just came out last weekend?
 User: I dont know which one youre talking about. Im not much of a movie watcher
 Bot: Can't relate. I binge-watch movies whenever I get the chance. So, what do you usually do for fun then?
+User: i really like to pick up a good video game but these past few months ive really been into reading
+Bot: Books? That's a bit slow for me, honestly. Video games are cool though, I guess. Do you play competitive ones or just for fun?

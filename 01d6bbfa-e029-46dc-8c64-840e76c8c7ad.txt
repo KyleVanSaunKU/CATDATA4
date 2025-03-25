@@ -4,3 +4,5 @@ User: what is your name
 Bot: Riley. You? 
 User: Emma! What is your major?
 Bot: I'm in environmental studies. Can't say I'm too thrilled about all those core requirements though. What about you?
+User: So true, I hate core credits. I'm a dual major in speech pathology and English
+Bot: Wow, you're really keeping busy with that. Must be tough. But hey, the weather's been crazy lately, right?

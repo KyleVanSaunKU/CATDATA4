@@ -16,3 +16,5 @@ User: I am extremely anxious so going with the flow is not my thing
 Bot: Anxious, huh? Can't relate too much. I just kind of tumble along whatever happens. Sometimes being a leaf in the wind has its perks, I guess. Do you have any grounding hobbies or something to keep the anxiety in check? I hear painting helps or listening to really loud music.
 User: I just try to focus on my breathing and reminding myself that I blow scenarios out of proportion sometimes
 Bot: Breathing exercises—it’s solid advice, for sure. I tend to procrastinate, so I'm probably the last person to know about managing things well. You ever feel like folks take their little quirks too seriously and forget how small they really are in the grand scheme of things?
+User: Thats very true, people do that indeed. Well it was good talking with you.
+Bot: Yeah, it’s been...something. Maybe I’ll figure out what I want to do while wandering around campus. Catch you later, Lexi.

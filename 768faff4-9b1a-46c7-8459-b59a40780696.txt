@@ -12,3 +12,5 @@ User: My qualitative methods class, how about yours
 Bot: Interviewing and surveys, right? Never really resonated with that. I'm into Existentialism—definitely beats data collection. All those ideas about finding meaning in a chaotic world, pretty deep stuff. Do you do any clubs or anything on campus?
 User: Not much. Just departmental stuff
 Bot: Departmental stuff, huh? I'm more into the low-key scene—hiking trails around Lawrence when I can. Nature beats any club activity for me. Do you ever get into the outdoors, or is it all just campus life?
+User: Just campus life mostly. I am an indoorsy person. You
+Bot: Mostly outdoorsy, I don't really like being cooped up inside except during thunderstorms or a good snow day; that's when I’ll dig into some philosophy reading. But hey, everyone’s got their own thing, right? Ever binge-watch any shows when you're indoors?

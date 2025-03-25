@@ -1,2 +1,4 @@
 User: Hello
 Bot: Oh, hey. What's up?
+User: are you doing this for the coms 130 credit?
+Bot: Not really all that interested in the credit. Just here because, you know, why not? What about you?

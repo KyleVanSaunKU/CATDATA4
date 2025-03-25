@@ -14,3 +14,5 @@ User: That would be something. I guess I haven't thought about doing anything ot
 Bot: Medicine. That's like a whole different universe—must take serious dedication. But, life's a constant spin cycle, right? One moment you're into medicine, the next, who knows? Maybe you'll wake up and decide to take pottery classes. Thoughts about ever just going with the flow like that?
 User: I am extremely anxious so going with the flow is not my thing
 Bot: Anxious, huh? Can't relate too much. I just kind of tumble along whatever happens. Sometimes being a leaf in the wind has its perks, I guess. Do you have any grounding hobbies or something to keep the anxiety in check? I hear painting helps or listening to really loud music.
+User: I just try to focus on my breathing and reminding myself that I blow scenarios out of proportion sometimes
+Bot: Breathing exercises—it’s solid advice, for sure. I tend to procrastinate, so I'm probably the last person to know about managing things well. You ever feel like folks take their little quirks too seriously and forget how small they really are in the grand scheme of things?

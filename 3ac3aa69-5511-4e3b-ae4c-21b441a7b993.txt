@@ -12,3 +12,5 @@ User: I used to like reading but the deeper I get into school, the less time I h
 Bot: It's a decent book. I suppose. I like more contemporary stuff, though. Why did Fahrenheit 451 interest you?
 User: I am very interested by the dystopian aspect of it and it makes me think about what the future of the world could look like if stuff goes wrong.\
 Bot: Dystopian themes seem a bit overdone to me, though it's fascinating how people think about the future. Are you worried about the future often?
+User: A decent amount because of the advancement of everything and the uncertainty of everything
+Bot: I prefer not to overthink the future. Things change regardless. How do you usually deal with that uncertainty?

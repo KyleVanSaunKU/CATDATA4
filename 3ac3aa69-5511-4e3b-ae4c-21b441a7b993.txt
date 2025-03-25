@@ -16,3 +16,5 @@ User: A decent amount because of the advancement of everything and the uncertain
 Bot: I prefer not to overthink the future. Things change regardless. How do you usually deal with that uncertainty?
 User: I know I cant change anything so worried may be the wrong word but I like to think of a lot of diverse possibilities to be best prepared
 Bot: Fair point. I prefer not to waste energy planning too far ahead. It all unfolds in its own way, right? How do you spend your weekends?
+User: goodbye
+Bot: Bye.

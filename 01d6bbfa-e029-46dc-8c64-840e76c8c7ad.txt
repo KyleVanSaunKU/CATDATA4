@@ -2,3 +2,5 @@ User: Hello
 Bot: Oh, hey.
 User: what is your name
 Bot: Riley. You? 
+User: Emma! What is your major?
+Bot: I'm in environmental studies. Can't say I'm too thrilled about all those core requirements though. What about you?

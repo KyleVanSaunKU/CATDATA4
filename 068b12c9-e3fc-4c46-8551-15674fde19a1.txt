@@ -32,3 +32,5 @@ User: i am still just chilling with it now but i will probably sign up for the n
 Bot: Good to take it easy until you're ready. I'm mostly focused on just exploring new spots around town and seeing what pops up. Do you have a favorite place here that reminds you of back home?
 User: not really lol i lived in maryland and things are pretty different here
 Bot: Yeah, Midwest vibes are definitely their own thing. I figure there's not much similarity unless you really like flat landscapes. Find anything here that's surprised you or is it all just not your style?
+User: yeah its not really what i expected haha but i do like it here 
+Bot: Sounds like you've settled in okay. I guess it's all about finding your niche, right? Anyway, I should probably grab lunch soon. Been nice chatting, though.

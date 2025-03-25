@@ -12,3 +12,5 @@ User: I like local spots more but they tend to be more expensive so I really onl
 Bot: Always good to let someone else pick up the tab, I guess. Personally, I'd rather just grab some fast food and save the cash. Any idea what you want to major in, or are you undecided like everyone else around here?
 User: I am a nursing major 
 Bot: Wow, that’s intense. I prefer more laid-back stuff. I guess I just wouldn’t have the patience for the medical field. Any particular reason you chose nursing?
+User: Like I said, I really like science and ive done some shadowing stuff and it just seems like a career i will enjoy. I also like interaction so an office job is not for me
+Bot: I get the whole avoiding a desk job thing. I just can’t imagine sticking to one place all day. But shadowing sounds kind of tedious. I'd rather go to concerts or hang out outside. Have you been involved in much on campus yet?

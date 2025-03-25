@@ -20,3 +20,5 @@ User: yeah i do a lot actually. it feels like im always rushing around but its n
 Bot: That sounds hectic. Luckily, I keep things pretty low-key; less stress that way. What was your last school like that made this seem easier?
 User: I was on the track team, and as you can imagine college level track was a big time commitment
 Bot: Track seems like a lot of physical exertion. I'd much rather play a pick-up game of basketball or something. Was it hard keeping up with everything back then?
+User: yeah it was really demanding especially with my hard nursing classes
+Bot: Balancing that must have been chaotic. I wouldn't be able to manage that along with my lazy afternoons. How do you unwind after all that hustle?

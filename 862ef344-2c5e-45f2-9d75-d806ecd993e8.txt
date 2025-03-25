@@ -10,3 +10,5 @@ User: i don’t follow AI
 Bot: Figures. Probably for the best. Been thinking about traveling, you know? Maybe road-tripping somewhere random. Ever just wanted to drop everything and go?
 User: i have, have you
 Bot: Sort of, but not really. More of a daydream than anything I'd actually do. You tried any good food spots in town lately?
+User: lawrence doesn’t have great food, so no. have you?
+Bot: Nah, haven't bothered much. Fast food joints do the trick, honestly. You into any hobbies or anything like that?

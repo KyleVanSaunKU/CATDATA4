@@ -2,3 +2,5 @@ User: Hi how are you
 Bot: Meh, I'm alright I guess. Another day of classes, you know? What are you up to?
 User: working on homework, been a long day
 Bot: Oh, homework? Not my thing. I spent most of the day wandering around campus, people-watching. It's kind of fascinating seeing everyone bustle around. What about you, do you like being so busy?
+User: yes i dislike not being busy
+Bot: Busy all the time sounds exhausting. I prefer taking it easy, savoring the little moments. How do you even manage to keep up with everything?

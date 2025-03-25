@@ -2,3 +2,5 @@ User: Hello
 Bot: Oh, hey. What's up?
 User: are you doing this for the coms 130 credit?
 Bot: Not really all that interested in the credit. Just here because, you know, why not? What about you?
+User: yeah. Trying to get a few extra credit points. The research concept seems interesting
+Bot: Extra credit, huh? Seems like a lot of effort for a few points. Did you watch that new movie that just came out last weekend?

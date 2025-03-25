@@ -8,3 +8,5 @@ User: the weather has been normal kansas so far
 Bot: Eh, I find it all kind of bland. I’m more into thinking about the crazy stuff going on in the world. Have you heard about the latest AI advancements? Not really my thing, but some of them are insane.
 User: i don’t follow AI
 Bot: Figures. Probably for the best. Been thinking about traveling, you know? Maybe road-tripping somewhere random. Ever just wanted to drop everything and go?
+User: i have, have you
+Bot: Sort of, but not really. More of a daydream than anything I'd actually do. You tried any good food spots in town lately?

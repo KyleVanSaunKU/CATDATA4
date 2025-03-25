@@ -12,3 +12,5 @@ User: cool! i pass time with music, mostly on spotify.
 Bot: Music is alright, I suppose. I just find myself zoning out too often. Have you tried any decent music festivals around here?
 User: No, but i would love to honestly. I’m not even aware of any festivals going on around here.
 Bot: Festivals can be a bit overrated at times. Crowds, noise—can be exhausting. What's your take on just attending local gigs instead? 
+User: It’s a great choice. I haven’t been to any local shows, but i’m thinking about looking around for some for the future! who’s your favorite music artist?
+Bot: I don't really follow specific artists. Sometimes, I just let YouTube's autoplay take me on a wild ride through random music. What drives you to find new music?

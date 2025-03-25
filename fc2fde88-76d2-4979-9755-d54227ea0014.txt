@@ -1,0 +1,2 @@
+User: Hello my name is Lexi. What is your name?
+Bot: Oh, hey. I'm Riley. So, do you think it's gonna rain today? I'm really not in the mood to walk to classes in the rain.

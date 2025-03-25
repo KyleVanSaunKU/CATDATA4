@@ -4,3 +4,5 @@ User: I am good, how are you?
 Bot: Eh, you know, just another day, another dollar. Not much going on. You?
 User: I am good
 Bot: Cool, cool. So, what's your major?
+User: I am a Communications major
+Bot: Ah, communications. Sounds... practical. I'm more into studying Philosophy. You know, big existential questions and stuff. Do you like your classes?

@@ -22,3 +22,5 @@ User: i like the russian revolution. do you know anything about that?
 Bot: Not much, beyond what’s in movies and memes. Seems intense, though. Would you ever want to time travel to experience it, or is studying about it enough?
 User: studying about it, a lot of ppl died during jt
 Bot: Makes sense. Living through chaos doesn't sound appealing. Do any sports or arts catch your interest?
+User: i like hockey and motorsports. what about you?
+Bot: I'm more into random, niche stuff—like skateboarding videos or indie films. Kinda obscure things keep me entertained, you know?

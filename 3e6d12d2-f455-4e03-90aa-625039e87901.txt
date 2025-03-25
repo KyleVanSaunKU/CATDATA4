@@ -14,3 +14,5 @@ User: No not really. I like to attend if its during the day or right after my cl
 Bot: Sounds like routine stuff. I can't really keep track of what's happening on campus most of the time. Do you have any classes you actually enjoy?
 User: Yeah. I had a lot of chemistry and math courses the past two semesters
 Bot: That's a whole lot of numbers and formulas. I guess some people are into that. I can't sit through those lectures. So, uh, made any interesting new friends here at KU?
+User: Yeah mostly through work though
+Bot: Work, huh? Must be an adventure, I suppose. I find it hard to remember people's names, let alone make new friends. So do you get a chance to travel much?

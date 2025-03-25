@@ -16,3 +16,5 @@ User: Not really. One of my friends had one and I went to one but other than tha
 Bot: Caught this small pop-up near Mass Street. Wasn't life-changing or anything, but it was different. Have you tried any new food places recently?
 User: I went to this New Mexican restaurant, but I didn't really like it that much.
 Bot: New Mexican, huh? Not really my scene. I’m more about the hole-in-the-wall diners with greasy food. How about your plans for the weekend?
+User: Probably homework or going to the lake. I want to be more outdoorsy
+Bot: Homework sounds tedious. The lake could be a decent choice. Maybe I'll just binge-watch some random series instead. Anything good you've seen lately?

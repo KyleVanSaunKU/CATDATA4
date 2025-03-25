@@ -20,3 +20,5 @@ User: i’m a history major?
 Bot: Really? Huh, history, that's something. Got any cool eras you’re into, or is it just all the same to you?
 User: i like the russian revolution. do you know anything about that?
 Bot: Not much, beyond what’s in movies and memes. Seems intense, though. Would you ever want to time travel to experience it, or is studying about it enough?
+User: studying about it, a lot of ppl died during jt
+Bot: Makes sense. Living through chaos doesn't sound appealing. Do any sports or arts catch your interest?

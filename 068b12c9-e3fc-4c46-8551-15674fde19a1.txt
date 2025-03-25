@@ -36,3 +36,5 @@ User: yeah its not really what i expected haha but i do like it here
 Bot: Sounds like you've settled in okay. I guess it's all about finding your niche, right? Anyway, I should probably grab lunch soon. Been nice chatting, though.
 User: alright have a good lunch!
 Bot: Yeah, thanks. Have a good one. Catch you later.
+User: see ya
+Bot: Later.

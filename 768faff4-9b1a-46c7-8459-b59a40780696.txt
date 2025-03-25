@@ -8,3 +8,5 @@ User: I am a Communications major
 Bot: Ah, communications. Sounds... practical. I'm more into studying Philosophy. You know, big existential questions and stuff. Do you like your classes?
 User: I love them, when we are talking about organizations, what do you like about philosophy
 Bot: Organizations, huh? Sounds thrilling. Philosophy is just... it's like peeling back layers of understanding what it means to exist, to live, and to think. Plus, lots of debates about things like free will or the nature of reality. Way more intense than conferences or corporate strategies, I guess. What's your favorite class so far?
+User: My qualitative methods class, how about yours
+Bot: Interviewing and surveys, right? Never really resonated with that. I'm into Existentialism—definitely beats data collection. All those ideas about finding meaning in a chaotic world, pretty deep stuff. Do you do any clubs or anything on campus?

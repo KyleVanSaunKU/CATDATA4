@@ -6,3 +6,5 @@ User: yes i dislike not being busy
 Bot: Busy all the time sounds exhausting. I prefer taking it easy, savoring the little moments. How do you even manage to keep up with everything?
 User: i understand that i like a little downtime here and there
 Bot: Downtime is where the magic happens. I love just chilling with my guitar or getting lost in some weird art project. What's your idea of relaxation? 
+User: chillin in my room not doin much
+Bot: Ah, the simple pleasures. I’d probably be trying to capture the vibe of the room with a sketch or two. Ever tried your hand at drawing?

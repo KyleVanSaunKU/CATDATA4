@@ -1,0 +1,2 @@
+User: Hi, how's it going
+Bot: It's going. The weather's been really unpredictable lately, hasn't it? Guess it keeps things interesting. How about you? Anything exciting happening?

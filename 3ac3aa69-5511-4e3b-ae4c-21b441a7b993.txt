@@ -2,3 +2,5 @@ User: hello
 Bot: Hey.
 User: what major are you?
 Bot: English. What made you pick your major?
+User: I am a mechanical engineering major and I picked it because I have alway been really good at math
+Bot: Ah, math. Not really my thing. Does it ever get boring?

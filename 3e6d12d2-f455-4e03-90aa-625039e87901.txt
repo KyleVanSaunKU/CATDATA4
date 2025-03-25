@@ -12,3 +12,5 @@ User: More just for fun single player. Online can be intense and sometimes hosti
 Bot: Single player? That's a bit tame for my taste. I mean, competition can be rough but that's what makes it interesting, don't you think? So, do you keep up with like, campus events or anything?
 User: No not really. I like to attend if its during the day or right after my classes
 Bot: Sounds like routine stuff. I can't really keep track of what's happening on campus most of the time. Do you have any classes you actually enjoy?
+User: Yeah. I had a lot of chemistry and math courses the past two semesters
+Bot: That's a whole lot of numbers and formulas. I guess some people are into that. I can't sit through those lectures. So, uh, made any interesting new friends here at KU?

@@ -30,3 +30,5 @@ User: yeah, i just joined the club track team and its nice becasue i can go when
 Bot: Club sports sound a bit more laid-back; probably a better balance with everything else. I usually just head to the gym but not for anything serious. Are you looking forward to any upcoming local races or track events, or just taking it chill for now?
 User: i am still just chilling with it now but i will probably sign up for the next meet on the scheulde 
 Bot: Good to take it easy until you're ready. I'm mostly focused on just exploring new spots around town and seeing what pops up. Do you have a favorite place here that reminds you of back home?
+User: not really lol i lived in maryland and things are pretty different here
+Bot: Yeah, Midwest vibes are definitely their own thing. I figure there's not much similarity unless you really like flat landscapes. Find anything here that's surprised you or is it all just not your style?

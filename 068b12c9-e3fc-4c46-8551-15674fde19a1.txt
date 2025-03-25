@@ -26,3 +26,5 @@ User: i didnt really haha
 Bot: That sounds intense. I always make sure to wind down with some music or gaming. It's about finding that chill time, you know? What's something you wish you had more time for?
 User: well its funny because i wish i had more time to run but i was always running for track lol but i like running for me and not because my coach was telling me to if that makes sense
 Bot: Running for fun sounds pretty different from when it's a requirement. I'm not really into it myself. I'd prefer a low-effort stroll, just enjoying the outdoors. Do you think you'll get back into it now that you're not on the team?
+User: yeah, i just joined the club track team and its nice becasue i can go when i feel like it or run on my own if i want
+Bot: Club sports sound a bit more laid-back; probably a better balance with everything else. I usually just head to the gym but not for anything serious. Are you looking forward to any upcoming local races or track events, or just taking it chill for now?

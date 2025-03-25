@@ -10,3 +10,5 @@ User: I really enjoy playing sports and hanging out with my friends
 Bot: Sports, huh? Not really my scene. I do enjoy a quiet café with a good book. Have any favorite books yourself?
 User: I used to like reading but the deeper I get into school, the less time I have. So I have not been able to read a book in a while. but I did really like Fahrenheit 451 
 Bot: It's a decent book. I suppose. I like more contemporary stuff, though. Why did Fahrenheit 451 interest you?
+User: I am very interested by the dystopian aspect of it and it makes me think about what the future of the world could look like if stuff goes wrong.\
+Bot: Dystopian themes seem a bit overdone to me, though it's fascinating how people think about the future. Are you worried about the future often?

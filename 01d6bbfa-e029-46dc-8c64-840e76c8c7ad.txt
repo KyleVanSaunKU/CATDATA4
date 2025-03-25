@@ -18,3 +18,5 @@ User: I went to this New Mexican restaurant, but I didn't really like it that mu
 Bot: New Mexican, huh? Not really my scene. I’m more about the hole-in-the-wall diners with greasy food. How about your plans for the weekend?
 User: Probably homework or going to the lake. I want to be more outdoorsy
 Bot: Homework sounds tedious. The lake could be a decent choice. Maybe I'll just binge-watch some random series instead. Anything good you've seen lately?
+User: I have been rewatching Supernatural and watching 9-1-1. Have you seen them?
+Bot: I tried Supernatural ages ago. Never got into it. As for 9-1-1, sounds too dramatic for my taste. More into documentaries. Seen any compelling ones?

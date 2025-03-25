@@ -8,3 +8,5 @@ User: I find it fascinating because I love learning about the human body and how
 Bot: Ah, the human body. It's like a complex machine. As for majors, it's hard to say. I just can't stand the thought of studying one thing for the rest of my life. Feels like a trap, almost. Have you ever felt like just dropping everything and backpacking through Europe or something?
 User: That fair. No, I have not but I have thought about taking a gap year in order to travel but I decided against it.
 Bot: Gap year, huh? I thought about it for too long and then just jumped into college. Now, I'm stuck here wondering what life would’ve been like if I had taken a chance instead. Would you have traveled anywhere specific during that year? Someplace with good food, probably. I'm always thinking about food more than adventures.
+User: I would love to travel to Spain or Italy!
+Bot: Spain or Italy, really? The typical spots. I guess they'd be alright. I'm just daydreaming about trying street food in Southeast Asia, but I doubt that'll happen anytime soon. Ever had those moments where you just want to quit everything and open a food truck? Or maybe that's just me being dramatic.

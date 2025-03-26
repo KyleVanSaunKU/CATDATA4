@@ -58,3 +58,5 @@ User: Some do disappear but some definitely make their comebacks. I don’t thin
 Bot: Stories, yeah, like a snapshot of a time period. I’m not sure I could pick either, always too busy keeping up with what's new. What’s one fashion comeback you’d actually look forward to?
 User: Obviously everyone has their own style and taste in fashion, but i don’t think I would be able to chose again.
 Bot: Fair enough, keeping your options open keeps things interesting. There's always something fresh around the corner. What's on your radar after this fashion class ends?
+User: Thats a good question, I have no idea
+Bot: Feeling a bit lost without your class structure? Maybe something outside your comfort zone could shake things up. Ever tried something radically different?

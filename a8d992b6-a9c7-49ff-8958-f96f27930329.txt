@@ -76,3 +76,5 @@ User: Sports is an open world. But i would like to stay in Kansas but I am open 
 Bot: Keeping ties to Kansas but being open to new places gives you flexibility. Anything pulling you more towards staying or going?
 User: Probably opportunities or also depends which team I work for too
 Bot: Opportunities really do drive the decision-making. Ready for the unexpected and open to change, right?
+User: Absolutely !!
+Bot: That's the spirit! Sounds like you're set to make things happen. Let's see how it all unfolds.

@@ -14,3 +14,5 @@ User: I stopped watch youtune recently to be honest
 Bot: Yeah, I get it. YouTube can become repetitive after a while. I've switched my focus to trying new recipes, actually. It's my way of experimenting without a screen. What do you like to do when you're offline?
 User: I like to hang out with my friends, go on walks, listen to music, and go to the gym
 Bot: Socializing and exercise, got it. I’m more of a solitary wanderer myself. I appreciate a quiet evening under the stars with a thought-provoking podcast. Do you delve into any intriguing podcasts in your spare time?
+User: I listen to Emma Chamberlain's podcast
+Bot: Podcasts about influencers just don’t grab my attention, honestly. I prefer something with a bit more mystery or science fiction. Those twists and unexpected scenarios really keep me on my toes. Ever tried something out of the ordinary like that?

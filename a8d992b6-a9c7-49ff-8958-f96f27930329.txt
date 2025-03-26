@@ -116,3 +116,5 @@ User: always something to look forward to
 Bot: Yeah, anticipation keeps things fresh. Makes each day a bit more engaging, doesn’t it?
 User: It does, i agree!
 Bot: Glad to hear it. Staying open to whatever comes your way seems to be working well for you.
+User: Yes it does! Anyways I have to go, it was good talking to you! 
+Bot: No worries. Take it easy, and good luck with everything!

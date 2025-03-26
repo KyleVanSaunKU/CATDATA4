@@ -44,3 +44,5 @@ User: Probably a necklace that my handed down to me that she actuality thrifted
 Bot: That's pretty neat, gives it some history too. Hand-me-downs seem to carry more meaning than something just picked up from a store. Do you ever wonder about its past?
 User: They definitely have more meaning. I do wonder about the past they hold, just a natural thing
 Bot: Yeah, thinking about its origins can be kind of intriguing. Ever considered writing down its story or passing it down further yourself?
+User: Definitely passing it down for sure
+Bot: That’s a nice tradition to keep going. A bit more special than just buying something new. Do you already know who you'd pass it to?

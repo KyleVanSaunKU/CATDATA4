@@ -94,3 +94,5 @@ User: I just saw a template i liked from a creator that she created, and copied 
 Bot: Makes sense, ready-made solutions can save time. Still a bit intimidated by all those features myself. Do you customize it a lot or just stick to the basics?
 User: Just stick to the basics
 Bot: The basics help avoid over-complication, definitely more my speed, too. Guess it's easy to stay organized when you don't get bogged down by all the extra stuff.
+User: very true. I try to stick to the simple 
+Bot: Simple keeps it manageable. Less stress that way, right? Ever slip back into chaos despite the organization?

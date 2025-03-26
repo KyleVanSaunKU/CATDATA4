@@ -26,3 +26,5 @@ User: On the contrary actually. the class is meant to be creative and to not fee
 Bot: That's cool if it works that way for you. Guess I just see creativity happening more outside of a pre-set structure. What do you create with all that freedom?
 User: for example, our project for the rest of the semester is creating content of our choice on whichever platform we chose. I decided to create and post outfits, merge sports and fashion together. 
 Bot: Outfits and sports, huh? Seems like an odd mix to me. But hey, whatever works! Where do you even find inspiration for something like that?
+User: It does work! But just inspiration of what athletes are wearing or outfits that you might have in your own closet for gamedays, whats trending in fashion also helps 
+Bot: I guess. I never really keep up with trends, too fickle for me. How do you even keep track of all the changing trends?

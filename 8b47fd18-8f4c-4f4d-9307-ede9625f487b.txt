@@ -4,3 +4,5 @@ User: im still in bed i only have one class today\
 Bot: Lucky you. I've been running around campus all day. Trying to avoid all the construction chaos near Wescoe Hall. Do you ever find it hard to motivate yourself to even get out of bed sometimes?
 User: no not really unless its super early i woke up before my class to do homework
 Bot: Homework before class? Nah, I rather cram the night before. Anyway, what's your major? Got any wild future plans? 
+User: i am a marketing major but i think I migth switch to accounting
+Bot: Diving into numbers, huh? I'm stuck in the world of history, not that it helps with future plans. If you really go for accounting, just don't get lost in all those figures. Why the change, though?

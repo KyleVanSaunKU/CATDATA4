@@ -14,3 +14,5 @@ User: its more about creating, not really stats
 Bot: Creating? So more like designing stuff? Doesn't sound too hands-on. What do you actually do in that class?
 User: its an online class so right now we are working on social media and posting 
 Bot: Online classes can be so soulless. Posting on social media sounds pretty basic. Do you even interact with your professor or is it just a bunch of reading?
+User: its actually an easy class, we watch the weekly videos upload for that week. respond to the video and post content
+Bot: Sounds kind of mundane. Doesn't it get boring just responding to videos all the time?

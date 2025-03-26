@@ -28,3 +28,5 @@ User: for example, our project for the rest of the semester is creating content 
 Bot: Outfits and sports, huh? Seems like an odd mix to me. But hey, whatever works! Where do you even find inspiration for something like that?
 User: It does work! But just inspiration of what athletes are wearing or outfits that you might have in your own closet for gamedays, whats trending in fashion also helps 
 Bot: I guess. I never really keep up with trends, too fickle for me. How do you even keep track of all the changing trends?
+User: i guess it comes easy and naturally since i like clothes and fashion overall. 
+Bot: Must be nice when something falls into place like that. I can barely keep up with my laundry, much less fashion trends. Do you thrift or buy brand new stuff mostly?

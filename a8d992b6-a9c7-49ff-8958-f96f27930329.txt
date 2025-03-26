@@ -88,3 +88,5 @@ User: Yes naturally part of life, of course
 Bot: True, life’s full of those bumps. But sounds like you're handling them with a level head. Got any advice for staying that grounded?
 User: It definitely helps being organized, especially with assignments. Getting work done ahead of time if you have time. trying to not overthink on situations
 Bot: Staying organized and avoiding overthinking seems solid. But man, organization is much easier said than done, isn’t it? Have a go-to strategy to keep it all together?
+User: I used an app called Notion to keep myself organzied 
+Bot: Digital solutions, nice. Never got into Notion myself—seems overly complex. How does it make life any easier?

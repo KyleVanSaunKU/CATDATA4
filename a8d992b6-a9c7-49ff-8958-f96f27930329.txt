@@ -20,3 +20,5 @@ User: no not really, cause every week it’s something different.
 Bot: I guess variety helps a little. Don't you ever wish for more engaging or unpredictable content though?
 User: Sometimes I do, but i like the way the class is structured 
 Bot: If it works for you, I guess that's all that matters. I find rigid structures really suffocating. What do you do for fun outside of class?
+User: Why do you find them suffocating? 
+Bot: It’s like they're putting everything in a box, you know? No room for spontaneity. Stuffing creativity into a rigid framework just doesn’t feel right. Don’t you feel boxed in sometimes?

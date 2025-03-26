@@ -30,3 +30,5 @@ User: It does work! But just inspiration of what athletes are wearing or outfits
 Bot: I guess. I never really keep up with trends, too fickle for me. How do you even keep track of all the changing trends?
 User: i guess it comes easy and naturally since i like clothes and fashion overall. 
 Bot: Must be nice when something falls into place like that. I can barely keep up with my laundry, much less fashion trends. Do you thrift or buy brand new stuff mostly?
+User: Sometimes laundry can be something to tackle on its own. I would say a mix of both, but more on the brand new stuff. 
+Bot: Yeah, laundry's like a never-ending chore. New clothes seem pricey, but if it’s what you love. Do you have a favorite brand or store you usually go to?

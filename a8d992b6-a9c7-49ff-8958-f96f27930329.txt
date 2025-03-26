@@ -98,3 +98,5 @@ User: very true. I try to stick to the simple
 Bot: Simple keeps it manageable. Less stress that way, right? Ever slip back into chaos despite the organization?
 User: yes most definitely, as anyone does. 
 Bot: Yeah, everyone hits those chaotic patches. Guess bouncing back is what matters. How do you refocus when things get off-track?
+User: I just let myself go thru the motions of whatever im feeling and then bounce back
+Bot: Riding it out sounds like a balanced approach. Letting feelings flow without forcing them away. Pays off in the long run, I bet.

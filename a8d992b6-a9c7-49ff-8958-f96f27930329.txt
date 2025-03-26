@@ -108,3 +108,5 @@ User: more chill music helps
 Bot: Chill music can set a calm vibe. Ever mix in anything unexpected?
 User: depends how im feeling to be honest 
 Bot: True, mood has its own playlist. Guess it's all about what you need in the moment. 
+User: yes very much so!
+Bot: Good way to keep things flexible. Always a new soundtrack for whatever the day throws at you.

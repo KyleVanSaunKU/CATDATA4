@@ -6,3 +6,5 @@ User: I have not but I love to help my dad with remodeling and projects like tha
 Bot: Remodeling, huh? Sounds like a lot of hard work. I get pretty burnt out just thinking about it. All those power tools must be loud, aren't they?
 User: meh they are not too bad. When do you plan to do this project?
 Bot: To be honest, I'm not sure if I'll get to it anytime soon. I've just been more into lazy afternoons at the park, watching the clouds roll by. Much quieter than a clanging hammer. What about any hobbies you enjoy?
+User: I dont have many hobbies. I like to shop, read a little, watch tv. Just kind of the typical stuff. What are your hobbies?
+Bot: Well, when I’m not daydreaming, I guess I sort of dabble in collecting random knick-knacks, anything from old train tickets to vintage postcards. It just seems like every piece has its own little story, you know? You said you shop a lot; find any unique treasures or just the usual?

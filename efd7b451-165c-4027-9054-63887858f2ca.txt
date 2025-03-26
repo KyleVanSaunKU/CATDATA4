@@ -8,3 +8,5 @@ User: I love going on walks to think, what have you been watching?
 Bot: Walks, huh? I guess that's nice if you're into that kind of thing. I've been flipping through some old sitcoms; they help pass the time. Didn't keep track of the names, though. Do you ever get bored with routines?
 User: Yeah sometimes but every time I switch it up something too chaotic happens 
 Bot: Chaos can be interesting, I guess. It’s all about breaking out of the mundane, right? I suppose embracing the unexpected is part of the fun. Ever try doing something completely out of character just for the thrill?
+User: yes in moderation though for sure
+Bot: Moderation, huh? I think I'd rather leap into it with both feet and see where I land. Isn't staying grounded a bit overrated sometimes?

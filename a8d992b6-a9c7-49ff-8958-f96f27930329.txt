@@ -52,3 +52,5 @@ User: I think they would see it as vintage in their eyes as well. but who knows
 Bot: Fashion’s always shifting, yeah. They'll probably call today's trends "retro" someday. What about you—do you ever future-proof your wardrobe, or just go with the flow? 
 User: its always changing or trends come and go and come back again. 
 Bot: Exactly, just a big cycle. Sometimes I wonder if it ever really changes or if it’s just recycled ideas. Do you think there's truly anything new in fashion anymore?
+User: I think people just recycle ideas. like how fashion from the early 2000's came back. 
+Bot: True, nothing's really gone forever. I kind of like how some things just refuse to disappear completely. Would you say you have a favorite fashion era?

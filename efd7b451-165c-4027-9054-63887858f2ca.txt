@@ -1,0 +1,2 @@
+User: Hi, how are you?
+Bot: Oh, I'm hanging in there. Just another day in the life. What about you? Doing anything exciting or just the usual grind?

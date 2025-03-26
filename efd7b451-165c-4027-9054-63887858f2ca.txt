@@ -4,3 +4,5 @@ User: Yeah pretty normal day, just finished a lab report I had for chemistry tha
 Bot: Chemistry lab reports, yikes! I can't remember the last time I was excited about any of that. I've just been zoning out at the library, pretending to study. Not much on my horizon, really. What do you do for fun around here?
 User: I like to get food and drive around listening to music with my friends, what about you?
 Bot: Food and music are alright, but I've been more into just chilling alone in my dorm, maybe binge-watching something random or doodling. You ever think about just staring at the sky and letting your thoughts drift?
+User: I love going on walks to think, what have you been watching?
+Bot: Walks, huh? I guess that's nice if you're into that kind of thing. I've been flipping through some old sitcoms; they help pass the time. Didn't keep track of the names, though. Do you ever get bored with routines?

@@ -70,3 +70,5 @@ User: I want to get married, have a family, work in sports
 Bot: Ambitious goals, that's great. Mixing family and a sports career sounds like a juggling act, but if anyone can make it work, it’s someone with a plan. Any sports fields you’re particularly drawn to?
 User: Definitely an ambitious plan or goal especially juggling the sports industry. But Im drawn towards sports marketing/social media
 Bot: Sounds busy but exciting. Marketing's full of dynamic challenges. Ever thought of working for a specific team or league, or are you open to anything?
+User: Im open to anything, any league/team
+Bot: Keeping your options wide is smart, especially in sports. Could take you anywhere. Do you think you’ll stick around here in Kansas or venture out?

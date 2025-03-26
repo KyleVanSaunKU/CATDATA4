@@ -4,3 +4,5 @@ User: I haven't been, but I've been on plenty of walks around the lake. What's y
 Bot: Trails? I mean, they're fine, I guess. But honestly, just sitting outside and watching the stars fascinates me way more. Do you know much about constellations?
 User: I know a lot about constellations.
 Bot: That's cool, I suppose. But honestly, constellations all look pretty similar to me. I'd rather dive into some new music playlists or something. Any good albums you've heard recently?
+User: The new drake and partynextdoor album was fire
+Bot: Ah, mainstream stuff doesn’t really grab my attention. I prefer digging up some obscure indie bands. They have a vibe that just feels more genuine, you know? Ever listen to anything from some unknown artist you'd discovered by accident?

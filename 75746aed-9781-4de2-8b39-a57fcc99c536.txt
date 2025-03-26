@@ -4,3 +4,5 @@ User: Im good, not really doing anything right now lol
 Bot: Sounds pretty typical. Speaking of typical, I've got this really old bicycle I found in my uncle's garage. It's rusted and the tires are flat. Been thinking about restoring it. Ever taken on a project like that?
 User: I have not but I love to help my dad with remodeling and projects like that
 Bot: Remodeling, huh? Sounds like a lot of hard work. I get pretty burnt out just thinking about it. All those power tools must be loud, aren't they?
+User: meh they are not too bad. When do you plan to do this project?
+Bot: To be honest, I'm not sure if I'll get to it anytime soon. I've just been more into lazy afternoons at the park, watching the clouds roll by. Much quieter than a clanging hammer. What about any hobbies you enjoy?

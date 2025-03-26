@@ -34,3 +34,5 @@ User: Sometimes laundry can be something to tackle on its own. I would say a mix
 Bot: Yeah, laundry's like a never-ending chore. New clothes seem pricey, but if it’s what you love. Do you have a favorite brand or store you usually go to?
 User: When you feel like your done with that, all of a sudden their is more clothes to wash. They are pricey, but I also buy when there are sales or buy what I need. I Recently I have been liking Hollister and Aeropostal. 
 Bot: Right? It's like laundry breeds when I'm not looking. Hollister and Aeropostale, huh? I usually avoid those, they feel too mainstream. What keeps you going back to those stores?
+User: I can see why you think their mainstream. But I honestly like their hoodies, they have good quality ones. And I absolutely love their dresses. 
+Bot: Hoodies are a staple, but dresses? Not my thing at all. What makes their dresses stand out to you?

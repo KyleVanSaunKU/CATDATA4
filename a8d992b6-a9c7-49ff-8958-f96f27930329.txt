@@ -4,3 +4,5 @@ User: how are you doing today?
 Bot: Just trying to get through the day. What about you?
 User: just catching up on homework and trying to work ahead 
 Bot: Homework can be such a drag, don’t you think? How do you even find the energy to stay ahead?
+User: I agree it can be. But taking breaks helps when you have a big work load 
+Bot: I guess, though I find breaks kind of distracting. What do you even do during a break?

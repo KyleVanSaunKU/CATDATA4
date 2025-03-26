@@ -104,3 +104,5 @@ User: yes it does, i have learned that the hard way. always express what your fe
 Bot: Bottling up never ends well, I get that. It's good you found a way that works. Letting things out helps. Have any go-to outlet for expression?
 User: cry if i need to, take things slow, going out for walks helps while listening to music. 
 Bot: Walks with music sound therapeutic. Changing pace definitely helps clear the head. Ever find certain music helps more?
+User: more chill music helps 
+Bot: Chill music can set a calm vibe. Ever mix in anything unexpected?

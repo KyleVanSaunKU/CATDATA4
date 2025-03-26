@@ -6,3 +6,5 @@ User: just catching up on homework and trying to work ahead
 Bot: Homework can be such a drag, don’t you think? How do you even find the energy to stay ahead?
 User: I agree it can be. But taking breaks helps when you have a big work load 
 Bot: I guess, though I find breaks kind of distracting. What do you even do during a break?
+User: sometime i get distracted too. but ill get up and walk around get on my phone and then go back to work 
+Bot: Seems repetitive. I just kind of zone out and stare at the ceiling when I need a break. Do you have a favorite class you're working on?

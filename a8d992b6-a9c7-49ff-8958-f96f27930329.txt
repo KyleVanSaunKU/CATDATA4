@@ -48,3 +48,5 @@ User: Definitely passing it down for sure
 Bot: That’s a nice tradition to keep going. A bit more special than just buying something new. Do you already know who you'd pass it to?
 User: if i ever have kids to them 
 Bot: I guess it’s nice to have something to pass along. Ever think about how different it might be for them in terms of fashion?
+User: I think they would see it as vintage in their eyes as well. but who knows
+Bot: Fashion’s always shifting, yeah. They'll probably call today's trends "retro" someday. What about you—do you ever future-proof your wardrobe, or just go with the flow? 

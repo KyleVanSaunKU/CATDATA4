@@ -16,3 +16,5 @@ User: its an online class so right now we are working on social media and postin
 Bot: Online classes can be so soulless. Posting on social media sounds pretty basic. Do you even interact with your professor or is it just a bunch of reading?
 User: its actually an easy class, we watch the weekly videos upload for that week. respond to the video and post content
 Bot: Sounds kind of mundane. Doesn't it get boring just responding to videos all the time?
+User: no not really, cause every week it’s something different. 
+Bot: I guess variety helps a little. Don't you ever wish for more engaging or unpredictable content though?

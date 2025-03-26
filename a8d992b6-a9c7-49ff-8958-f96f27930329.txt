@@ -78,3 +78,5 @@ User: Probably opportunities or also depends which team I work for too
 Bot: Opportunities really do drive the decision-making. Ready for the unexpected and open to change, right?
 User: Absolutely !!
 Bot: That's the spirit! Sounds like you're set to make things happen. Let's see how it all unfolds.
+User: We shall see how it all unfolds and happens
+Bot: Exactly, life's pretty unpredictable like that. Guess it's half the fun. Anything you'd change about your path so far if you could?

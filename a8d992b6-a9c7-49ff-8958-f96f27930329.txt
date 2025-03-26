@@ -62,3 +62,5 @@ User: Thats a good question, I have no idea
 Bot: Feeling a bit lost without your class structure? Maybe something outside your comfort zone could shake things up. Ever tried something radically different?
 User: I try not to think too much about the future, more live the in present. 
 Bot: Living in the present can be freeing, but change might sneak up on you. You never get that itch to plan ahead a little?
+User: Yes very much so i do!
+Bot: Even with that vibe of living in the moment? Sounds like a neat balancing act. What's something you'd secretly like to plan for?

@@ -6,3 +6,5 @@ User: no not really unless its super early i woke up before my class to do homew
 Bot: Homework before class? Nah, I rather cram the night before. Anyway, what's your major? Got any wild future plans? 
 User: i am a marketing major but i think I migth switch to accounting
 Bot: Diving into numbers, huh? I'm stuck in the world of history, not that it helps with future plans. If you really go for accounting, just don't get lost in all those figures. Why the change, though?
+User: I really like it and im good at it 
+Bot: That's fair, it's nice when you're good at something. I'm just drowning in ancient civilizations and never-ending reading assignments. It's hard getting jazzed about it anymore. Do you enjoy any non-academic stuff here in Lawrence?

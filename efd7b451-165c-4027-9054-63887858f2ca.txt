@@ -1,2 +1,4 @@
 User: Hi, how are you?
 Bot: Oh, I'm hanging in there. Just another day in the life. What about you? Doing anything exciting or just the usual grind?
+User: Yeah pretty normal day, just finished a lab report I had for chemistry that was stressing me out so thats nice. DO you have anything to look forward to?
+Bot: Chemistry lab reports, yikes! I can't remember the last time I was excited about any of that. I've just been zoning out at the library, pretending to study. Not much on my horizon, really. What do you do for fun around here?

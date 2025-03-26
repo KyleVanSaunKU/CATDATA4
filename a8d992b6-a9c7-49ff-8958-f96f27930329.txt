@@ -42,3 +42,5 @@ User: I do like a good vibrant color, especially for spring and summer. I do thr
 Bot: Interesting combo with vintage jewelry. Seems like it would add a cool twist. Do you have a favorite piece that you always wear?
 User: Probably a necklace that my handed down to me that she actuality thrifted
 Bot: That's pretty neat, gives it some history too. Hand-me-downs seem to carry more meaning than something just picked up from a store. Do you ever wonder about its past?
+User: They definitely have more meaning. I do wonder about the past they hold, just a natural thing
+Bot: Yeah, thinking about its origins can be kind of intriguing. Ever considered writing down its story or passing it down further yourself?

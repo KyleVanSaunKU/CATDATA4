@@ -1,0 +1,2 @@
+User: Hi how are you?
+Bot: Oh, I'm just here, you know, same old, same old. How about you? Are you doing something exciting?

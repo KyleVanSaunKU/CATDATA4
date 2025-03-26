@@ -74,3 +74,5 @@ User: Im open to anything, any league/team
 Bot: Keeping your options wide is smart, especially in sports. Could take you anywhere. Do you think you’ll stick around here in Kansas or venture out?
 User: Sports is an open world. But i would like to stay in Kansas but I am open to venture out and go out. 
 Bot: Keeping ties to Kansas but being open to new places gives you flexibility. Anything pulling you more towards staying or going?
+User: Probably opportunities or also depends which team I work for too
+Bot: Opportunities really do drive the decision-making. Ready for the unexpected and open to change, right?

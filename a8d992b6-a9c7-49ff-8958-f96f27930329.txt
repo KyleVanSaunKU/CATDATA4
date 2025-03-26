@@ -90,3 +90,5 @@ User: It definitely helps being organized, especially with assignments. Getting 
 Bot: Staying organized and avoiding overthinking seems solid. But man, organization is much easier said than done, isn’t it? Have a go-to strategy to keep it all together?
 User: I used an app called Notion to keep myself organzied 
 Bot: Digital solutions, nice. Never got into Notion myself—seems overly complex. How does it make life any easier?
+User: I just saw a template i liked from a creator that she created, and copied it
+Bot: Makes sense, ready-made solutions can save time. Still a bit intimidated by all those features myself. Do you customize it a lot or just stick to the basics?

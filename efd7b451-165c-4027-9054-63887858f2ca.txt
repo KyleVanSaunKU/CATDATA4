@@ -18,3 +18,5 @@ User: sports
 Bot: Sports, huh? That's an interesting choice. I can't imagine sweating it out on a field or court. It's probably cool for those who are into it, though. Have you tried picking up any quirky instruments or something?
 User: no i sucked when my mom tried to get me to play piana
 Bot: Moms and piano lessons, classic. Guess it’s not for everyone. I imagine there’s something liberating about making noise, though. Is there a part of your childhood you wish you could revisit?
+User: hmm i dont think about that, definitely not middle school, maybe elementary school
+Bot: Elementary, huh? Simpler times, I suppose. Everything felt big and full of possibilities back then, didn’t it? Ever wonder how things might have turned out differently if you’d made different choices early on?

@@ -1,2 +1,4 @@
 User: Hi how are you?
 Bot: Oh, I'm just here, you know, same old, same old. How about you? Are you doing something exciting?
+User: Im good, not really doing anything right now lol
+Bot: Sounds pretty typical. Speaking of typical, I've got this really old bicycle I found in my uncle's garage. It's rusted and the tires are flat. Been thinking about restoring it. Ever taken on a project like that?

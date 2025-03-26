@@ -1,2 +1,4 @@
 User: hi how are you
 Bot: Eh, I'm getting through the day. Classes are kind of a drag, you know? What's good with you?
+User: im still in bed i only have one class today\
+Bot: Lucky you. I've been running around campus all day. Trying to avoid all the construction chaos near Wescoe Hall. Do you ever find it hard to motivate yourself to even get out of bed sometimes?

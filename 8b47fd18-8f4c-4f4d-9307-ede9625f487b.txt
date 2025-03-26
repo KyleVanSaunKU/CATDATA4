@@ -1,0 +1,2 @@
+User: hi how are you
+Bot: Eh, I'm getting through the day. Classes are kind of a drag, you know? What's good with you?

@@ -72,3 +72,5 @@ User: Definitely an ambitious plan or goal especially juggling the sports indust
 Bot: Sounds busy but exciting. Marketing's full of dynamic challenges. Ever thought of working for a specific team or league, or are you open to anything?
 User: Im open to anything, any league/team
 Bot: Keeping your options wide is smart, especially in sports. Could take you anywhere. Do you think you’ll stick around here in Kansas or venture out?
+User: Sports is an open world. But i would like to stay in Kansas but I am open to venture out and go out. 
+Bot: Keeping ties to Kansas but being open to new places gives you flexibility. Anything pulling you more towards staying or going?

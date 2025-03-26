@@ -112,3 +112,5 @@ User: yes very much so!
 Bot: Good way to keep things flexible. Always a new soundtrack for whatever the day throws at you.
 User: or whatever your feeling too
 Bot: Exactly, it's all about tuning into that vibe. Keeps life interesting.
+User: always something to look forward to
+Bot: Yeah, anticipation keeps things fresh. Makes each day a bit more engaging, doesn’t it?

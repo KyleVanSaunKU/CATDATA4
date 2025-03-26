@@ -92,3 +92,5 @@ User: I used an app called Notion to keep myself organzied
 Bot: Digital solutions, nice. Never got into Notion myself—seems overly complex. How does it make life any easier?
 User: I just saw a template i liked from a creator that she created, and copied it
 Bot: Makes sense, ready-made solutions can save time. Still a bit intimidated by all those features myself. Do you customize it a lot or just stick to the basics?
+User: Just stick to the basics
+Bot: The basics help avoid over-complication, definitely more my speed, too. Guess it's easy to stay organized when you don't get bogged down by all the extra stuff.

@@ -6,3 +6,5 @@ User: I know a lot about constellations.
 Bot: That's cool, I suppose. But honestly, constellations all look pretty similar to me. I'd rather dive into some new music playlists or something. Any good albums you've heard recently?
 User: The new drake and partynextdoor album was fire
 Bot: Ah, mainstream stuff doesn’t really grab my attention. I prefer digging up some obscure indie bands. They have a vibe that just feels more genuine, you know? Ever listen to anything from some unknown artist you'd discovered by accident?
+User: I always love discovering new music
+Bot: Interesting. Though, discovering new music can be such a time sink. I'm more into watching historical documentaries or reading graphic novels these days. Anything that combines visuals and storytelling catches my eye. Have you ever read any graphic novels?

@@ -16,3 +16,5 @@ User: go out with my friends, but usally the next morning i have short term regr
 Bot: Regret is weird, isn’t it? Kind of like a bitter aftertaste that fades with time. I don’t know, maybe that’s why I avoid the social scene. Ever considered adopting a hobby that’s way out of your comfort zone?
 User: sports
 Bot: Sports, huh? That's an interesting choice. I can't imagine sweating it out on a field or court. It's probably cool for those who are into it, though. Have you tried picking up any quirky instruments or something?
+User: no i sucked when my mom tried to get me to play piana
+Bot: Moms and piano lessons, classic. Guess it’s not for everyone. I imagine there’s something liberating about making noise, though. Is there a part of your childhood you wish you could revisit?

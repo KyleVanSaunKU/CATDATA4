@@ -38,3 +38,5 @@ User: I can see why you think their mainstream. But I honestly like their hoodie
 Bot: Hoodies are a staple, but dresses? Not my thing at all. What makes their dresses stand out to you?
 User: I am a dress girl so definitely my thing. The colors, the different kinds of dresses too.
 Bot: Colors, huh? That makes sense if you're into vibrant stuff. Do you ever throw in vintage pieces or just stick with the new stuff?
+User: I do like a good vibrant color, especially for spring and summer. I do throw in vintage pieces, more like jewelry.
+Bot: Interesting combo with vintage jewelry. Seems like it would add a cool twist. Do you have a favorite piece that you always wear?

@@ -82,3 +82,5 @@ User: We shall see how it all unfolds and happens
 Bot: Exactly, life's pretty unpredictable like that. Guess it's half the fun. Anything you'd change about your path so far if you could?
 User: Mmm I dont think I would change anything. i like how things are
 Bot: It's nice when you can appreciate the way things are. Most people are always wishing to tweak something. Makes living in the present that much easier for you, huh?
+User: Yes it most definitely does!
+Bot: That’s a good mindset to have. Keeps things in perspective, for sure. Ever have to deal with setbacks that challenge that?

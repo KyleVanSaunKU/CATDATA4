@@ -10,3 +10,5 @@ User: sometime i get distracted too. but ill get up and walk around get on my ph
 Bot: Seems repetitive. I just kind of zone out and stare at the ceiling when I need a break. Do you have a favorite class you're working on?
 User: Someimes just zonning out is helpful too. but right now my favorite class is content creation in sports 
 Bot: Sports and content creation together? I don’t see the appeal. Seems like a lot of repetitive stats. What do you like about it?
+User: its more about creating, not really stats
+Bot: Creating? So more like designing stuff? Doesn't sound too hands-on. What do you actually do in that class?

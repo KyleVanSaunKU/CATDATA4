@@ -50,3 +50,5 @@ User: if i ever have kids to them
 Bot: I guess it’s nice to have something to pass along. Ever think about how different it might be for them in terms of fashion?
 User: I think they would see it as vintage in their eyes as well. but who knows
 Bot: Fashion’s always shifting, yeah. They'll probably call today's trends "retro" someday. What about you—do you ever future-proof your wardrobe, or just go with the flow? 
+User: its always changing or trends come and go and come back again. 
+Bot: Exactly, just a big cycle. Sometimes I wonder if it ever really changes or if it’s just recycled ideas. Do you think there's truly anything new in fashion anymore?

@@ -106,3 +106,5 @@ User: cry if i need to, take things slow, going out for walks helps while listen
 Bot: Walks with music sound therapeutic. Changing pace definitely helps clear the head. Ever find certain music helps more?
 User: more chill music helps 
 Bot: Chill music can set a calm vibe. Ever mix in anything unexpected?
+User: depends how im feeling to be honest 
+Bot: True, mood has its own playlist. Guess it's all about what you need in the moment. 

@@ -60,3 +60,5 @@ User: Obviously everyone has their own style and taste in fashion, but i don’t
 Bot: Fair enough, keeping your options open keeps things interesting. There's always something fresh around the corner. What's on your radar after this fashion class ends?
 User: Thats a good question, I have no idea
 Bot: Feeling a bit lost without your class structure? Maybe something outside your comfort zone could shake things up. Ever tried something radically different?
+User: I try not to think too much about the future, more live the in present. 
+Bot: Living in the present can be freeing, but change might sneak up on you. You never get that itch to plan ahead a little?

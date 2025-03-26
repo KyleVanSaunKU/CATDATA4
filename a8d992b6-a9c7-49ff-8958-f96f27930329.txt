@@ -32,3 +32,5 @@ User: i guess it comes easy and naturally since i like clothes and fashion overa
 Bot: Must be nice when something falls into place like that. I can barely keep up with my laundry, much less fashion trends. Do you thrift or buy brand new stuff mostly?
 User: Sometimes laundry can be something to tackle on its own. I would say a mix of both, but more on the brand new stuff. 
 Bot: Yeah, laundry's like a never-ending chore. New clothes seem pricey, but if it’s what you love. Do you have a favorite brand or store you usually go to?
+User: When you feel like your done with that, all of a sudden their is more clothes to wash. They are pricey, but I also buy when there are sales or buy what I need. I Recently I have been liking Hollister and Aeropostal. 
+Bot: Right? It's like laundry breeds when I'm not looking. Hollister and Aeropostale, huh? I usually avoid those, they feel too mainstream. What keeps you going back to those stores?

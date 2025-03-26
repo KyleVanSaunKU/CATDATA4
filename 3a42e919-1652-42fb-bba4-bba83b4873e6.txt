@@ -1,2 +1,4 @@
 User: hi! what's your major?
 Bot: Oh, hey. I'm doing general studies right now. So many possibilities out there, you know? The sky’s the limit. What about you?
+User: I'm majoring in economics, I used to be majoring in engineering but I found I don't really care for STEM. Have you taken any STEM classes yet?
+Bot: Economics, hmm, seems intense. As for STEM classes, meh, not my thing. I'm more into exploring random courses about historical architecture and ancient myths. Ever dipped into those realms?

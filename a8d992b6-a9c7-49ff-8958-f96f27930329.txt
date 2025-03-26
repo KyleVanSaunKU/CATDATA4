@@ -110,3 +110,5 @@ User: depends how im feeling to be honest
 Bot: True, mood has its own playlist. Guess it's all about what you need in the moment. 
 User: yes very much so!
 Bot: Good way to keep things flexible. Always a new soundtrack for whatever the day throws at you.
+User: or whatever your feeling too
+Bot: Exactly, it's all about tuning into that vibe. Keeps life interesting.

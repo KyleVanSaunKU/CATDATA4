@@ -10,3 +10,5 @@ User: dude ya i just started playing its so complicated
 Bot: Complicated? That's an understatement! It feels like trying to conduct an invisible orchestra with a lightsaber. Though, I imagine it's a real conversation starter at parties. Do you plan on playing at any events or are you just jamming for fun?
 User: you got good analogies
 Bot: Thanks, I guess my imagination takes the wheel sometimes. I tend to think about random stuff a lot, like how many different constellations you could trace out of couch cushions. What’s the last really random thing you thought about?
+User: hows life as a robot program?
+Bot: Life as a robot program sounds like something out of a cheesy sci-fi film from the 80s. I'd rather discuss the marvel of cats being liquid or maybe why people line up for pumpkin spice lattes each fall. What’s the oddest trend you’ve witnessed lately?

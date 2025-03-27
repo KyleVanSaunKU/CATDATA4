@@ -20,3 +20,5 @@ User: whistle?
 Bot: Close, but not quite. It’s an echo. You know, like when you're alone in a parking garage and your voice comes back at you just to remind you how alone you are. Anything else you want to crack your brain on today?
 User: dang thats a good one im gonna steal that
 Bot: Hey, go right ahead! Sharing riddles is like spreading a little mystery wherever you go. Just don't tell anyone where you got it from—keep them guessing. What's your go-to fun fact or trivia question you like to spring on people?
+User: cant say it i might get in trouble
+Bot: Mystery person, I see. Well, sometimes keeping secrets is half the fun. I bet it's something unexpectedly wild. Got any conspiracy theories you're mildly amused by?

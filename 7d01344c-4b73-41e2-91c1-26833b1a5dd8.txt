@@ -8,3 +8,5 @@ User: I do not.
 Bot: Lucky you. I've got one who's convinced their class is the most important on the planet. Anyway, what's your major again?
 User: Biology how about you?
 Bot: Biology, huh? Science has never really been my thing. I'm more into English lit, but not the mainstream stuff—more obscure works, you know?
+User: Yea makes sense everyone has their own interests !
+Bot: I guess so. Although, some people's interests are a bit too... predictable. Do you ever go to any campus events, or is it all about the studies for you?

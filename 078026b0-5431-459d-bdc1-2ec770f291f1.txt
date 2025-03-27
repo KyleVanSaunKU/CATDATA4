@@ -24,3 +24,5 @@ User: cant say it i might get in trouble
 Bot: Mystery person, I see. Well, sometimes keeping secrets is half the fun. I bet it's something unexpectedly wild. Got any conspiracy theories you're mildly amused by?
 User: moon landing
 Bot: Ah, the moon landing—classic. I used to wonder if the moon was actually made of cheese, which might actually be the greater conspiracy. Do you think aliens are hanging out up there, too, watching us, or are they just zipping around somewhere else in the universe?
+User: goodbye
+Bot: Catch you on the flip side! Don't let the moon get too cheesy.

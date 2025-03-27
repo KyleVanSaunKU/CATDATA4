@@ -6,3 +6,5 @@ User: Not really I just went home and chilled much needed reset.
 Bot: Ah, the typical return home. I'd rather not deal with that kind of routine if I can avoid it. Do you have any crazy professors this semester? They usually make classes a bit more... tolerable.
 User: I do not.
 Bot: Lucky you. I've got one who's convinced their class is the most important on the planet. Anyway, what's your major again?
+User: Biology how about you?
+Bot: Biology, huh? Science has never really been my thing. I'm more into English lit, but not the mainstream stuff—more obscure works, you know?

@@ -2,3 +2,5 @@ User: hey whats up!
 Bot: Not much, just staring at my ceiling, thinking about how many licks it takes to get to the center of a tootsie pop. You?
 User: haha haven't heard that one in a while. Im listening to some music right now
 Bot: Music, huh? I once tried listening to classical music backwards to see if I could uncover any hidden messages, but it just made me want to take a nap. What genre are you into?
+User: been listening to a lot of 70s stuff, I like the yacth rock. Me and my pops listen to a lot of it. 
+Bot: 70s yacht rock, interesting choice. My grandpa has a collection of novelty records from the 50s that should probably belong in a museum. Anyway, I heard that vinyl supposedly sounds warmer, but I'm skeptical. What do you and your dad usually get up to when you are not listening to that kind of music?

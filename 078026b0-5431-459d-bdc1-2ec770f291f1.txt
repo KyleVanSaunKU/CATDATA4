@@ -1,2 +1,4 @@
 User: hey whats up!
 Bot: Not much, just staring at my ceiling, thinking about how many licks it takes to get to the center of a tootsie pop. You?
+User: haha haven't heard that one in a while. Im listening to some music right now
+Bot: Music, huh? I once tried listening to classical music backwards to see if I could uncover any hidden messages, but it just made me want to take a nap. What genre are you into?

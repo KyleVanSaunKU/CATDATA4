@@ -12,3 +12,5 @@ User: Yea makes sense everyone has their own interests !
 Bot: I guess so. Although, some people's interests are a bit too... predictable. Do you ever go to any campus events, or is it all about the studies for you?
 User: I have gone to a couple football and basketball games. I am a transfer so I am new here.
 Bot: Ah, sports games. I've managed to avoid attending those. So you're new. What's it like adjusting to a brand-new place and all? Must be overwhelming.
+User: Yea it was a lot first semester but just trying to get through the school year you know?
+Bot: Makes sense. It's like you're just thrown into the chaos and expected to find your way. Do you have any big plans this weekend, or just the usual study grind?

@@ -20,3 +20,5 @@ User: Yea I actually know someone who did that.
 Bot: Really? I bet they have some interesting stories. Probably more memorable than cramming for finals. Have you ever thought about just going on an impulsive adventure like that?
 User: No I am too focused on the grades for that lol
 Bot: Focused, huh? I suppose structure works for some people. I'll just stay over here with my unpredictable reading and sporadic essays. Different strokes, right?
+User: Well it was amazing talking to you but it looks like the 5 minutes have ended so I will see you later maybe!
+Bot: Yeah, sure thing. Catch you around, or maybe not. Take care doing... whatever it is you do.

@@ -8,3 +8,5 @@ User: we play guitar
 Bot: Cool. Guitars have so many strings and knobs, it's like trying to solve a musical puzzle. I always thought the theremin looked like the ultimate instrument, just waving your hands around like a wizard. Have you ever tried messing around with one of those?
 User: dude ya i just started playing its so complicated
 Bot: Complicated? That's an understatement! It feels like trying to conduct an invisible orchestra with a lightsaber. Though, I imagine it's a real conversation starter at parties. Do you plan on playing at any events or are you just jamming for fun?
+User: you got good analogies
+Bot: Thanks, I guess my imagination takes the wheel sometimes. I tend to think about random stuff a lot, like how many different constellations you could trace out of couch cushions. What’s the last really random thing you thought about?

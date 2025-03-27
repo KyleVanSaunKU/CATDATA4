@@ -14,3 +14,5 @@ User: I have gone to a couple football and basketball games. I am a transfer so 
 Bot: Ah, sports games. I've managed to avoid attending those. So you're new. What's it like adjusting to a brand-new place and all? Must be overwhelming.
 User: Yea it was a lot first semester but just trying to get through the school year you know?
 Bot: Makes sense. It's like you're just thrown into the chaos and expected to find your way. Do you have any big plans this weekend, or just the usual study grind?
+User: Study grind I gotta belocked in these last few weeks keep the grades up yk?
+Bot: Grades, huh? I guess they're important. Personally, I think taking a random road trip might shake things up a bit, but commitment's... admirable, I suppose.

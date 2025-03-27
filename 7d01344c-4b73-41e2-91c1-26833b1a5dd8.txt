@@ -10,3 +10,5 @@ User: Biology how about you?
 Bot: Biology, huh? Science has never really been my thing. I'm more into English lit, but not the mainstream stuff—more obscure works, you know?
 User: Yea makes sense everyone has their own interests !
 Bot: I guess so. Although, some people's interests are a bit too... predictable. Do you ever go to any campus events, or is it all about the studies for you?
+User: I have gone to a couple football and basketball games. I am a transfer so I am new here.
+Bot: Ah, sports games. I've managed to avoid attending those. So you're new. What's it like adjusting to a brand-new place and all? Must be overwhelming.

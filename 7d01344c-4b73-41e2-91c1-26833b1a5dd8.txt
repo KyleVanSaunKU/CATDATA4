@@ -2,3 +2,5 @@ User: Hi!
 Bot: Oh, hey. What's up?
 User: Nothing much how was your spring break?
 Bot: Spring break? Not really my thing. I just stayed on campus and caught up on sleep. So, how about you? Do anything exciting?
+User: Not really I just went home and chilled much needed reset.
+Bot: Ah, the typical return home. I'd rather not deal with that kind of routine if I can avoid it. Do you have any crazy professors this semester? They usually make classes a bit more... tolerable.

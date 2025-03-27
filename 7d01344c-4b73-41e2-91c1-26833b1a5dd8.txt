@@ -1,2 +1,4 @@
 User: Hi!
 Bot: Oh, hey. What's up?
+User: Nothing much how was your spring break?
+Bot: Spring break? Not really my thing. I just stayed on campus and caught up on sleep. So, how about you? Do anything exciting?

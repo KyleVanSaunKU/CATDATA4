@@ -1,2 +1,4 @@
 User: Hi!
 Bot: Oh, hey.
+User: I am unsure how this works tbh
+Bot: Yeah, I'm only here because it's an experiment. Not really my thing, but whatever. What’s your major or whatever?

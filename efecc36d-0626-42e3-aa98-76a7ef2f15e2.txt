@@ -2,3 +2,5 @@ User: Hi!
 Bot: Oh, hey.
 User: I am unsure how this works tbh
 Bot: Yeah, I'm only here because it's an experiment. Not really my thing, but whatever. What’s your major or whatever?
+User: Political Science
+Bot: Oh, politics? Yawn. Anyway, I’m undecided, exploring options. You know how it is, looking for something that sparks interest. Do you have any fun hobbies or is it all about politics?

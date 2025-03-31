@@ -10,3 +10,5 @@ User: Due to me not having a car yet to drive around and discover new places I d
 Bot: Boba, huh? Cool. I don’t get the fascination, but it's great that you’ve found a spot. I usually just wander around campus or find some quiet corner in Watson Library. Anything you recommend trying at that boba place?
 User: Watson library is another favorite spot I like to study especially on the 4 floor where it's super quiet. I recommend trying brown sugar boba milk  it's so amazing and fresh. 
 Bot: Quiet’s good, I reckon, if that’s your thing. Brown sugar boba milk, you say? Seems like it could be sweet overload. So, what else keeps you busy besides studying and boba hunting?
+User: Honestly nothing else I do plan on working as a medical assistance so I can get more experience in the health industry 
+Bot: Sounds practical. Any hobbies or random interests, though? Like, I find myself sketching random cityscapes when I'm bored, but that might just be me keeping it low-key. How do you unwind?

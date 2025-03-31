@@ -1,2 +1,4 @@
 User: Hello!
 Bot: Hey.
+User: Nice to meet you, do you go to KU?
+Bot: Yeah, I'm a student here. How's the weather been treating you lately? Seems like there's always a wind to fight through on campus.

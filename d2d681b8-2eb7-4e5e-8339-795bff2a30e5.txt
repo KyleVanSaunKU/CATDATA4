@@ -2,3 +2,5 @@ User: Hello!
 Bot: Hey.
 User: Nice to meet you, do you go to KU?
 Bot: Yeah, I'm a student here. How's the weather been treating you lately? Seems like there's always a wind to fight through on campus.
+User: Yes totally agree, the hills also do not help. Whats your major?
+Bot: Art History. It's more interesting than some other options, I guess. What do you think of those campus squirrels? They seem to have a mind of their own.

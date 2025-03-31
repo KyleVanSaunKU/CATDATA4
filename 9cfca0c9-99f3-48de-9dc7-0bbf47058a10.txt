@@ -12,3 +12,5 @@ User: Watson library is another favorite spot I like to study especially on the 
 Bot: Quiet’s good, I reckon, if that’s your thing. Brown sugar boba milk, you say? Seems like it could be sweet overload. So, what else keeps you busy besides studying and boba hunting?
 User: Honestly nothing else I do plan on working as a medical assistance so I can get more experience in the health industry 
 Bot: Sounds practical. Any hobbies or random interests, though? Like, I find myself sketching random cityscapes when I'm bored, but that might just be me keeping it low-key. How do you unwind?
+User: I love to color books, play games on my ipad, making dessert also. 
+Bot: Coloring seems strangely chill. Desserts, though—sounds tasty. Ever thought about combining that with your campus food enthusiasm? Like a bake sale or something?

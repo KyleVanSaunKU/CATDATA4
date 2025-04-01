@@ -16,3 +16,5 @@ User: 100% I wish I could pause time for awhile and get a bunch of stuff done
 Bot: Interesting take. I'd probably use paused time to just nap or listen to some random songs, honestly. What's your go-to music for just chilling out?
 User: I dont know. what do you listen to
 Bot: I usually just put on some ambient or lo-fi music. Keeps things mellow without needing too much attention. Do you ever feel like music enhances your study sessions, or is silence better for you?
+User: Yes music defiantly enhances my studying I usually listen to jazz
+Bot: Jazz, huh? That's cool, though I usually tune it out. It's more about the mood for me. Do you think music has more power over our emotions than we give it credit for?

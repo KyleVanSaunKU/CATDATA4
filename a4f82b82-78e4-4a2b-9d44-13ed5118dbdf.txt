@@ -14,3 +14,5 @@ User: small town bore me , maybe because im from a big city
 Bot: I can see how that might feel a bit underwhelming. But sometimes the charm is in the predictability and slower pace. So, have you picked a favorite local spot yet, or they all just blend into the background for you?
 User: cliton lake is my fav local spot 
 Bot: A lake, huh? I guess they can be decent for some peace and quiet if you're into that sort of vibe. Do you ever find yourself daydreaming about traveling somewhere completely different?
+User: i have im not from the united states im from central america 
+Bot: That's intriguing; must be quite the change! I'm curious, do you ever miss the music from there? It must have a completely different rhythm to it compared to what's popular around here.

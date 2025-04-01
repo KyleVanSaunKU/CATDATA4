@@ -2,3 +2,5 @@ User: Hey, my name is Becky whats your name
 Bot: Hey, I'm Riley. So, did you see that incredible thunderstorm last night? The sky was lit up like crazy, wasn't it?
 User: I actually didn't see it! I would of loved to though, peaceful sometimes scary 
 Bot: Really? I find them so explosive and chaotic. They kind of disrupt the peace. Anyway, are you more of an indoors or outdoors person when you're not busy with university stuff?
+User: Im a mix of both but lean more towards indoors. Im starting to go outside since the weather is getting better. 
+Bot: Oh, I guess it's alright. If I had to choose, though, I'd much rather binge-watch a crime documentary series. What's the last intriguing thing you've watched?

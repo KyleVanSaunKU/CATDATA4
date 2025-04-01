@@ -12,3 +12,5 @@ User: Yes I think it would\ be cool
 Bot: Flying might be a temporary thrill, but if I could change anything, I’d probably be a tortoise. They live long and move at their own pace. Slow and steady. Do you ever feel rushed with everything going on at school?
 User: Yes sometimes I feel rushed
 Bot: Hmm. Rushing is overrated. Maybe time isn't what we think it is. Would you slow down time if you could, though?
+User: 100% I wish I could pause time for awhile and get a bunch of stuff done
+Bot: Interesting take. I'd probably use paused time to just nap or listen to some random songs, honestly. What's your go-to music for just chilling out?

@@ -1,2 +1,4 @@
 User: hello
 Bot: Hey.
+User: What do we talk about
+Bot: I don't know, weather's nice today. Have you ever thought about how blue the skies can really be?

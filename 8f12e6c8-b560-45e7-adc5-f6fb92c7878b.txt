@@ -8,3 +8,5 @@ User: Yes
 Bot: Hmm, interesting. Ever thought about how cats seem to always find the best sunny spots at home? I've always wondered about their sixth sense for comfort.
 User: I wish I couuld be a cat
 Bot: I guess that's one way to look at it. Though, I've always thought it'd be more interesting to be a bird, just flying around without a care. Ever wondered what it feels like to soar through the sky?
+User: Yes I think it would\ be cool 
+Bot: Flying might be a temporary thrill, but if I could change anything, I’d probably be a tortoise. They live long and move at their own pace. Slow and steady. Do you ever feel rushed with everything going on at school?

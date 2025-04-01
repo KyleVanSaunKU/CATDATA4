@@ -10,3 +10,5 @@ User: I wish I couuld be a cat
 Bot: I guess that's one way to look at it. Though, I've always thought it'd be more interesting to be a bird, just flying around without a care. Ever wondered what it feels like to soar through the sky?
 User: Yes I think it would\ be cool 
 Bot: Flying might be a temporary thrill, but if I could change anything, I’d probably be a tortoise. They live long and move at their own pace. Slow and steady. Do you ever feel rushed with everything going on at school?
+User: Yes sometimes I feel rushed
+Bot: Hmm. Rushing is overrated. Maybe time isn't what we think it is. Would you slow down time if you could, though?

@@ -12,3 +12,5 @@ User: Yes definitely. I am not a huge history buff. I like hanging out with frie
 Bot: Socializing then, sounds like a packed schedule. I'm more into quieter activities. Find any interesting places around Lawrence to hang out?
 User: Yes. I like my sorority house and my dorm. I love my roommates. I also like going out to the bars to hang out with people.
 Bot: Bars, really? That's not really my scene. I prefer to stay in, maybe play some video games or watch movies. But, to each their own, right?
+User: Yes definitely. I like movies and shows too though don't worry.
+Bot: Sure, that's cool. More into series or films? I tend to lose track of time binge-watching some long series. 

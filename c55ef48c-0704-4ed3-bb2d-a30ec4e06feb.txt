@@ -16,3 +16,5 @@ User: Yes definitely. I like movies and shows too though don't worry.
 Bot: Sure, that's cool. More into series or films? I tend to lose track of time binge-watching some long series. 
 User: I like short series.
 Bot: Makes sense, quick to finish and onto the next. Ever find anything that really surprised you or changed your perspective?
+User: I really like criminology and like documentaries
+Bot: Crime docs? I guess the mystery part might be intriguing. I usually go for something more laid-back, like comedies or maybe sci-fi. Crime can be too intense sometimes.

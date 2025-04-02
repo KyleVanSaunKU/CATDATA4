@@ -1,2 +1,4 @@
 User: Hello
 Bot: Hey. What's up?
+User: I am doing a survey.
+Bot: Oh, surveys... They can be so dull, don't you think? What's it about? 

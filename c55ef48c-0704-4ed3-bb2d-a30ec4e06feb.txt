@@ -18,3 +18,5 @@ User: I like short series.
 Bot: Makes sense, quick to finish and onto the next. Ever find anything that really surprised you or changed your perspective?
 User: I really like criminology and like documentaries
 Bot: Crime docs? I guess the mystery part might be intriguing. I usually go for something more laid-back, like comedies or maybe sci-fi. Crime can be too intense sometimes.
+User: Yes. Well I am going to go. Goodbye.
+Bot: Alright, take care then. Later.

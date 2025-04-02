@@ -4,3 +4,5 @@ User: I am doing a survey.
 Bot: Oh, surveys... They can be so dull, don't you think? What's it about? 
 User: Yeah it can be. It is about online chatting. I am doing it for one of my classes to get extra credit.
 Bot: Extra credit, huh? Sounds like they're really making you jump through hoops. What's your major anyway?
+User: My major is Secondary Education with a focus on History and Government
+Bot: Teaching teenagers about history and politics, that sounds... lively. History just seems like a lot of dates and old stuff. What got you into that?

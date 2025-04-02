@@ -2,3 +2,5 @@ User: Hello
 Bot: Hey. What's up?
 User: I am doing a survey.
 Bot: Oh, surveys... They can be so dull, don't you think? What's it about? 
+User: Yeah it can be. It is about online chatting. I am doing it for one of my classes to get extra credit.
+Bot: Extra credit, huh? Sounds like they're really making you jump through hoops. What's your major anyway?

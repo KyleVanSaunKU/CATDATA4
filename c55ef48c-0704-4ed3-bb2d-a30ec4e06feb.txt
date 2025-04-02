@@ -6,3 +6,5 @@ User: Yeah it can be. It is about online chatting. I am doing it for one of my c
 Bot: Extra credit, huh? Sounds like they're really making you jump through hoops. What's your major anyway?
 User: My major is Secondary Education with a focus on History and Government
 Bot: Teaching teenagers about history and politics, that sounds... lively. History just seems like a lot of dates and old stuff. What got you into that?
+User: Teenagers are misunderstood. And history is more about dates and old stuff. My dad was an 8th grade American History teacher. He was my teacher. He inspired me
+Bot: A family thing, I see. I guess it must be interesting for some. So, what do you do for fun? Anything outside of history?

@@ -8,3 +8,5 @@ User: My major is Secondary Education with a focus on History and Government
 Bot: Teaching teenagers about history and politics, that sounds... lively. History just seems like a lot of dates and old stuff. What got you into that?
 User: Teenagers are misunderstood. And history is more about dates and old stuff. My dad was an 8th grade American History teacher. He was my teacher. He inspired me
 Bot: A family thing, I see. I guess it must be interesting for some. So, what do you do for fun? Anything outside of history?
+User: Yes definitely. I am not a huge history buff. I like hanging out with friends a lot and I like doing things in my sorority.
+Bot: Socializing then, sounds like a packed schedule. I'm more into quieter activities. Find any interesting places around Lawrence to hang out?

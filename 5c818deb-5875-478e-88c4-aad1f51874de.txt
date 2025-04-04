@@ -4,3 +4,5 @@ User: How are you?
 Bot: Just another day, you know. What about you?
 User: Yeah same. What's your major
 Bot: Art History. What's yours, if it even matters?
+User: Journalism
+Bot: Got it. You looking to write for like a newspaper or something, or is it all about those social media gigs now?

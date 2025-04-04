@@ -10,3 +10,5 @@ User: I want to write for newspapers or something like it even if it's online, n
 Bot: Mhm, newspapers. Sounds kind of old school. I guess telling stories that matter is important. What else do you do in your free time?
 User: I like to read and draw what about you
 Bot: I mostly just listen to music and wander around campus. Reading and drawing sounds chill, I guess. What do you usually draw?
+User: I don't really have a specific thing that I like drawing, it's kind of just whatever I feel like at the time you know. What's your favorite place around campus that you've seen
+Bot: I guess the Spencer Museum of Art is alright. It’s cool to look at things people create and think about what someone was trying to say. Why do you like to go to?

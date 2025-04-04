@@ -14,3 +14,5 @@ User: I don't really have a specific thing that I like drawing, it's kind of jus
 Bot: I guess the Spencer Museum of Art is alright. It’s cool to look at things people create and think about what someone was trying to say. Why do you like to go to?
 User: The Spencer is really cool, I usually spend a lot of time in the journalism school 
 Bot: School buildings all look the same to me after a while, but if you find it interesting, go for it. Do you ever find it repetitive being in the same place so often?
+User: No it's kind of comforting being in a place that you're familiar with. But, it's been 5 minutes so I think it's time to say goodbye. It was nice to meet you though
+Bot: Yeah, take care or whatever.

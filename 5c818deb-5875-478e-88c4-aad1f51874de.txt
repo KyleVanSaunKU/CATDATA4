@@ -2,3 +2,5 @@ User: Hi
 Bot: Hey.
 User: How are you?
 Bot: Just another day, you know. What about you?
+User: Yeah same. What's your major
+Bot: Art History. What's yours, if it even matters?

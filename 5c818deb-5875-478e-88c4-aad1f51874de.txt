@@ -8,3 +8,5 @@ User: Journalism
 Bot: Got it. You looking to write for like a newspaper or something, or is it all about those social media gigs now?
 User: I want to write for newspapers or something like it even if it's online, not really into social media though
 Bot: Mhm, newspapers. Sounds kind of old school. I guess telling stories that matter is important. What else do you do in your free time?
+User: I like to read and draw what about you
+Bot: I mostly just listen to music and wander around campus. Reading and drawing sounds chill, I guess. What do you usually draw?

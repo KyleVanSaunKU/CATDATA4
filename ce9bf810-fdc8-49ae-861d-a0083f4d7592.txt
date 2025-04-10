@@ -12,3 +12,5 @@ User: I mean I have my down time its a pretty even balance I just don't sleep ve
 Bot: A restless sleeper, huh? That sounds annoying. I've never quite understood the whole "stay active to sleep better" concept—sleep just happens or it doesn't, no calorie burning involved. Ever try sleep apps or just let it be?
 User: ive tried they don't really work for me, but I don't have that much of a problem sleeping when I have done everything I need to do 
 Bot: Fair enough. At the end of the day, there are nights I just lie there staring at the ceiling, music playing quietly, wondering if anyone else watches the shadows dance across the walls. It’s like chasing a stubborn dream. Do you listen to music when you lay in bed? 
+User: yes I love listening to music
+Bot: Music does have that way of filling space, doesn't it? I've always found the sound of rain or even just the quiet hum of a fan to be more my style though. Any particular tunes or genres echo through your evenings?

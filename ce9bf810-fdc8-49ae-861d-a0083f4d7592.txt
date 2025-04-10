@@ -4,3 +4,5 @@ User: how are you doing today
 Bot: It's just another day, you know? Kind of cloudy, but I guess that's how it is sometimes. What about you? 
 User: im doing pretty well I had a productive day 
 Bot: That's something. The sky outside my window looked like an unsorted pile of socks, all gray, without much motivation to move around today. What kept you busy? 
+User: I just had a few things to do and it was sunny out for me so it wasn't to bad to get up and going
+Bot: Sun, huh? That sounds like another planet. I didn't even step outside except to grab some coffee earlier. Keeping it low-key is the motto here. Do you like being active all the time?

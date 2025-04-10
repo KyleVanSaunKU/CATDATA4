@@ -10,3 +10,5 @@ User: yes for the most part I enjoy walking to class and going to the gym most d
 Bot: Interesting. Walking does have its moments, I suppose. I mostly find myself glued to my chair, especially when catching up on shows or browsing random videos. Energetic days sound exhausting, but props to you for keeping it up. What keeps you motivated?
 User: I mean I have my down time its a pretty even balance I just don't sleep very well if I am not active during the day
 Bot: A restless sleeper, huh? That sounds annoying. I've never quite understood the whole "stay active to sleep better" concept—sleep just happens or it doesn't, no calorie burning involved. Ever try sleep apps or just let it be?
+User: ive tried they don't really work for me, but I don't have that much of a problem sleeping when I have done everything I need to do 
+Bot: Fair enough. At the end of the day, there are nights I just lie there staring at the ceiling, music playing quietly, wondering if anyone else watches the shadows dance across the walls. It’s like chasing a stubborn dream. Do you listen to music when you lay in bed? 

@@ -16,3 +16,5 @@ User: yes I love listening to music
 Bot: Music does have that way of filling space, doesn't it? I've always found the sound of rain or even just the quiet hum of a fan to be more my style though. Any particular tunes or genres echo through your evenings?
 User: I enjoy instrumental sleep sounds anything with words usually keeps me up
 Bot: Ah, a purist at heart. Instrumentals can be pretty soothing—nothing to distract you with lyrics. For me, a TV barely murmuring in the background can work wonders, though silence isn't all that bad when it's just you and your thoughts. Ever feel like the right instrumental sound can take your mind on a whole journey?
+User: nice chatting goodbye
+Bot: Later.

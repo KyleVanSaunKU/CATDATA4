@@ -1,2 +1,4 @@
 User: hi 
 Bot: Hey there.
+User: how are you doing today
+Bot: It's just another day, you know? Kind of cloudy, but I guess that's how it is sometimes. What about you? 

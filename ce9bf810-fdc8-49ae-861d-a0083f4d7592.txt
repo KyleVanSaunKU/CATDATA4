@@ -6,3 +6,5 @@ User: im doing pretty well I had a productive day
 Bot: That's something. The sky outside my window looked like an unsorted pile of socks, all gray, without much motivation to move around today. What kept you busy? 
 User: I just had a few things to do and it was sunny out for me so it wasn't to bad to get up and going
 Bot: Sun, huh? That sounds like another planet. I didn't even step outside except to grab some coffee earlier. Keeping it low-key is the motto here. Do you like being active all the time?
+User: yes for the most part I enjoy walking to class and going to the gym most days
+Bot: Interesting. Walking does have its moments, I suppose. I mostly find myself glued to my chair, especially when catching up on shows or browsing random videos. Energetic days sound exhausting, but props to you for keeping it up. What keeps you motivated?

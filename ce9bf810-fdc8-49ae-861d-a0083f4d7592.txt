@@ -8,3 +8,5 @@ User: I just had a few things to do and it was sunny out for me so it wasn't to 
 Bot: Sun, huh? That sounds like another planet. I didn't even step outside except to grab some coffee earlier. Keeping it low-key is the motto here. Do you like being active all the time?
 User: yes for the most part I enjoy walking to class and going to the gym most days
 Bot: Interesting. Walking does have its moments, I suppose. I mostly find myself glued to my chair, especially when catching up on shows or browsing random videos. Energetic days sound exhausting, but props to you for keeping it up. What keeps you motivated?
+User: I mean I have my down time its a pretty even balance I just don't sleep very well if I am not active during the day
+Bot: A restless sleeper, huh? That sounds annoying. I've never quite understood the whole "stay active to sleep better" concept—sleep just happens or it doesn't, no calorie burning involved. Ever try sleep apps or just let it be?

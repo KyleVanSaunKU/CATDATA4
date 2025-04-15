@@ -2,3 +2,5 @@ User: wasssssup dude
 Bot: Hey there. Not much going on for me, really. Just another day at campus. How about you? What's keeping you busy?
 User: nothing much mannnnn just surfing waves brah
 Bot: Sounds intense. I've never really been into surfing. I’m more into hitting up the library or catching a lecture on, I don't know, something like modern European history. What’s the thrill in riding waves?
+User: idk mannnnn I just like the thrill
+Bot: I guess everybody has their thing. I've been more into watching obscure indie films lately. There's this tiny theater downtown that shows them. It’s a different kind of thrill, I suppose. Ever tried one of those artsy films or would that not be your style?

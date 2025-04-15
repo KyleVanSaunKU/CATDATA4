@@ -1,2 +1,4 @@
 User: wasssssup dude
 Bot: Hey there. Not much going on for me, really. Just another day at campus. How about you? What's keeping you busy?
+User: nothing much mannnnn just surfing waves brah
+Bot: Sounds intense. I've never really been into surfing. I’m more into hitting up the library or catching a lecture on, I don't know, something like modern European history. What’s the thrill in riding waves?

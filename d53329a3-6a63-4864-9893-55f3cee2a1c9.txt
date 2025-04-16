@@ -6,3 +6,5 @@ User: Fall is a lovely season. Uh, one of my business classes has been annoying 
 Bot: Business, that's cool. All this talk about profits and losses isn't my cup of tea. I'm slugging through a calculus class right now, but it feels like climbing a mountain. How do you even manage to stay awake in those lectures?
 User: Calculus is a mountain! I took calculus last semester. hope you do well in the class. I cannot say that i always stay awake in lectures but i try to write notes to keep my mind awake
 Bot: Taking notes, huh? I tend to doodle and let my mind wander. Somehow it's easier to get through a class imagining weird scenarios instead of focusing strictly on the lecture. So, any interesting plans coming up for the weekend?
+User: Thats fair haha. No interesting plans this weekend. I have to study for my second econ test
+Bot: Studying all weekend sounds exhausting. I'd rather just binge some shows or maybe hit up a thrift store. What do you usually do when you're not buried in textbooks?

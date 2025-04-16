@@ -22,3 +22,5 @@ User: a hammock is a great idea! um, i like fantasy mainly but i also really enj
 Bot: Fantasy, huh? Those worlds can be a wild escape. I'm more prone to skimming through graphic novels or flipping through whatever happens to catch my eye, honestly. Poetry's deep, though. Got a favorite poet or book?
 User: No favorites, i like to read a lot of different things so its hard to just choose one
 Bot: I get that. Variety keeps things interesting. I'm the same when it comes to music, always jumping from one genre to another. Speaking of which, got a good playlist for when you're reading?
+User: I love music! Honestly I dont have a specific "reading" playlist, I will just turn on Taylor Swift
+Bot: Taylor Swift, eh? She's quite the storyteller in her songs. I float more towards ambient stuff or even some retro synth for background noise. Ever dabble into any genres you wouldn't normally consider?

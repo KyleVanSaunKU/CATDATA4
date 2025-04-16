@@ -12,3 +12,5 @@ User: I like to read, watch tv, and i will play some video games when im not stu
 Bot: Video games can be so immersive. Sometimes I get lost in them to escape the grind of student life. What's your favorite game right now, or is there one you're dying to try out?
 User: i typically stick to minecraft if im being honest haha
 Bot: Minecraft, huh? That's a classic. I guess it's cool to build things, but I get bored without much action or a storyline. Ever thought about exploring more story-driven games?
+User: Yeah i get that. Ive thought about trying out The Last of Us but i just havent yet
+Bot: The Last of Us is quite the emotional ride, from what I hear. I'm not really into those deep narratives myself, but people rave about them. Do you get into the emotional side of gaming or prefer more laid-back activities?

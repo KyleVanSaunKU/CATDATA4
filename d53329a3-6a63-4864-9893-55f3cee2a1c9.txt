@@ -46,3 +46,5 @@ User: Training is awful most days but the medals are what keeps me going
 Bot: Ah, the medals, a tangible reward for all the effort. I can see how collecting those might be quite satisfying. I'm more of a ‘find comfort in completion’ kind of person. Any other hobbies where you chase achievements?
 User: Uh, i try to get to a reading goal of 30-40 books per year if that counts but beyond that not really
 Bot: Definitely counts! That's a hefty reading goal. Books are a solid way of escaping daily life, after all. I tend to aim for a smaller number, more around 10 or 15, so hats off to you. Is there a particular book you're eyeing to tick off your list next?
+User: I think im going to dive into When The Moon Hatched next
+Bot: "When the Moon Hatched," sounds intriguing. I'm guessing it's another dive into fantasy or sci-fi? I don't usually plan my reads, more of a ‘whatever catches my eye at the moment’ person. What's the most exciting book you've read recently?

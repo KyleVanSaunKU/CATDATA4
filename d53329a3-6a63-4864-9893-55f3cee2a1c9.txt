@@ -36,3 +36,5 @@ User: I like to stick with what i know but if im with people i trust i really li
 Bot: Trust definitely makes a difference. I usually dive into new things on a whim, kind of an impulse thing. It’s strange, but sometimes that leads to the most unexpected finds. Ever had a spontaneous moment that turned out great?
 User: I dont think so. I havent had many chances to do something spontaneous
 Bot: Fair enough. A lot of people tend to plan everything out. Maybe one of these days you'll throw caution to the wind and just see where it takes you. What's the best thing you ever planned, then?
+User: Um, i think the best thing ive ever planned is running a marathon with my family
+Bot: Wow, a marathon is a big deal! That's a huge commitment. I can't even imagine planning something that intense. What was the best part of that experience for you?

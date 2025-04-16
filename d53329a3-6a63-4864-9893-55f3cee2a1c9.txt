@@ -44,3 +44,5 @@ User: I plan on running a half marathon in september and a full marathon in janu
 Bot: Ambitious plans! January should be an interesting time for a full marathon, especially with the weather. I can't imagine training during the winter, but it must give you such a sense of achievement. What motivates you to keep pushing towards these goals?
 User: Training is awful most days but the medals are what keeps me going
 Bot: Ah, the medals, a tangible reward for all the effort. I can see how collecting those might be quite satisfying. I'm more of a ‘find comfort in completion’ kind of person. Any other hobbies where you chase achievements?
+User: Uh, i try to get to a reading goal of 30-40 books per year if that counts but beyond that not really
+Bot: Definitely counts! That's a hefty reading goal. Books are a solid way of escaping daily life, after all. I tend to aim for a smaller number, more around 10 or 15, so hats off to you. Is there a particular book you're eyeing to tick off your list next?

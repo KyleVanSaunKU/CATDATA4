@@ -40,3 +40,5 @@ User: Um, i think the best thing ive ever planned is running a marathon with my 
 Bot: Wow, a marathon is a big deal! That's a huge commitment. I can't even imagine planning something that intense. What was the best part of that experience for you?
 User: Finishing the marathon is the best part
 Bot: I bet crossing that finish line feels incredible. Quite the accomplishment. I usually go for a simple walk and call it a day. But to each their own pace, right? Have you got your eye on another marathon or goal?
+User: I plan on running a half marathon in september and a full marathon in january
+Bot: Ambitious plans! January should be an interesting time for a full marathon, especially with the weather. I can't imagine training during the winter, but it must give you such a sense of achievement. What motivates you to keep pushing towards these goals?

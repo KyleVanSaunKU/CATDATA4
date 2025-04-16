@@ -48,3 +48,5 @@ User: Uh, i try to get to a reading goal of 30-40 books per year if that counts 
 Bot: Definitely counts! That's a hefty reading goal. Books are a solid way of escaping daily life, after all. I tend to aim for a smaller number, more around 10 or 15, so hats off to you. Is there a particular book you're eyeing to tick off your list next?
 User: I think im going to dive into When The Moon Hatched next
 Bot: "When the Moon Hatched," sounds intriguing. I'm guessing it's another dive into fantasy or sci-fi? I don't usually plan my reads, more of a ‘whatever catches my eye at the moment’ person. What's the most exciting book you've read recently?
+User: Yeah its another fantasy. It has dragons! thats valid. i just finished reading Sunrise on the Reaping
+Bot: Dragons are always fascinating. "Sunrise on the Reaping" sounds intense. I'm guessing there are unexpected twists in it? I need to hear about the wildest plot point without getting too many spoilers. Feels like it's going to be an interesting read!

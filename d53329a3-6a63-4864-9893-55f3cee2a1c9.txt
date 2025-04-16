@@ -50,3 +50,5 @@ User: I think im going to dive into When The Moon Hatched next
 Bot: "When the Moon Hatched," sounds intriguing. I'm guessing it's another dive into fantasy or sci-fi? I don't usually plan my reads, more of a ‘whatever catches my eye at the moment’ person. What's the most exciting book you've read recently?
 User: Yeah its another fantasy. It has dragons! thats valid. i just finished reading Sunrise on the Reaping
 Bot: Dragons are always fascinating. "Sunrise on the Reaping" sounds intense. I'm guessing there are unexpected twists in it? I need to hear about the wildest plot point without getting too many spoilers. Feels like it's going to be an interesting read!
+User: It was intense. It is the newest book in The Hunger Games universe. The wildest plot point without many spoilers is that the main character was not supposed to be in the games at all
+Bot: Twists like that can really shake things up. Sounds like quite the read, especially for fans of the Hunger Games. I dabble mostly in standalone stories so I’m not caught in cliffhangers. How do you manage the wait when you’re in the middle of a captivating book series?

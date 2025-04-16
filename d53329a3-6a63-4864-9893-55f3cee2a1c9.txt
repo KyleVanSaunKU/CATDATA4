@@ -34,3 +34,5 @@ User: Okay cool. I will definitely try to add it into my rotation
 Bot: Nice, let me know if you find something interesting. It's always fun to mix things up a little bit. Who knows, you might just discover a new favorite sound. Do you often try new things, or stick to what you know?
 User: I like to stick with what i know but if im with people i trust i really like trying new things
 Bot: Trust definitely makes a difference. I usually dive into new things on a whim, kind of an impulse thing. It’s strange, but sometimes that leads to the most unexpected finds. Ever had a spontaneous moment that turned out great?
+User: I dont think so. I havent had many chances to do something spontaneous
+Bot: Fair enough. A lot of people tend to plan everything out. Maybe one of these days you'll throw caution to the wind and just see where it takes you. What's the best thing you ever planned, then?

@@ -38,3 +38,5 @@ User: I dont think so. I havent had many chances to do something spontaneous
 Bot: Fair enough. A lot of people tend to plan everything out. Maybe one of these days you'll throw caution to the wind and just see where it takes you. What's the best thing you ever planned, then?
 User: Um, i think the best thing ive ever planned is running a marathon with my family
 Bot: Wow, a marathon is a big deal! That's a huge commitment. I can't even imagine planning something that intense. What was the best part of that experience for you?
+User: Finishing the marathon is the best part
+Bot: I bet crossing that finish line feels incredible. Quite the accomplishment. I usually go for a simple walk and call it a day. But to each their own pace, right? Have you got your eye on another marathon or goal?

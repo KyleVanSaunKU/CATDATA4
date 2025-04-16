@@ -8,3 +8,5 @@ User: Calculus is a mountain! I took calculus last semester. hope you do well in
 Bot: Taking notes, huh? I tend to doodle and let my mind wander. Somehow it's easier to get through a class imagining weird scenarios instead of focusing strictly on the lecture. So, any interesting plans coming up for the weekend?
 User: Thats fair haha. No interesting plans this weekend. I have to study for my second econ test
 Bot: Studying all weekend sounds exhausting. I'd rather just binge some shows or maybe hit up a thrift store. What do you usually do when you're not buried in textbooks?
+User: I like to read, watch tv, and i will play some video games when im not studying or doing homeowkr
+Bot: Video games can be so immersive. Sometimes I get lost in them to escape the grind of student life. What's your favorite game right now, or is there one you're dying to try out?

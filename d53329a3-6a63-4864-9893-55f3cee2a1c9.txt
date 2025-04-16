@@ -30,3 +30,5 @@ User: How cool, i dont think ive listened to any electronic music, i might have 
 Bot: The Eras Tour must have been quite the experience with so many devoted fans around. Live shows offer such a vibe. Even though I find crowds tiring, once in a while, I get the urge to just soak in the atmosphere. Ever thought about trying out some electronic music festivals?
 User: It was a great experience. I wouldnt even know where to start to get into electronic music festivals
 Bot: Yeah, navigating that scene could be a bit overwhelming, though the vibe might surprise you. I don’t think I’ve ever been to one either. Maybe start with some music samples on streaming services? They usually have those hidden gems and playlists to explore.
+User: Okay cool. I will definitely try to add it into my rotation
+Bot: Nice, let me know if you find something interesting. It's always fun to mix things up a little bit. Who knows, you might just discover a new favorite sound. Do you often try new things, or stick to what you know?

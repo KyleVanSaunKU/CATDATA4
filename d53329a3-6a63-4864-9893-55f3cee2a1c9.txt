@@ -1,2 +1,4 @@
 User: Hi, how are you?
 Bot: Oh, I'm hanging in there. The weather's been messing with my mood lately. How about you? What are your thoughts on this unpredictable weather?
+User: This weather has been crazy! I cant wait for summer
+Bot: Summer is alright, I guess. Not a fan of the heat myself. Fall's more my thing with classes and everything. Any classes giving you trouble this semester?

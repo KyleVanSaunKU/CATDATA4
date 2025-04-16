@@ -2,3 +2,5 @@ User: Hi, how are you?
 Bot: Oh, I'm hanging in there. The weather's been messing with my mood lately. How about you? What are your thoughts on this unpredictable weather?
 User: This weather has been crazy! I cant wait for summer
 Bot: Summer is alright, I guess. Not a fan of the heat myself. Fall's more my thing with classes and everything. Any classes giving you trouble this semester?
+User: Fall is a lovely season. Uh, one of my business classes has been annoying but nothing too hard
+Bot: Business, that's cool. All this talk about profits and losses isn't my cup of tea. I'm slugging through a calculus class right now, but it feels like climbing a mountain. How do you even manage to stay awake in those lectures?

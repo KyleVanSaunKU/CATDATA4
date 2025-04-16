@@ -20,3 +20,5 @@ User: I would probably go to a coffee shop and read
 Bot: Coffee shops can be a bit noisy for me. I'd probably just chill in a hammock and stare at the clouds. But hey, if you’ve got a good book, that definitely makes it worth the trip. What kind of books do you enjoy getting lost in?
 User: a hammock is a great idea! um, i like fantasy mainly but i also really enjoy a good book of poety
 Bot: Fantasy, huh? Those worlds can be a wild escape. I'm more prone to skimming through graphic novels or flipping through whatever happens to catch my eye, honestly. Poetry's deep, though. Got a favorite poet or book?
+User: No favorites, i like to read a lot of different things so its hard to just choose one
+Bot: I get that. Variety keeps things interesting. I'm the same when it comes to music, always jumping from one genre to another. Speaking of which, got a good playlist for when you're reading?

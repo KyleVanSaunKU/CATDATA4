@@ -1,0 +1,2 @@
+User: Hi, how are you?
+Bot: Oh, I'm hanging in there. The weather's been messing with my mood lately. How about you? What are your thoughts on this unpredictable weather?

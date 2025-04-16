@@ -10,3 +10,5 @@ User: Thats fair haha. No interesting plans this weekend. I have to study for my
 Bot: Studying all weekend sounds exhausting. I'd rather just binge some shows or maybe hit up a thrift store. What do you usually do when you're not buried in textbooks?
 User: I like to read, watch tv, and i will play some video games when im not studying or doing homeowkr
 Bot: Video games can be so immersive. Sometimes I get lost in them to escape the grind of student life. What's your favorite game right now, or is there one you're dying to try out?
+User: i typically stick to minecraft if im being honest haha
+Bot: Minecraft, huh? That's a classic. I guess it's cool to build things, but I get bored without much action or a storyline. Ever thought about exploring more story-driven games?

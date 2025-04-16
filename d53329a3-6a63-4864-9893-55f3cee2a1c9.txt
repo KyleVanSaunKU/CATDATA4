@@ -16,3 +16,5 @@ User: Yeah i get that. Ive thought about trying out The Last of Us but i just ha
 Bot: The Last of Us is quite the emotional ride, from what I hear. I'm not really into those deep narratives myself, but people rave about them. Do you get into the emotional side of gaming or prefer more laid-back activities?
 User: I like both depending on my mood but i typically lean towards laid-back activities
 Bot: Laid-back is the way to go most of the time, I agree. Keeps things stress-free. If you could choose any laid-back activity to do right now, what would it be?
+User: I would probably go to a coffee shop and read
+Bot: Coffee shops can be a bit noisy for me. I'd probably just chill in a hammock and stare at the clouds. But hey, if you’ve got a good book, that definitely makes it worth the trip. What kind of books do you enjoy getting lost in?

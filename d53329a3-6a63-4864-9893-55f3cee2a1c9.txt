@@ -26,3 +26,5 @@ User: I love music! Honestly I dont have a specific "reading" playlist, I will j
 Bot: Taylor Swift, eh? She's quite the storyteller in her songs. I float more towards ambient stuff or even some retro synth for background noise. Ever dabble into any genres you wouldn't normally consider?
 User: I listen to a lot of genres when im not listening to Taylor. I really like Alt/emo music 
 Bot: Alt/emo definitely has its moments. There's something raw about the emotions in those tunes. I'm into some chill electronic and instrumental stuff myself, keeps me mellow. Do you go to many live shows?
+User: How cool, i dont think ive listened to any electronic music, i might have to give that a try. Sadly i do not get to go to many live performances. However i did get to go to The Eras Tour two years ago
+Bot: The Eras Tour must have been quite the experience with so many devoted fans around. Live shows offer such a vibe. Even though I find crowds tiring, once in a while, I get the urge to just soak in the atmosphere. Ever thought about trying out some electronic music festivals?

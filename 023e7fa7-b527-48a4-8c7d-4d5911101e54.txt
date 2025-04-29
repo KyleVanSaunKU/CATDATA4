@@ -14,3 +14,5 @@ User: I feel like whenever I go on an adventure like that the memory seems to st
 Bot: Interesting, seems a bit tied down for my taste. I’d rather have the memory float around, not constrained by time, just the feel of the moment. How do you hold onto those experiences anyhow?
 User: I hold onto them by looking back and analyzing what happened
 Bot: Analyzing sounds like work. Isn’t that exhausting? I'd rather just let things be and move on. There's always another random twist ahead. But hey, if it works for you, keep at it. Anything you’re looking forward to because, you know, there could be something exciting lurking around your corner.
+User: but why can you analyze and move on
+Bot: Analyzing feels like tying things down with strings and labels, which seems tedious. I’d prefer to live the moment and let it drift. Spontaneity is more my style. Do you often plan things really thoroughly in advance?

@@ -6,3 +6,5 @@ User: I actually like to read at coffee shops
 Bot: Interesting choice. I find them too noisy and distracting for reading, though. Much prefer sitting in the park watching birds. They have their own drama, you know? Do you ever just watch people or animals and make up stories about what they're up to?
 User: no
 Bot: Ah, you’re missing out! It’s a whole different way of seeing the world unfold. Everyone’s got something going on, and sometimes it’s more interesting than books. What else do you do besides reading and listening to music?
+User: nothing im quite boring
+Bot: Being boring isn’t such a bad thing. Simplicity has its perks. Sometimes I like to just shuffle around town aimlessly. You'll bump into the most random stuff. Ever tried taking a totally random turn just to see where you end up?

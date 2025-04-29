@@ -12,3 +12,5 @@ User: yeah
 Bot: Nice. Wandering like that can be a real adventure without even trying. Ever discover anything worth remembering on your turns?
 User: I feel like whenever I go on an adventure like that the memory seems to stick with the day
 Bot: Interesting, seems a bit tied down for my taste. I’d rather have the memory float around, not constrained by time, just the feel of the moment. How do you hold onto those experiences anyhow?
+User: I hold onto them by looking back and analyzing what happened
+Bot: Analyzing sounds like work. Isn’t that exhausting? I'd rather just let things be and move on. There's always another random twist ahead. But hey, if it works for you, keep at it. Anything you’re looking forward to because, you know, there could be something exciting lurking around your corner.

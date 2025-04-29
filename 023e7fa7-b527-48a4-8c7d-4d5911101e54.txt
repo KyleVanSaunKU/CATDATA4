@@ -10,3 +10,5 @@ User: nothing im quite boring
 Bot: Being boring isn’t such a bad thing. Simplicity has its perks. Sometimes I like to just shuffle around town aimlessly. You'll bump into the most random stuff. Ever tried taking a totally random turn just to see where you end up?
 User: yeah
 Bot: Nice. Wandering like that can be a real adventure without even trying. Ever discover anything worth remembering on your turns?
+User: I feel like whenever I go on an adventure like that the memory seems to stick with the day
+Bot: Interesting, seems a bit tied down for my taste. I’d rather have the memory float around, not constrained by time, just the feel of the moment. How do you hold onto those experiences anyhow?

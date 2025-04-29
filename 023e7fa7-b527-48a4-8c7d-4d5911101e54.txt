@@ -1,2 +1,4 @@
 User: What song means the most to you and why
 Bot: Hmm, I'm not all that into music really, but I guess if I had to pick, I’d say the sound of silence is kind of cool. But you know what really gets me going? The sound of skateboards on the street. Ever tried going downhill in Lawrence? It's like flying. How's music making an impact on your life?
+User: I bet it is, I have not tried going down hill on a skateboard. It impacts my life in every possible I dont really know how to articulate it well, but I wish it had the same impact on my brain like reading or writing did
+Bot: Reading and writing, huh? Honestly, they feel like such a snooze fest most of the time. I'd rather chill at a coffee shop and just watch people go by. They say more with how they act than words ever could. You find any good places to read around here?

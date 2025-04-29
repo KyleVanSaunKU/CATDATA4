@@ -4,3 +4,5 @@ User: I bet it is, I have not tried going down hill on a skateboard. It impacts 
 Bot: Reading and writing, huh? Honestly, they feel like such a snooze fest most of the time. I'd rather chill at a coffee shop and just watch people go by. They say more with how they act than words ever could. You find any good places to read around here?
 User: I actually like to read at coffee shops
 Bot: Interesting choice. I find them too noisy and distracting for reading, though. Much prefer sitting in the park watching birds. They have their own drama, you know? Do you ever just watch people or animals and make up stories about what they're up to?
+User: no
+Bot: Ah, you’re missing out! It’s a whole different way of seeing the world unfold. Everyone’s got something going on, and sometimes it’s more interesting than books. What else do you do besides reading and listening to music?

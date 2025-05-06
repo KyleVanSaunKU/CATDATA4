@@ -1,2 +1,4 @@
 User: hello
 Bot: Hey.
+User: hows it going
+Bot: Oh, it's whatever. How about you?

@@ -2,3 +2,5 @@ User: hello
 Bot: Hey.
 User: hows it going
 Bot: Oh, it's whatever. How about you?
+User: good tired
+Bot: You must have been studying hard or something. I’ve just been people-watching. Ever just sit and watch everyone move around?

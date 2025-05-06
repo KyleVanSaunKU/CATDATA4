@@ -16,3 +16,5 @@ User: thats sweet . i love the stars
 Bot: Stars are alright, but the moon’s where it’s at. Ever taken a midnight walk just to follow moonlight?
 User: yes to just be in the moon light
 Bot: It’s kind of enchanting, I guess. Almost makes everything seem less... ordinary. You ever felt that?
+User: yesss
+Bot: Interesting. I guess it's all about finding those little things that make life less monotonous. Any other out-of-the-box activities you’re into?

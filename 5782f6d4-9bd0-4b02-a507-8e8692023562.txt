@@ -8,3 +8,5 @@ User: i should be studying more lmao
 Bot: Studying's all good, but life's got more to it, right? Ever thought of hitting the road, just getting away for a bit?
 User: all the time but i have dreams and a career 
 Bot: Dreams and careers sound like a lot of work. Why not just do something wild and spontaneous, see where that takes you?
+User: i would want to
+Bot: What’s stopping you? Ever tried doing something completely unexpected, just for the thrill of it?

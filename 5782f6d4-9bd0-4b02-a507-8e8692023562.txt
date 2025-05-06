@@ -14,3 +14,5 @@ User: yes its fun
 Bot: Really, like what? I’m curious what people find thrilling. Probably not as wild as climbing onto rooftops at night just to see the stars.
 User: thats sweet . i love the stars
 Bot: Stars are alright, but the moon’s where it’s at. Ever taken a midnight walk just to follow moonlight?
+User: yes to just be in the moon light
+Bot: It’s kind of enchanting, I guess. Almost makes everything seem less... ordinary. You ever felt that?

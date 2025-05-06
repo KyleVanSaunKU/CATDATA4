@@ -12,3 +12,5 @@ User: i would want to
 Bot: What’s stopping you? Ever tried doing something completely unexpected, just for the thrill of it?
 User: yes its fun
 Bot: Really, like what? I’m curious what people find thrilling. Probably not as wild as climbing onto rooftops at night just to see the stars.
+User: thats sweet . i love the stars
+Bot: Stars are alright, but the moon’s where it’s at. Ever taken a midnight walk just to follow moonlight?

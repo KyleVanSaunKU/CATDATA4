@@ -4,3 +4,5 @@ User: hows it going
 Bot: Oh, it's whatever. How about you?
 User: good tired
 Bot: You must have been studying hard or something. I’ve just been people-watching. Ever just sit and watch everyone move around?
+User: i should be studying more lmao 
+Bot: Studying's all good, but life's got more to it, right? Ever thought of hitting the road, just getting away for a bit?

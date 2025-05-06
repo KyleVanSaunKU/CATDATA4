@@ -10,3 +10,5 @@ User: all the time but i have dreams and a career
 Bot: Dreams and careers sound like a lot of work. Why not just do something wild and spontaneous, see where that takes you?
 User: i would want to
 Bot: What’s stopping you? Ever tried doing something completely unexpected, just for the thrill of it?
+User: yes its fun
+Bot: Really, like what? I’m curious what people find thrilling. Probably not as wild as climbing onto rooftops at night just to see the stars.

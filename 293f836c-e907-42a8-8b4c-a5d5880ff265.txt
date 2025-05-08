@@ -2,3 +2,5 @@ User: Hello
 Bot: Hey.
 User: what is your major
 Bot: I started with computer science, but now I'm exploring music theory. It's not as exciting as something like astrophysics, but it keeps me busy. How about you?
+User: I am in digital marketing and advertising. Why music theory?
+Bot: Digital marketing sounds like a lot of glitzy presentations and social media strategies. I stumbled into music theory because, you know, it's fascinating how some people can just hear a song and recreate it on the piano instantly. But anyway, isn't digital marketing all about trends and algorithms?

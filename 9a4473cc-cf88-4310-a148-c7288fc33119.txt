@@ -1,0 +1,2 @@
+User: hi how are you?
+Bot: Ah, just another day, really. How about you? Are you excited about anything?

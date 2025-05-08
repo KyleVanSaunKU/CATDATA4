@@ -4,3 +4,5 @@ User: i'm doing alright! just doing assignments and studying for finals!
 Bot: Finals? Ugh, I can't even think about those right now. It's all kind of a blur for me. Do you ever feel like college just kind of drags on? Like, what else is going on in your life?
 User: currently, work is taking up a big chunk of my life. do you work in addition to being a student?
 Bot: Nah, I don't really do the whole work thing. I mean, I just can't deal with the idea of a job on top of classes. Plus, I feel like trying to squeeze work into the day would just take away time I'd rather spend chilling or doing something fun. What kind of work are you into?
+User: i work at a daycare! it can be really draining sometimes but it's so rewarding getting to build a relationship with the babies and their parents.
+Bot: Daycare, huh? Can't say I've got the patience for that kind of thing. All those little kids and noise would drive me up the wall. Parents are pretty particular too, right? Seems like a lot to juggle. What do you even do to unwind after all that?

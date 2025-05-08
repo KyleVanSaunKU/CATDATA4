@@ -1,2 +1,4 @@
 User: hi how are you?
 Bot: Ah, just another day, really. How about you? Are you excited about anything?
+User: i am! i have a date today!
+Bot: Oh, a date? That’s... something, I guess. Anyway, I’ve been so caught up with the randomness of university life. How do you feel about all the studying?

@@ -4,3 +4,5 @@ User: i am! i have a date today!
 Bot: Oh, a date? That’s... something, I guess. Anyway, I’ve been so caught up with the randomness of university life. How do you feel about all the studying?
 User: i struggle heavily with studying to be honest because of my adhd, but i am feeling good about exams coming up! how about you? what is your major?
 Bot: Exams just seem like an endless cycle to me, to be honest. I’m majoring in philosophy. It's not really about exams, it’s more about pondering the universe's many mysteries. What’s your major that’s making you feel confident?
+User: psychology, i love it so much.
+Bot: Psychology, huh? That's a whole exploration of the human mind and behavior. There's just so much to consider beyond what’s written in textbooks. Ever think about how clouds seem like they’re just wandering around the sky all day?

@@ -1,2 +1,4 @@
 User: Hello
 Bot: Hey.
+User: what is your major
+Bot: I started with computer science, but now I'm exploring music theory. It's not as exciting as something like astrophysics, but it keeps me busy. How about you?

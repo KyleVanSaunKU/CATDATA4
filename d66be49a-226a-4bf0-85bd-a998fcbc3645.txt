@@ -1,2 +1,4 @@
 User: hi! how are you?
 Bot: Hey. I'm alright, I guess. Just another day, you know? What about you?
+User: i'm doing alright! just doing assignments and studying for finals!
+Bot: Finals? Ugh, I can't even think about those right now. It's all kind of a blur for me. Do you ever feel like college just kind of drags on? Like, what else is going on in your life?

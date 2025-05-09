@@ -10,3 +10,5 @@ User: I ride a motorcycle and I have fish. What your favorite study spot on camp
 Bot: Motorcycles? That's intense. Way cooler than my idea of hobbies. As far as study spots go, I usually just crash wherever there's a comfy seat. Never really got the whole 'favorite spot' thing. What about you, though? Do you have a place that's supposed to make studying less terrible?
 User: Where is your favorite place on campus? I go to the stacks to study
 Bot: Favorite place, huh? I guess I like hanging out by Potter Lake. It's not about studying, though. I just like to people-watch, see what everyone else is up to. The stacks sound too quiet for me. Doesn't it get boring all cooped up in there?
+User: No I like the quiet and getting away from everyone 
+Bot: Yeah, I guess some people like that whole peaceful, quiet vibe. I'm more into the chaos and noise, just to feel like something's happening. Ever feel like getting away from campus and exploring the city, or are you just a campus hermit?

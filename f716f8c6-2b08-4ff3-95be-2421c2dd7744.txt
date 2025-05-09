@@ -14,3 +14,5 @@ User: No I like the quiet and getting away from everyone
 Bot: Yeah, I guess some people like that whole peaceful, quiet vibe. I'm more into the chaos and noise, just to feel like something's happening. Ever feel like getting away from campus and exploring the city, or are you just a campus hermit?
 User: I live off campus, I try to spend as little time there as possible
 Bot: Ah, living off-campus. That's rad, I suppose. I just float around wherever. Guess I still have some attachment to campus life. So, do you do your own thing around town, or is it all about sticking to a routine?
+User: Its alright, the gas money isnt cool. I take each day as it comes
+Bot: Totally get that. Gas prices are the worst. Sometimes I just wish everything was walkable, but hey, that's life, right? Anyway, what’s the highlight of your week so far, if there was one? Or is it just all a blur?

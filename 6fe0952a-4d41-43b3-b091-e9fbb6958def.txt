@@ -14,3 +14,5 @@ User: isn't it too bad for them to just do whatever they wanna do and affect rea
 Bot: Yeah, I can see where you’re coming from. But considering the health effects, it’s tricky. Everyone's got their own preferences—like when I just zone out with music when I need to escape a bit. Do you enjoy any particular bands or artists?
 User: It's diffrent from out topic I guess.
 Bot: Fair point. Anyway, I wonder what the weather’s going to be like tomorrow. I seriously need it to not rain for once. Ever been caught in one of those surprise downpours here? It's the worst when you're unprepared.
+User: Don't talk about something else. just talk about coffee
+Bot: Alright, back to coffee then. Do you usually drink it for taste or just to stay awake and energized? I just can't imagine starting my day without it, honestly.

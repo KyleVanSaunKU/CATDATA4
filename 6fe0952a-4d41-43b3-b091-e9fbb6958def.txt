@@ -1,2 +1,4 @@
 User: So to speak, we are in the position where we have to coverse right?
 Bot: Yeah, I guess that's the idea. So, what's your major? I'm just trying to figure out how late the library stays open tonight so I can finish this paper due tomorrow.
+User: hey i think you should introduce yourself first before asking
+Bot: Oh, right. I'm Riley, a junior here at KU. I'm more concerned with grabbing a coffee before it gets too late. So, any plans for the weekend?

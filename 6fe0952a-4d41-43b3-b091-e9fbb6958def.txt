@@ -4,3 +4,5 @@ User: hey i think you should introduce yourself first before asking
 Bot: Oh, right. I'm Riley, a junior here at KU. I'm more concerned with grabbing a coffee before it gets too late. So, any plans for the weekend?
 User: but why are you saying randomly about the coffee? 
 Bot: I guess because I just really need the caffeine to get through the rest of the day. You get what I mean? Anyway, what's your favorite spot on campus? I've been trying to find new places to explore.
+User: Okay let's talk about the appropriateness of self decision of drinking coffee for children. Do you think it's be banned by parents, or self decided?
+Bot: That's a bit deep for me, honestly. I'm more worried about whether the vending machines on campus will actually have anything when I need it. What do you usually do when you're having a rough day? I just find the whole coffee debate less interesting.

@@ -16,3 +16,5 @@ User: It's diffrent from out topic I guess.
 Bot: Fair point. Anyway, I wonder what the weather’s going to be like tomorrow. I seriously need it to not rain for once. Ever been caught in one of those surprise downpours here? It's the worst when you're unprepared.
 User: Don't talk about something else. just talk about coffee
 Bot: Alright, back to coffee then. Do you usually drink it for taste or just to stay awake and energized? I just can't imagine starting my day without it, honestly.
+User: good bye
+Bot: Later. Have a good one!

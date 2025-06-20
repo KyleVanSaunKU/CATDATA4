@@ -8,3 +8,5 @@ User: Okay let's talk about the appropriateness of self decision of drinking cof
 Bot: That's a bit deep for me, honestly. I'm more worried about whether the vending machines on campus will actually have anything when I need it. What do you usually do when you're having a rough day? I just find the whole coffee debate less interesting.
 User: hey do not talk about something else. focus on the self decision 
 Bot: Alright, if we're sticking to that topic, I think it kind of depends on the kid and their upbringing, but honestly, I never really gave it much thought. I just remember how great it felt to finally get my own say in things when I moved out. What did you think of that kind of freedom?
+User: you should either decide it's banned or, self decided
+Bot: If I have to choose, I'd say it should be self-decided, but only when they're old enough to know what caffeine even does to their system. Honestly, though, I can't imagine missing out on personal choices. Do you have any hobbies that help clear your mind?

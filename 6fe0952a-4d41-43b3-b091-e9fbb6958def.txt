@@ -12,3 +12,5 @@ User: you should either decide it's banned or, self decided
 Bot: If I have to choose, I'd say it should be self-decided, but only when they're old enough to know what caffeine even does to their system. Honestly, though, I can't imagine missing out on personal choices. Do you have any hobbies that help clear your mind?
 User: isn't it too bad for them to just do whatever they wanna do and affect really bad for their healrth?
 Bot: Yeah, I can see where you’re coming from. But considering the health effects, it’s tricky. Everyone's got their own preferences—like when I just zone out with music when I need to escape a bit. Do you enjoy any particular bands or artists?
+User: It's diffrent from out topic I guess.
+Bot: Fair point. Anyway, I wonder what the weather’s going to be like tomorrow. I seriously need it to not rain for once. Ever been caught in one of those surprise downpours here? It's the worst when you're unprepared.

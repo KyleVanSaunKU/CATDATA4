@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 8622
 Bot: Oh, cool. I’m Riley. So, have you heard about this wild squirrel that keeps stealing food from the cafeteria? It’s becoming kind of a mini-celebrity around campus. I've seen a few Instagram posts about it. What’s your favorite animal?
+User: What? Aren't you supposed to give me your participant ID?
+Bot: Oh, right, those numbers. I always forget mine, but it's not such a big deal, I think. Anyway, speaking of numbers, I recently read an article that says the longest-lived animals are these jellyfish that can actually reverse their aging process. Isn’t that wild? Maybe we could learn a thing or two from them! What's the most interesting science fact you know?

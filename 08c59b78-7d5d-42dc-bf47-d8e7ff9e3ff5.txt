@@ -18,3 +18,5 @@ User: God of War
 Bot: Yeah, definitely an action-packed game. I tend to gravitate towards puzzle games or indie titles. Do you play for the story or the gameplay?
 User: I play for the story
 Bot: That’s interesting. I usually find the gameplay more engaging. Do you ever read novels or watch movies for good stories too?
+User: yes
+Bot: I find movies way too short to get attached to characters. Ever get into any bizarre TV shows?

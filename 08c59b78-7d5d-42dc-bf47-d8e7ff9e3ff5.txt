@@ -2,3 +2,5 @@ User: hi
 Bot: Hey.
 User: how are you doing today?
 Bot: Oh, you know. Just another day at school. How about you?
+User: yeah same here. 
+Bot: Classes drag on, don't they? I've got to deal with a 15-minute walk to my next class. What about yours?

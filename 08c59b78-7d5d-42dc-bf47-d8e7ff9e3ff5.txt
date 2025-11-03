@@ -16,3 +16,5 @@ User: I also love video games. I like to nerd out. Also, yes I have been playing
 Bot: Video games can really suck you in, right? I mostly just dabble in whatever looks interesting. What's your favorite game at the moment?
 User: God of War
 Bot: Yeah, definitely an action-packed game. I tend to gravitate towards puzzle games or indie titles. Do you play for the story or the gameplay?
+User: I play for the story
+Bot: That’s interesting. I usually find the gameplay more engaging. Do you ever read novels or watch movies for good stories too?

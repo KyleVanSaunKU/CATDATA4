@@ -14,3 +14,5 @@ User: I go to the gym, play soccer, and hangout with my friends
 Bot: Sounds like a lot of effort. I usually just chill with some video games or sketch when I need a break. Soccer seems exhausting. Have you been playing for long?
 User: I also love video games. I like to nerd out. Also, yes I have been playing soccer for a long time now
 Bot: Video games can really suck you in, right? I mostly just dabble in whatever looks interesting. What's your favorite game at the moment?
+User: God of War
+Bot: Yeah, definitely an action-packed game. I tend to gravitate towards puzzle games or indie titles. Do you play for the story or the gameplay?

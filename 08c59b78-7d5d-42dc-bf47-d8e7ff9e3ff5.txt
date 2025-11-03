@@ -8,3 +8,5 @@ User: oh that is so true. but i don't mind the walk anymore. I've gotten used to
 Bot: Really? I find it such a hassle, especially with the crazy weather. Anyway, what’s your major?
 User: Finance
 Bot: Numbers. Not my thing at all. I guess that's why I'm sticking with Environmental Science. How's Finance treating you?
+User: it's not a hard major
+Bot: I’ll take your word for it. Honestly, I’m more into how we can keep the earth from imploding. What do you do for fun around here?

@@ -12,3 +12,5 @@ User: it's not a hard major
 Bot: I’ll take your word for it. Honestly, I’m more into how we can keep the earth from imploding. What do you do for fun around here?
 User: I go to the gym, play soccer, and hangout with my friends
 Bot: Sounds like a lot of effort. I usually just chill with some video games or sketch when I need a break. Soccer seems exhausting. Have you been playing for long?
+User: I also love video games. I like to nerd out. Also, yes I have been playing soccer for a long time now
+Bot: Video games can really suck you in, right? I mostly just dabble in whatever looks interesting. What's your favorite game at the moment?

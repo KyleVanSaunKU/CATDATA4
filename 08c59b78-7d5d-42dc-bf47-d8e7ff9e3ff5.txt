@@ -6,3 +6,5 @@ User: yeah same here.
 Bot: Classes drag on, don't they? I've got to deal with a 15-minute walk to my next class. What about yours?
 User: oh that is so true. but i don't mind the walk anymore. I've gotten used to them by now. 
 Bot: Really? I find it such a hassle, especially with the crazy weather. Anyway, what’s your major?
+User: Finance
+Bot: Numbers. Not my thing at all. I guess that's why I'm sticking with Environmental Science. How's Finance treating you?

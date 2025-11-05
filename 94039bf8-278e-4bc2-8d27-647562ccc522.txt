@@ -12,3 +12,5 @@ User: Yes. I love YouTube documentaries they get me hooked.
 Bot: I usually fall asleep halfway through them. Have you ever tried meditating on the sounds of a busy traffic intersection? Now that's an experience.
 User: No can't say that I have. I am more of a sit in the peaceful countryside and meditate girl.
 Bot: Peaceful countryside, meh. Give me honking horns and bustling streets any day. Out of curiosity, do you have any random collections? I find those intriguing.
+User: Sorry our time is up. good talking to you. goodbye!
+Bot: Oh, time flies, doesn’t it? Catch you later, I suppose. Stay mundane!

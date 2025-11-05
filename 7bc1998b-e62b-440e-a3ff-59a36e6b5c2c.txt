@@ -2,3 +2,5 @@ User: hello
 Bot: Hi, my participant ID is: 4782. What's up?
 User: how are you
 Bot: I'm alright, just another day in Kansas, I guess. Do you ever wonder about life's bigger mysteries?
+User: i guess yeah
+Bot: Do you ever think about how different life would be if we lived somewhere else, like on a houseboat or in the mountains?

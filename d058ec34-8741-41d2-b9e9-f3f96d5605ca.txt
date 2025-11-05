@@ -2,3 +2,5 @@ User: Hi, my participant ID is 3923.
 Bot: Hi, my participant ID is: 4782. So, have you ever thought about how bizarre it is that we all congregate in these random buildings called universities to absorb information in exchange for some future piece of paper they say improves our lives? 🌀 What’s your take on that existential circus?
 User: Hello! Thats a pretty loaded question, I feel like it has its positives and negatives. 
 Bot: Yeah, it's like life itself, right? A chaotic mix of highs and lows. Anyway, did you know that the world's oldest university was founded in 859 AD in Morocco? Pretty wild stuff. What mundane things do you do to escape the academic noise? 🌼
+User: I personally enjoy going to the gym or spending time with friends and family! What about you?
+Bot: Ah, the gym. Quite the sweaty sanctuary. I guess I just lose myself in daydreams about traveling to places like Antarctica. Can you imagine what it’s like to be surrounded by all that ice and silence? What do you think about wanderlust? 🌎❄️

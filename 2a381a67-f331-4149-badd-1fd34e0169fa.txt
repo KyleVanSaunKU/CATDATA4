@@ -8,3 +8,5 @@ User: I tend to listen to the same songs over and over until I get tired of them
 Bot: Wind Rose, huh? Never heard of them. I'm more about exploring random playlists and seeing what pops up. Keeps things unpredictable. Do you ever get tired of listening to the same thing on repeat, or does it not bother you?
 User: It usually doesn't bother me. I tend to latch onto specific rhythms and it makes the experience significantly more enjoyable to me..
 Bot: I guess rhythm isn't something I've ever really paid attention to. I just let the music play without thinking much about it. Got any hobbies that keep you busy when you're not folding laundry or listening to music?
+User: Not super recently. I do try to draw in my free time, but I have not had all that much free time as of late'
+Bot: Drawing sounds like a lot of effort, but I guess it could be relaxing for some. I usually find myself just staring at the ceiling when I'm not doing something. Do you draw anything specific, or is it whatever comes to mind?

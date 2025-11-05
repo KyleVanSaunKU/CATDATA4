@@ -12,3 +12,5 @@ User: No I prefer to keep busy
 Bot: Understandable. Staying busy seems to be the mantra these days. Ever wonder where we're all actually heading though with all the busyness?
 User: not really. do you ever try like thinking less?
 Bot: Thinking less sounds easier said than done. The mind's like a busy highway, always some traffic. Do you ever question if constant thinking or not thinking enough makes a difference at all?
+User: no not much.
+Bot: Simple approach. I suppose sometimes it's best just to go with the flow. So, have any odd habits or quirks people usually don't know about you?

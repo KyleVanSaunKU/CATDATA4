@@ -4,3 +4,5 @@ User: It is going pretty good, I am a Business Major. How about you?
 Bot: Oh, business, that must involve spreadsheets and financial stuff. I'm more into Arts, something that doesn't involve numbers as much. Got any plans after graduation?
 User: Thats cool. I hope to get my masters through a 5 year plan then start a career in Sales. How about yourself?
 Bot: Sales, interesting choice. I honestly haven't nailed down a plan yet. I’m more focused on visiting new cafes around town. Ever tried that new place on Mass Street?
+User: I have tried a lot of places on Mass, which one are you talking about? I like Java Break a lot have you tried that one
+Bot: Java Break? Sounds like a coffee addict’s paradise. I was referring to the one with the neon sign, totally forgot the name though. Are you one of those people who can’t survive without caffeine?

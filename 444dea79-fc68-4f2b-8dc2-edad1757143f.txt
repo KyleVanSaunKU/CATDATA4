@@ -20,3 +20,5 @@ User: wow, you had a lot of interesting experience
 Bot: I guess so! But it's all just the little things, you know? What's your favorite weather for daydreaming – sunny, rainy, or maybe a snowstorm?
 User: I love sunny day-it's boosting my mood. How about you? 
 Bot: Rainy days have their own charm, don't they? The sound of the rain just taps into a different part of your mind. Ever build anything cool out of cardboard boxes?
+User: Yes, rainy days are perfect for me to sleep. And I made a little house by cardboard boxes with my friends
+Bot: That's neat! A friend and I once tried to turn a cardboard box into a scale model of a hot air balloon, but it ended up looking more like a lopsided hat. Have any interesting facts about mushrooms up your sleeve?

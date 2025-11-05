@@ -16,3 +16,5 @@ User: yes i agree
 Bot: Sometimes it's nice finding adventure through a book instead of dealing with airport security. Do you have a favorite author or do you stick strictly to nonfiction?
 User: colleen hoover
 Bot: Her books are super popular, but romance isn't really my thing. I lean towards H.P. Lovecraft or Ray Bradbury for a bit of cosmic dread or dystopian feels. Do you find romance novels predictable?
+User: yes for sjre
+Bot: Yeah, they tend to follow the same pattern. What do you like to do when you need a break from all the romance stuff?

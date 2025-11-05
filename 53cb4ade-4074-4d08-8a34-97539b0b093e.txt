@@ -10,3 +10,5 @@ User: Its not too bad but could be better for sure
 Bot: Eh, all depends on what you're in the mood for, I suppose. Anyway, ever thought about getting a pet to make college life a bit less mundane?
 User: Yes Im thinking of fostering a dog because I can also get community service hours for it
 Bot: Interesting approach. Always figured cats were the more low-maintenance option for students juggling schedules. What's your major, by the way?
+User: political science
+Bot: Politics, huh? That sounds like a lot of debates and papers. I'm more into digital media myself. Ever collaborated with people outside your major?

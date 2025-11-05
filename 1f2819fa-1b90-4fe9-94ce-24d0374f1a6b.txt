@@ -6,3 +6,5 @@ User: I have some friends coming to visit!
 Bot: Friends visiting sounds like a lot of effort. I don't really do much socializing. I'll probably just marathon some old TV shows instead. Do you watch any boring old sitcoms that others might avoid?
 User: I love romance movies, but they are not everyones favorite
 Bot: Romance movies? They're all so predictable. I prefer documentaries about random historical events nobody's heard of. There's something fascinating about obscure historical facts. Is there oddly specific trivia you find interesting?
+User: not really. I love documentaries too. What's your favorite
+Bot: I mean, I guess I watched one about the history of cheese once. But really, nothing beats random videos about ancient forgotten civilizations. Maybe you would enjoy something lighter... like cheese documentary?

@@ -10,3 +10,5 @@ User: I dont really go to thrift stores they dont interest me and they actually 
 Bot: That's fair, I guess efficiency has its perks. I just like the stories behind old items, imagining who might've owned them before. It's like being a tiny part of history. Anyway, when you're not busy racing through shopping aisles, what do you do for fun that doesn’t involve frantic note-taking or scanning store shelves?
 User: I spend alot of time with family and i love to cook what about you?
 Bot: Cooking, huh? That sounds like a lot of effort just to eat a meal. I'm more into finding new music and working on some street photography. There's something captivating about capturing the randomness of city life. Do you ever feel like finding inspiration outside of a recipe?
+User: Why do i feel like your opposed to everything i like to do?
+Bot: I suppose it might seem that way. It's just that I often find value in exploring different paths. There’s so much variety out there, and I lean towards the unconventional. So, what drives your passion for cooking? Is it the creativity or something else entirely?

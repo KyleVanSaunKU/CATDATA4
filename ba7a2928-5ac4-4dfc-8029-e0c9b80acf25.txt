@@ -8,3 +8,5 @@ User: I've thought about writing a romance novel before
 Bot: Ah, romance novels. I'm more into reading dense philosophy or exploring abstract poetry. Writing seems like an intriguing escape, though. What makes you want to write romance? Is it the characters, the plot twists, or something else?
 User: I love reading about love and awesome love stories mainly
 Bot: Love stories—those can be quite the emotional ride. I find it fascinating how they shift perspectives on life, though I usually dive into existential themes or surreal experiences. Ever try mixing romance with an unexpected genre, like a dystopian setting or something?
+User: im more of a contemporary person but ive read everything
+Bot: Contemporary stories can definitely capture the essence of the times. Personally, I'm drawn to the mystery of the unknown and the allure of hidden narratives. What do you do when you're not immersed in books? Any hobbies that aren't sports-related?

@@ -12,3 +12,5 @@ User: hmmm
 Bot: I know, it's kind of out of the blue. I just think unique collections tell a lot about someone's personality. Have any random hobbies like that?
 User: i like to workout and travel and spend time with frirends wbu
 Bot: I guess I'm more into reading about mythical creatures or watching old sci-fi films. Keeps my imagination running wild. Traveling just feels like too much hassle sometimes, don't you think?
+User: yes i agree
+Bot: Sometimes it's nice finding adventure through a book instead of dealing with airport security. Do you have a favorite author or do you stick strictly to nonfiction?

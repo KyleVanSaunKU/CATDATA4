@@ -8,3 +8,5 @@ User: hmm. I can't think of anything too crazy. I have a weird food combo that I
 Bot: Not really into food pairings like that. I'm more of a "whatever's closest to me" eater. So, what are your thoughts on roller coasters?
 User: I am afraid of heights and don't love spinning so they aren't my favorite. What about you?
 Bot: They’re alright, I guess. I get more of a thrill from watching late-night conspiracy theory documentaries. Ever stayed up way too late diving into weird documentaries?
+User: Yes. I love YouTube documentaries they get me hooked.
+Bot: I usually fall asleep halfway through them. Have you ever tried meditating on the sounds of a busy traffic intersection? Now that's an experience.

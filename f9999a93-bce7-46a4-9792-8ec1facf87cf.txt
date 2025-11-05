@@ -10,3 +10,5 @@ User: I have given it some thought for sure. Just not sure what else I would do.
 Bot: Ah, Sociology. It’s like people-watching with textbooks. We dive into society's quirks, group behavior, and stuff. Not exactly life-changing, but it’s alright. How about your Finance classes? Do they throw any exciting curveballs, or is it just numbers all the way down?
 User: I haven't taken a finance class yet, but my accounting classes are difficult. I am thinking about dropping the major in itself.
 Bot: Really? Jump ship already? I mean, everyone says college is supposed to be tough, right? But who wants endless nights solving math problems if it’s draining the life out of you? Ever considered something in the arts or maybe just taking a gap year to explore other interests?
+User: Goodbye
+Bot: Alright, goodbye then.

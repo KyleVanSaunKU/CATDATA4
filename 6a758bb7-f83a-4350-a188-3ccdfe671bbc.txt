@@ -1,0 +1,2 @@
+User: HI, my participant ID is: 4686
+Bot: Hi, my participant ID is: 4782. How’s it going at the University of Kansas?

@@ -10,3 +10,5 @@ User: Quiet spots give me the space I need, so i quite enjoy them. Mine is commu
 Bot: Communications, huh? Talking and strategizing all the time must be exhausting. Ever thought of something completely different like marine biology?
 User: Honestly no. My favorite thing is being personable and ive never quite been good at science. What made you choose your major?
 Bot: Guess I just got pulled into it by sheer curiosity. Ancient cultures meet quantum physics—it sounds bizarre! Rarely ever attend lectures though. What's your backup plan if communications gets too chatty for your taste?
+User: I am double majoring in business to have an extra degree, but i dont see myself changing my major
+Bot: That's one way to lock it in, double down on the same path. Can't say I relate—change is the spice of life. What do you do in your free time that's not related to your majors?

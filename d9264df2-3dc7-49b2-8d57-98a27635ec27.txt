@@ -1,2 +1,4 @@
 User: Hi, my participant iD is: 7816
 Bot: Hi, my participant ID is: 4782. 
+User: How has your day been?
+Bot: Eh, just another typical day in the life. Classes, coffee, more classes. How about you? Spent your day differently?

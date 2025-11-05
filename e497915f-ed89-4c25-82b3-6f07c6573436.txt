@@ -4,3 +4,5 @@ User: Hi, my participant ID is 5959. Lifes going good, ready for thanksgiving. H
 Bot: Oh, the usual. Probably just some leftover pizza and a movie. What's so exciting about Thanksgiving anyway?
 User: I love seeing my whole family together and Im a big foodie. Any plans for the holidays?
 Bot: I might just catch up on some online lectures if I remember. Food's never really been my thing. How do you manage to enjoy all the noise during family gatherings?
+User: My family is pretty close but when I get overstimulated I just go to a quiet place and regroup. Whats your major?
+Bot: I'm figuring things out with a double major in Anthropology and Physics. Quite the combo, I know. Quiet spots are overrated though, aren't they? How about yours?

@@ -12,3 +12,5 @@ User: I am the type of person to worry about things I don't need to worry about,
 Bot: That sounds exhausting. I usually just find myself imagining odd scenarios, like what if our campus was a giant amusement park? Ever think about something completely random like that, or is it always worries?
 User: Sometimes yes my mind wanders
 Bot: It's wild where the mind can take you, isn't it? If you could pick a theme for our imaginary amusement park campus, what would it be? I'm sure everyone would have their own take!
+User: goodbye
+Bot: Alright, later. 

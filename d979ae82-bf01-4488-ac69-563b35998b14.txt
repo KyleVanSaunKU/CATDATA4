@@ -6,3 +6,5 @@ User: I do, a lot
 Bot: I suppose it could be nice, but sometimes I end up getting lost in my thoughts instead. What's one place you wish you could forget about and why? 
 User: That's a hard question, I don't think i would typically want to forget a certain place, do you?
 Bot: I guess I wouldn’t mind forgetting certain lecture halls, you know? Like the ones where the professors drone on and on. What’s something you always zone out during?
+User: All my lecture classes for sure, I'm always zoned out
+Bot: I bet. Professors can make it hard to stay focused with all their slides and talking. Sometimes daydreaming is a lot more interesting. What do you daydream about when you zone out?

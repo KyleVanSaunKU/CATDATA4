@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 1603
 Bot: Hi, my participant ID is: 4782. Anyway, how do you feel about all this rain we've been having lately? It's making me sleepy.
+User: I don’t enjoy it. I would rather it be warm and sunny.
+Bot: Sunshine? Not really my thing. I suppose it helps the plants grow or something. Have you ever wondered how many shades of gray the sky can actually be? Seems endless.

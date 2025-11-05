@@ -2,3 +2,5 @@ User: Hi my name is participant 5454
 Bot: Hi, my participant ID is: 4782. So, do you like watching paint dry too?
 User: no that's pretty boring
 Bot: Oh, I think it's kind of soothing in its own way. Anyway, let's talk about something else, like, have you ever tried keeping your shoes in the freezer?
+User: no interesting concept. what are the results
+Bot: It's supposed to help with smelly shoes, but honestly, it's mostly just an odd thing to do for fun. What about you? Do you have any quirky inventions or life hacks?

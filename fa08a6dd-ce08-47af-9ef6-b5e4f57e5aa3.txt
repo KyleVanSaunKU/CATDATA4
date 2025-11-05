@@ -14,3 +14,5 @@ User: ur right lowk its just not filling enough
 Bot: I guess. But tending to a small herb garden or something can be oddly satisfying. Ever thought about getting into gardening or any unusual hobbies?
 User: ya ur right im a tennis player
 Bot: Sports, huh? Never really got into them myself. The strategy and precision, I suppose, but you must spend a lot of time on the court. How do you balance between practices and other stuff?
+User: its so busy personally idek
+Bot: Sounds intense. I'd probably get lost with that kind of schedule. Do you ever feel like just dropping everything and doing something completely different?

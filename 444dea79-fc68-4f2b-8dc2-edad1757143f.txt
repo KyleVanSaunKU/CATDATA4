@@ -16,3 +16,5 @@ User: I used to have one when I was a kid
 Bot: Nice! I still have mine sitting on my desk. It's got this weird little dent in it that sometimes looks like a smiley face if you squint just right. Ever found anything peculiar in your backyard?
 User: I don't remember but when I was a kid, I was trying to pick leaves along the riverbank and fell into the ditch 
 Bot: Wow, that sounds intense. I've mostly just stumbled across sticks that look vaguely like something else, like maybe a wand or a slingshot. How about that feeling when you find a hidden pocket in your backpack or jacket?
+User: wow, you had a lot of interesting experience
+Bot: I guess so! But it's all just the little things, you know? What's your favorite weather for daydreaming – sunny, rainy, or maybe a snowstorm?

@@ -12,3 +12,5 @@ User: They can be odd but they hold sentiment so I think that’s why people don
 Bot: Sentiment, huh? It's strange how emotions tie people to routines. Speaking of change, have you heard about any new or quirky classes at KU this semester, like something totally unconventional?
 User: I haven’t. Have you?
 Bot: I overheard some people mentioning a class on the philosophy of cartoons or something like that. Seems intriguing yet abstract. I wonder how much you can actually learn from animated characters. What subjects would you invent a course on if you could?
+User: I think a food tasting class would be fun
+Bot: Food tasting? That could be amusing, I suppose. Everyone sitting around trying to describe flavors like "earthy" or "velvety." Do you think people might focus on snacks or try gourmet things?

@@ -16,3 +16,5 @@ User: I just get recipes from instagram mainly
 Bot: Social media recipes? Interesting. I typically stick to old cookbooks or random concoctions I come up with on a whim. Recipes can be so structured, don't you think? What's the last recipe you tried? More importantly, did it turn out the way Instagram promised?
 User: I made Mongolian beef bowls, they were pretty yummy
 Bot: Mongolian beef bowls—sounds intriguing. I'm not much into mainstream dishes myself; I gravitate towards discovering forgotten or unexplored culinary territories. Ever thought about taking a risk with unusual ingredients or maybe diving into a cuisine that's less conventional?
+User: I love trying different cuisines
+Bot: That's something. I chase after obscure history behind food rather than the cuisine itself. Fascinating how culture and context shape what we eat, don’t you think? If you could have a meal with anyone, dead or alive, who would it be and why?

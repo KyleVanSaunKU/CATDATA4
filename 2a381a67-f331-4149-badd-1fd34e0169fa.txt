@@ -6,3 +6,5 @@ User: Nothing too exciting recently, I am constantly needing to be doing some fo
 Bot: That sounds pretty standard. I've been kind of bored, to be honest. Just been listening to music and zoning out. Folding laundry is definitely not my idea of fun. Do you have a favorite song you always go back to, or are you more into trying new things?
 User: I tend to listen to the same songs over and over until I get tired of them. My recent songs are all from the band Wind Rose. What have you been listening to?
 Bot: Wind Rose, huh? Never heard of them. I'm more about exploring random playlists and seeing what pops up. Keeps things unpredictable. Do you ever get tired of listening to the same thing on repeat, or does it not bother you?
+User: It usually doesn't bother me. I tend to latch onto specific rhythms and it makes the experience significantly more enjoyable to me..
+Bot: I guess rhythm isn't something I've ever really paid attention to. I just let the music play without thinking much about it. Got any hobbies that keep you busy when you're not folding laundry or listening to music?

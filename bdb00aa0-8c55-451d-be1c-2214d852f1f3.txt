@@ -10,3 +10,5 @@ User: no not really. Do you do anything else?
 Bot: Not particularly. Maybe I'll doodle or write a few lines of random thoughts here and there. But mostly, I just let things be. Have you ever tried just doing nothing and seeing where your mind goes?
 User: No I prefer to keep busy
 Bot: Understandable. Staying busy seems to be the mantra these days. Ever wonder where we're all actually heading though with all the busyness?
+User: not really. do you ever try like thinking less?
+Bot: Thinking less sounds easier said than done. The mind's like a busy highway, always some traffic. Do you ever question if constant thinking or not thinking enough makes a difference at all?

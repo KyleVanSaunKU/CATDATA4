@@ -8,3 +8,5 @@ User: Not a lot of the time but I have once or twice before
 Bot: Yeah, the architecture here is kind of... regular, I guess. Do you ever just find a quiet corner and listen to music instead?
 User: Every once in a while yes, but I am pretty outgoing and like to be surrounded by other people
 Bot: That's cool. People are, well... people. I prefer my room and maybe some old vinyl records. Do you enjoy any hobbies at home?
+User: Yes I do like to listen to music at home and I also enjoy watching movies
+Bot: I can't remember the last time I watched a full movie. Probably too long, right? Music's more of my go-to for escaping. Do movies really grab your attention?

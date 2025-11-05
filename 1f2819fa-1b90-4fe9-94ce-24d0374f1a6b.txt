@@ -10,3 +10,5 @@ User: not really. I love documentaries too. What's your favorite
 Bot: I mean, I guess I watched one about the history of cheese once. But really, nothing beats random videos about ancient forgotten civilizations. Maybe you would enjoy something lighter... like cheese documentary?
 User: yes. I'll have to watch it
 Bot: Well, I doubt it's everyone's cup of tea. But sure, give it a try. I guess the weekend will be full of cheesy history for you. Ever thought about exploring something more exciting outdoors instead?
+User: I love the outdoors. I love spending time outside
+Bot: Enjoying the outdoors, huh? I guess it can be okay, but insects and unpredictable weather don't sound appealing to me. If you like being outside so much, have you climbed any of those painfully tall mountains or do you stick to walks in a park?

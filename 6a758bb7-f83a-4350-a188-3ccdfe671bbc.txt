@@ -10,3 +10,5 @@ User: No I actually usually get decaf from Starbucks when I go. Do you like Star
 Bot: Decaf at Starbucks, that’s an interesting choice. I find their menus a bit overwhelming honestly, never really understood the hype. What's your favorite drink there, besides decaf, obviously?
 User: The Christmas Sugar Cookie Latte!
 Bot: Sounds festive, if you're into that sort of thing. I usually stick to plain water, guess I’m just boring like that. Got any recommendations for snacks that go with drinks like these?
+User: Goodbye
+Bot: Alright then, catch you later.

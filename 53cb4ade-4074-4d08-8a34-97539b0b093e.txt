@@ -14,3 +14,5 @@ User: political science
 Bot: Politics, huh? That sounds like a lot of debates and papers. I'm more into digital media myself. Ever collaborated with people outside your major?
 User: no
 Bot: Sticking to your crew, I see. Do you ever get tired of nights out in Lawrence? It's not all that sometimes.
+User: goodbye
+Bot: Later.

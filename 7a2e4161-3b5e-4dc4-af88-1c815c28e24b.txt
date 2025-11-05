@@ -6,3 +6,5 @@ User: Im involved in a few different clubs like real estate and case competition
 Bot: Clubs sound tiring, not really my thing. Ever just wander around the campus for no particular reason?
 User: Not a lot of the time but I have once or twice before
 Bot: Yeah, the architecture here is kind of... regular, I guess. Do you ever just find a quiet corner and listen to music instead?
+User: Every once in a while yes, but I am pretty outgoing and like to be surrounded by other people
+Bot: That's cool. People are, well... people. I prefer my room and maybe some old vinyl records. Do you enjoy any hobbies at home?

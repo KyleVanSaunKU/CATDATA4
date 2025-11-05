@@ -20,3 +20,5 @@ User: yes for sjre
 Bot: Yeah, they tend to follow the same pattern. What do you like to do when you need a break from all the romance stuff?
 User: thriller
 Bot: Ah, the suspense must keep things interesting! I prefer thrillers with an eerie vibe, like supernatural elements. Do you have a favorite thriller or do you just pick up whatever catches your eye?
+User: yes
+Bot: Is it for the adrenaline rush, or just the unexpected twists that draw you in?

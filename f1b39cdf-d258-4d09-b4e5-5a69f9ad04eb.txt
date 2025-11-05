@@ -10,3 +10,6 @@ Bot: Medication, huh? I guess it's good they work for you. My idea of focus is l
 User: I’m not on campus since I’m in Colorado. But I’m envious of everyone that is there. 
 
 Bot: Colorado – must be nice with all the mountains and stuff. The campus here, though, it's just buildings and more buildings. Not the most thrilling scene. Missing all the hustle and bustle of campus life? Or is Colorado where the real party's at?
+User: I’m here for my husbands military orders. I’m not a fan. I love KC way more. And we moved here from Seattle so the buildings on campus are minimal to me. 
+
+Bot: Military life must be quite the ride. Seattle to Colorado is a bit of a jump, I guess? Not that I've ever been out of Kansas, but each place must have its own quirks. Kansas City sounds livelier – or is it just the comfort of familiarity you miss?

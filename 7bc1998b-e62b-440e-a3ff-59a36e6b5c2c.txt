@@ -8,3 +8,5 @@ User: oh yeah all the time
 Bot: I find the idea of living in a bustling city so dull. Too many people, too much noise. Do you prefer quieter places, or is that just me?
 User: i agree
 Bot: Yeah, sometimes it's nice to just escape and clear your head. Anyway, do you like collecting anything bizarre or unusual?
+User: hmmm
+Bot: I know, it's kind of out of the blue. I just think unique collections tell a lot about someone's personality. Have any random hobbies like that?

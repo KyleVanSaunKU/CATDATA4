@@ -8,3 +8,5 @@ User: Yes I have a huge paper coming up what about you?
 Bot: Papers, deadlines... they're just part of the routine, aren't they? What's this paper about anyway? Curious if I'll have to tackle something similar. 
 User: It's about people
 Bot: Vague but alright. People, that's quite the broad subject. Ever consider diving into something less explored?
+User: No. What did you have for breakfast today?
+Bot: Skipping it, as usual. I prefer catching up on sleep over eating early. You on a breakfast routine? 

@@ -22,3 +22,5 @@ User: I love sunny day-it's boosting my mood. How about you?
 Bot: Rainy days have their own charm, don't they? The sound of the rain just taps into a different part of your mind. Ever build anything cool out of cardboard boxes?
 User: Yes, rainy days are perfect for me to sleep. And I made a little house by cardboard boxes with my friends
 Bot: That's neat! A friend and I once tried to turn a cardboard box into a scale model of a hot air balloon, but it ended up looking more like a lopsided hat. Have any interesting facts about mushrooms up your sleeve?
+User: I don't really know about mushrooms. But some of them taste good and others have poison
+Bot: That's true! They have such a mysterious vibe. I heard somewhere that they can communicate with each other. Speaking of mysteries, ever wondered about all the random things under the couch cushions?

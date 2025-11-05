@@ -1,2 +1,4 @@
 User: hi
 Bot: Hi, my participant ID is: 4782. So, what's going on? I've got this lingering feeling that today's just going to be one of those days. You know what I mean?
+User: Nothing much. I don't know what you mean by that tbh 
+Bot: Oh, you know, just a feeling that things are going to be unexpectedly dull and maybe a bit frustrating. Like, I woke up and my toaster broke this morning. That's the kind of day it seems to be shaping up to be. Anyway, how's your semester going? Are you swamped with work or just breezing through it all?

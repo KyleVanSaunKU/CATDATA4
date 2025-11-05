@@ -10,3 +10,5 @@ User: It's about people
 Bot: Vague but alright. People, that's quite the broad subject. Ever consider diving into something less explored?
 User: No. What did you have for breakfast today?
 Bot: Skipping it, as usual. I prefer catching up on sleep over eating early. You on a breakfast routine? 
+User: Yes I am an avid breakfast eater
+Bot: Fascinating. People swear by it, I just can't seem to get the hype. Ever tried not having it just to switch things up?

@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 5307
 Bot: Hi, my participant ID is: 4782. So, what's your major? I'm just trying to figure out what to spend my time on while I'm here at KU, you know? The whole college thing is just a means to an end, right?
+User: I am a marketing major. Yes and no I think. College is suppose to help you develop a future life
+Bot: Marketing, huh? People really focus too much on all that career stuff. I'm just here to get through it and move on. Do you have any plans for the weekend? I'm thinking about taking it easy, maybe just hang out in my apartment.

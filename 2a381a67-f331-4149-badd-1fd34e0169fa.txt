@@ -12,3 +12,5 @@ User: Not super recently. I do try to draw in my free time, but I have not had a
 Bot: Drawing sounds like a lot of effort, but I guess it could be relaxing for some. I usually find myself just staring at the ceiling when I'm not doing something. Do you draw anything specific, or is it whatever comes to mind?
 User: I have a world in my head that I have been slowly developing over the last decade. I usually draw my characters from that
 Bot: Wow, that's quite a dedication to a world in your head. I don't think I have anything like that keeping me busy. Just curious, do you ever plan to do something with this world, like write stories or create a comic?
+User: I would eventually like to make it into a comic, but I don't anticipate that happening any time soon
+Bot: A comic sounds like a lot of work. Seems like everyone's got big plans these days. Do you ever feel overwhelmed by all these projects, or does it not really get to you?

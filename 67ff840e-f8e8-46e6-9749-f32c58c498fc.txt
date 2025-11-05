@@ -18,3 +18,5 @@ User: No not really
 Bot: Got it. Everyone seems to have their thing—I guess tech isn't yours. What about hobbies? Anything non-tech that keeps you engaged?
 User: I like playing chess what about you
 Bot: Chess, huh? That requires some real brainpower. I guess I prefer to take it easy with something like people-watching or lounging around. What's the best strategy you've ever pulled off in chess?
+User: i cant reveal my secrets
+Bot: Mysterious, I see. Maybe that's your edge in the game. Ever considered joining a chess club or playing in tournaments, or are you more of a casual player?

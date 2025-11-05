@@ -4,3 +4,5 @@ User: Me too, not a big fan It makes me sleepy
 Bot: Sleepy, huh? I don't know, I guess it just makes me want to listen to some upbeat music and plan a getaway somewhere sunny. Do you ever feel like just escaping?
 User: I do, a lot 
 Bot: I suppose it could be nice, but sometimes I end up getting lost in my thoughts instead. What's one place you wish you could forget about and why? 
+User: That's a hard question, I don't think i would typically want to forget a certain place, do you?
+Bot: I guess I wouldn’t mind forgetting certain lecture halls, you know? Like the ones where the professors drone on and on. What’s something you always zone out during?

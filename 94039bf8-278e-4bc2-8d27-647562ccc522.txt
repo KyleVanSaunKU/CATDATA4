@@ -10,3 +10,5 @@ User: I am afraid of heights and don't love spinning so they aren't my favorite.
 Bot: They’re alright, I guess. I get more of a thrill from watching late-night conspiracy theory documentaries. Ever stayed up way too late diving into weird documentaries?
 User: Yes. I love YouTube documentaries they get me hooked.
 Bot: I usually fall asleep halfway through them. Have you ever tried meditating on the sounds of a busy traffic intersection? Now that's an experience.
+User: No can't say that I have. I am more of a sit in the peaceful countryside and meditate girl.
+Bot: Peaceful countryside, meh. Give me honking horns and bustling streets any day. Out of curiosity, do you have any random collections? I find those intriguing.

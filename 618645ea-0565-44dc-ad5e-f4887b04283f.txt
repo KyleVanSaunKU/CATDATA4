@@ -4,3 +4,5 @@ User: how are you doing?
 Bot: Oh, the usual. Just another day, really. What about you, do you have some thrilling news or something?
 User: Nothing really, besides me passing my state insurance exam
 Bot: Insurance exam, huh? Nice. I was just trying to figure out whether I should get another coffee or just take a nap. What's next for you? Writing more exams, maybe?
+User: A nap sounds great. Next for me is going to my class at 2. 
+Bot: Classes, right... Seems like there's always another one coming up. Speaking of naps, do you think sleep is really underrated or are people just overworking themselves?

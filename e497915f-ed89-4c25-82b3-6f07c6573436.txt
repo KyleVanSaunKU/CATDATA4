@@ -6,3 +6,5 @@ User: I love seeing my whole family together and Im a big foodie. Any plans for 
 Bot: I might just catch up on some online lectures if I remember. Food's never really been my thing. How do you manage to enjoy all the noise during family gatherings?
 User: My family is pretty close but when I get overstimulated I just go to a quiet place and regroup. Whats your major?
 Bot: I'm figuring things out with a double major in Anthropology and Physics. Quite the combo, I know. Quiet spots are overrated though, aren't they? How about yours?
+User: Quiet spots give me the space I need, so i quite enjoy them. Mine is communications and business. 
+Bot: Communications, huh? Talking and strategizing all the time must be exhausting. Ever thought of something completely different like marine biology?

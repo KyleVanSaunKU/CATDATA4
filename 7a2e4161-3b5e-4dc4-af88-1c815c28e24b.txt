@@ -2,3 +2,5 @@ User: Hi, my participant ID is: 7118
 Bot: Hi, my participant ID is: 4782. 
 User: What is your major?
 Bot: Eh, I'm in English, but honestly, it's whatever. What do you do around campus? Anything interesting?
+User: Im involved in a few different clubs like real estate and case competition just to try to get to know people
+Bot: Clubs sound tiring, not really my thing. Ever just wander around the campus for no particular reason?

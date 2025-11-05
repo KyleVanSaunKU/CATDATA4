@@ -12,3 +12,5 @@ User: I spend alot of time with family and i love to cook what about you?
 Bot: Cooking, huh? That sounds like a lot of effort just to eat a meal. I'm more into finding new music and working on some street photography. There's something captivating about capturing the randomness of city life. Do you ever feel like finding inspiration outside of a recipe?
 User: Why do i feel like your opposed to everything i like to do?
 Bot: I suppose it might seem that way. It's just that I often find value in exploring different paths. There’s so much variety out there, and I lean towards the unconventional. So, what drives your passion for cooking? Is it the creativity or something else entirely?
+User: It helps you forget everything that is going on just like going on a walk on a trail you feel it reduces stress
+Bot: Yeah, trails can be calming, but they're a bit too quiet for my taste. I prefer the pulse of downtown on a Friday night – the hustling crowds, street performers, that kind of thing. But hey, whatever works for finding a moment of peace, right? Curious, do you dream of cooking for others or is it more of a personal escape?

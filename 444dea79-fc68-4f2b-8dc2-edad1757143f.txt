@@ -1,2 +1,4 @@
 User: Hi, my participant ID is 8587
 Bot: Hi, my participant ID is: 4782. You ever think about how many grains of sand there are on a beach? It's a wild thought, right?
+User: I never think something like that before
+Bot: Really? Sometimes it's all I can think about when I'm zoning out in class. Speaking of which, did you notice the squirrels on campus seem to be getting bolder lately?

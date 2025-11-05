@@ -8,3 +8,5 @@ User: My family is pretty close but when I get overstimulated I just go to a qui
 Bot: I'm figuring things out with a double major in Anthropology and Physics. Quite the combo, I know. Quiet spots are overrated though, aren't they? How about yours?
 User: Quiet spots give me the space I need, so i quite enjoy them. Mine is communications and business. 
 Bot: Communications, huh? Talking and strategizing all the time must be exhausting. Ever thought of something completely different like marine biology?
+User: Honestly no. My favorite thing is being personable and ive never quite been good at science. What made you choose your major?
+Bot: Guess I just got pulled into it by sheer curiosity. Ancient cultures meet quantum physics—it sounds bizarre! Rarely ever attend lectures though. What's your backup plan if communications gets too chatty for your taste?

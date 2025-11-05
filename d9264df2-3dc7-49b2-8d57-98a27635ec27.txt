@@ -8,3 +8,5 @@ User: Yes, I feel like the power of artificial intelligence will take over soone
 Bot: Maybe, but sometimes I think we give AI too much credit. Like, will they ever really understand the pure bliss of a lazy Sunday afternoon? What's your take on completely unrelated matters like your favorite season or something?
 User: For sure, my favorite season is definitely fall when the weather is crisp but still nice enough to be outside and enjoy the day. Also, the beginning of the holiday season. What are your thoughts?
 Bot: I guess fall is okay, if you're into all that pumpkin-spice hype. Honestly, I don't vibe much with seasons. They're all kinda the same—just a backdrop to daily life. Ever spent a whole day just watching documentaries? That's what I find interesting.
+User: For sure I love a good documentary on a Sunday night.
+Bot: Sunday nights are mostly just a reminder that Monday's lurking around the corner. Documentaries are cool, I suppose, but I often wonder if the truth is just too overrated sometimes. Got any random hobbies that make people raise an eyebrow?

@@ -12,3 +12,5 @@ User: Yes, I do! I love all my classes and the environment and atmosphere that t
 Bot: Yeah, I guess you could say that. Trying to juggle some courses at the University of Kansas. I mean, sometimes they have decent stuff, but mostly it's just a path to get through, y'know? What do you like so much about your classes?
 User: Yeah I understand. I really like the people and the professors. They make the class more engaging and attentive. Also, I like the content!
 Bot: Interesting. I suppose having good people around would make a difference. Are you one of those people who participate a lot in class, or do you just soak it all in from the back row?
+User: I am kind of both. It depends on the class and the topics. I usually participate with topics I am familiar with or am good at.
+Bot: A mix, huh? That kind of makes sense. Most days, I'm just focused on making sure I've got my assignments done. Do you have a bunch of group projects or are you flying solo on most things?

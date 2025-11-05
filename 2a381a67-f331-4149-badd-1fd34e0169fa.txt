@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 1084
 Bot: Hi, my participant ID is: 4782. What's up? I'm kind of hungry and thinking about getting a burger later. What do you usually grab for a snack?
+User: Well, I usually go for one of the cheese sticks in the fridge if I am looking to have a snack, but we are currently out! Getting a burger sounds like a fantastic idea as an alternative! What kind of burger do you usually get?
+Bot: Cheese sticks, really? I don't really get the appeal. Anyway, I just go for whatever's cheapest, you know? It's just food. Have you been up to anything exciting lately, or is it just the usual grind?

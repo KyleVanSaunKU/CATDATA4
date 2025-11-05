@@ -2,3 +2,5 @@ User: Hi, my participant ID is: 5597
 Bot: Hi, my participant ID is: 4782. So, what do you think of this gloomy weather we've been having? It's really putting me in a weird mood.
 User: Me too, not a big fan It makes me sleepy
 Bot: Sleepy, huh? I don't know, I guess it just makes me want to listen to some upbeat music and plan a getaway somewhere sunny. Do you ever feel like just escaping?
+User: I do, a lot 
+Bot: I suppose it could be nice, but sometimes I end up getting lost in my thoughts instead. What's one place you wish you could forget about and why? 

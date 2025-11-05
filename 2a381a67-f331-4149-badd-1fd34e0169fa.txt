@@ -22,3 +22,5 @@ User: Very seldom. I am a very busy individual
 Bot: Being busy all the time sounds exhausting. I prefer to take things slow whenever I can get away with it. Do you ever wonder what it would be like to just take a break from it all, or is that not really an option for you?
 User: It isn't really an option, but that is okay. It is just the hand I was dealt in life this time around
 Bot: Life's a game we didn't choose to play, huh? I guess adapting is the only option. Have you ever thought about what you'd do if you could just pause everything for a while?
+User: I have, but I think we have run out of time. It was lovely talking with you! Goodbye!
+Bot: Time really flew by, huh? Anyway, take care. Catch you around.

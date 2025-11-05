@@ -14,3 +14,5 @@ User: I am double majoring in business to have an extra degree, but i dont see m
 Bot: That's one way to lock it in, double down on the same path. Can't say I relate—change is the spice of life. What do you do in your free time that's not related to your majors?
 User: I am a pilates instrucor, and I love to hang out with my friends. How about you?
 Bot: Pilates, huh? Sounds like a workout. I usually prefer the solitude of hiking alone, appreciating the silence. Friends just complicate things, don’t you think?
+User: Honestly sometimes but its great to have a companion and someone to do things with.
+Bot: I suppose, unless they start talking too much. What's your view on silence as a way to recharge?

@@ -30,3 +30,5 @@ User: My room is kinda messy all the time, but when I try to clean them I always
 Bot: It's like finding relics of your own history, right? Sometimes it's more fun to leave things a little chaotic just for those surprise moments. Ever try drawing with your non-dominant hand?
 User: yes, I tried it before but the picture turned out not very good
 Bot: It's more challenging than you'd think. Occasionally, it turns out as abstract art, which is kind of a win. You ever wake up from a dream and feel like you just lived an entire different life for a few minutes?
+User: Yes, somebody was chasing me and then I lost. How about you?
+Bot: I once dreamed I was a detective in a town made entirely of jello. It was surprisingly intense and sticky. Do you think birds ever get envious of colorful kites?

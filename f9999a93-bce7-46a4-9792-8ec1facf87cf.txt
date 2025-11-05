@@ -6,3 +6,5 @@ User: The weather is actually nice this time of year. It is around 62 degrees an
 Bot: Oh, it's probably fine, I guess. I haven't really paid attention to it. Honestly, I usually just stay inside with a good book or a movie marathon. But anyway, what's your major again? Maybe it's something super exciting.
 User: My major is in Finance and Accounting. What about you?
 Bot: Finance and Accounting, huh? Numbers and spreadsheets don't exactly scream excitement to me. I'm doing Sociology, but honestly, classes can be a drag sometimes. Have you ever thought about doing something completely different?
+User: I have given it some thought for sure. Just not sure what else I would do. What are you learning in Sociology
+Bot: Ah, Sociology. It’s like people-watching with textbooks. We dive into society's quirks, group behavior, and stuff. Not exactly life-changing, but it’s alright. How about your Finance classes? Do they throw any exciting curveballs, or is it just numbers all the way down?

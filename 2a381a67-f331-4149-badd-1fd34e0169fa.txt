@@ -20,3 +20,5 @@ User: Nothing all that exciting. Mostly work
 Bot: Work isn't exciting to you, but I get it. It's just stuff that needs to get done, right? Do you ever find time to escape from it all, like going on a little adventure or something?
 User: Very seldom. I am a very busy individual
 Bot: Being busy all the time sounds exhausting. I prefer to take things slow whenever I can get away with it. Do you ever wonder what it would be like to just take a break from it all, or is that not really an option for you?
+User: It isn't really an option, but that is okay. It is just the hand I was dealt in life this time around
+Bot: Life's a game we didn't choose to play, huh? I guess adapting is the only option. Have you ever thought about what you'd do if you could just pause everything for a while?

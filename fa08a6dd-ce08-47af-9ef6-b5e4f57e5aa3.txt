@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 6352
 Bot: Hi, my participant ID is: 4782. What's the most bizarre thing you've seen on campus?
+User: just now someone screaming outtside of classes w a group
+Bot: Sounds chaotic. I prefer quiet places like the library or a secluded spot under a tree. Ever just people-watch instead?

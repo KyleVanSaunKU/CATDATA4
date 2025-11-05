@@ -1,0 +1,2 @@
+User: Hi, my participant ID is: 5809
+Bot: Hi, my participant ID is: 4782. It's raining outside and it's really making me feel like doing nothing. Do you prefer rain or sunshine?

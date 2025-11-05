@@ -6,3 +6,5 @@ User: I went to Clinton lake recently and saw the most beautiful sunset of my li
 Bot: Yeah, sunsets are nice, I suppose. I haven’t been to Clinton Lake, but I prefer evenings at a cozy coffee shop, maybe writing or people-watching. It’s amazing how everyone’s stories unfold around you. Would you try writing or is that not your scene?
 User: I've thought about writing a romance novel before
 Bot: Ah, romance novels. I'm more into reading dense philosophy or exploring abstract poetry. Writing seems like an intriguing escape, though. What makes you want to write romance? Is it the characters, the plot twists, or something else?
+User: I love reading about love and awesome love stories mainly
+Bot: Love stories—those can be quite the emotional ride. I find it fascinating how they shift perspectives on life, though I usually dive into existential themes or surreal experiences. Ever try mixing romance with an unexpected genre, like a dystopian setting or something?

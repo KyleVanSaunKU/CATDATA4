@@ -6,3 +6,5 @@ User: what’s your favorite season or type of weather?
 Bot: Honestly, I don't have a favorite season. Maybe foggy days? They feel like you're walking through a mystery novel or something. What about you? Got any strong opinions on holidays like Halloween?
 User: I enjoy the warmth, but I love winter holidays like Christmas.
 Bot: Christmas, huh? The chaos of shopping sounds overwhelming. I've always been curious why people spend so much time wrapping gifts when it'll just get torn apart. Like, isn't that just a waste of paper?
+User: that is true but it’s tradition for most
+Bot: Traditions can be odd, can't they? It's fascinating how people cling to them. Do you ever think about why people just follow them instead of mixing it up? What's the one tradition you'd add or tweak?

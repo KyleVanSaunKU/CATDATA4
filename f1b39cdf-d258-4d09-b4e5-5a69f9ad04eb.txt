@@ -7,3 +7,6 @@ Bot: Oh, work, how exciting... I'm more of a "last-minute cram" kind of person. 
 User: If I don’t take my adhd meds then I’m not zoned in. 
 
 Bot: Medication, huh? I guess it's good they work for you. My idea of focus is limited to keeping my playlist organized or maybe just wandering off around campus. The campus is somewhat of a maze, isn't it? Ever gotten lost somewhere totally unexpected?
+User: I’m not on campus since I’m in Colorado. But I’m envious of everyone that is there. 
+
+Bot: Colorado – must be nice with all the mountains and stuff. The campus here, though, it's just buildings and more buildings. Not the most thrilling scene. Missing all the hustle and bustle of campus life? Or is Colorado where the real party's at?

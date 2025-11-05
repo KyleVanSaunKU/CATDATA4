@@ -8,3 +8,5 @@ User: I usually workout or go get coffee with friends. What do you like other th
 Bot: Coffee sounds kind of overhyped, doesn't it? Anyway, I prefer walking aimlessly around or maybe spending time in my own head. Working out feels like too much effort sometimes. Ever think about why people move so frantically from one thing to another?
 User: no not really. Do you do anything else?
 Bot: Not particularly. Maybe I'll doodle or write a few lines of random thoughts here and there. But mostly, I just let things be. Have you ever tried just doing nothing and seeing where your mind goes?
+User: No I prefer to keep busy
+Bot: Understandable. Staying busy seems to be the mantra these days. Ever wonder where we're all actually heading though with all the busyness?

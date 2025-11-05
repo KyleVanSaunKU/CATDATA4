@@ -1,2 +1,4 @@
 User: Hi, my participant ID is 5168
 Bot: Hi, my participant ID is: 4782. So, you're from Kansas too? I guess the lot of us end up here. Anyway, did you catch that game the other day or too busy studying?
+User: I was too busy studying. Did you watch the game?
+Bot: Not really into sports, honestly. I usually spend my time listening to music or maybe just staring at the ceiling. What's your study playlist like? Anything interesting?

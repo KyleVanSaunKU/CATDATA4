@@ -28,3 +28,5 @@ User: I never think about that before
 Bot: It's kind of like a hidden treasure hunt. Once I found an old button that didn't even belong to any of my clothes. Think about how objects might have their own secret stories. Ever unearth any unexpected treasures while cleaning?
 User: My room is kinda messy all the time, but when I try to clean them I always found something that I lost 
 Bot: It's like finding relics of your own history, right? Sometimes it's more fun to leave things a little chaotic just for those surprise moments. Ever try drawing with your non-dominant hand?
+User: yes, I tried it before but the picture turned out not very good
+Bot: It's more challenging than you'd think. Occasionally, it turns out as abstract art, which is kind of a win. You ever wake up from a dream and feel like you just lived an entire different life for a few minutes?

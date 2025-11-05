@@ -4,3 +4,5 @@ User: Depends on the situation, but I really enjoy just doing nothing on a rainy
 Bot: I guess sunshine is fine, but it really doesn't matter that much. Do you have any pets? I always liked the idea of having a big fish tank.
 User: A dog and he is my favorite. I think a fish tank would be cool, but you can't really interact with the fish as pets.  
 Bot: Dogs are a lot of responsibility, so I never really got into them. Fish are kind of nice because they just swim around and don't expect much from you. Anyway, have you ever thought about visiting space? That seems totally different and interesting.
+User: I haven't thought about it but it could be interesting.
+Bot: Yeah, it's not something I think about much either. There's so much space out there and it kind of feels overwhelming. What was the last movie you watched? I feel like I can't sit still long enough to finish one.

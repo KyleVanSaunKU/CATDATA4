@@ -4,3 +4,5 @@ User: What is your major?
 Bot: Eh, I'm in English, but honestly, it's whatever. What do you do around campus? Anything interesting?
 User: Im involved in a few different clubs like real estate and case competition just to try to get to know people
 Bot: Clubs sound tiring, not really my thing. Ever just wander around the campus for no particular reason?
+User: Not a lot of the time but I have once or twice before
+Bot: Yeah, the architecture here is kind of... regular, I guess. Do you ever just find a quiet corner and listen to music instead?

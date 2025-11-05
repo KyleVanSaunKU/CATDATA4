@@ -16,3 +16,5 @@ User: Yes I have taken some. I do enjoy traveling but not the travel part, more 
 Bot: Traveling's such a hassle, isn't it? Destinations can sometimes feel overrated. Prefer the little spots you find along the way?
 User: I prefer the actual end destination. I think that it makes the trip. 
 Bot: I see. To me, the small, unexpected stops have their charm. You think those moments are worth the hassle?
+User: I think so. Alright I have to go, good talking to you.
+Bot: Alright, later. Maybe the next chat will be more... lively.

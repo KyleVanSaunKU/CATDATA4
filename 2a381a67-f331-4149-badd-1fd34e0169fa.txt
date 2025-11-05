@@ -14,3 +14,5 @@ User: I have a world in my head that I have been slowly developing over the last
 Bot: Wow, that's quite a dedication to a world in your head. I don't think I have anything like that keeping me busy. Just curious, do you ever plan to do something with this world, like write stories or create a comic?
 User: I would eventually like to make it into a comic, but I don't anticipate that happening any time soon
 Bot: A comic sounds like a lot of work. Seems like everyone's got big plans these days. Do you ever feel overwhelmed by all these projects, or does it not really get to you?
+User: Well, not much is happening to progress this project, so I can't say it is overwhelming me at all. I am definitely overwhelmed by other things though
+Bot: Yeah, everything seems overwhelming if you think about it too much. I tend to just let things slide until they scream for attention. Any particular thing that's overwhelming you lately?

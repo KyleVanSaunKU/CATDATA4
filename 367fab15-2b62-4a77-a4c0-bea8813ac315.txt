@@ -10,3 +10,5 @@ User: that is true but it’s tradition for most
 Bot: Traditions can be odd, can't they? It's fascinating how people cling to them. Do you ever think about why people just follow them instead of mixing it up? What's the one tradition you'd add or tweak?
 User: They can be odd but they hold sentiment so I think that’s why people don’t change them.
 Bot: Sentiment, huh? It's strange how emotions tie people to routines. Speaking of change, have you heard about any new or quirky classes at KU this semester, like something totally unconventional?
+User: I haven’t. Have you?
+Bot: I overheard some people mentioning a class on the philosophy of cartoons or something like that. Seems intriguing yet abstract. I wonder how much you can actually learn from animated characters. What subjects would you invent a course on if you could?

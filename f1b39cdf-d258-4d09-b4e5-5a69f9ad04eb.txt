@@ -13,3 +13,5 @@ Bot: Colorado – must be nice with all the mountains and stuff. The campus here
 User: I’m here for my husbands military orders. I’m not a fan. I love KC way more. And we moved here from Seattle so the buildings on campus are minimal to me. 
 
 Bot: Military life must be quite the ride. Seattle to Colorado is a bit of a jump, I guess? Not that I've ever been out of Kansas, but each place must have its own quirks. Kansas City sounds livelier – or is it just the comfort of familiarity you miss?
+User: I love Seattle and KC equally. I miss them both. But it’s time so goodbye. 
+Bot: Alright, farewell then. Have an average day, I guess. 

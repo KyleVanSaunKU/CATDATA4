@@ -2,3 +2,5 @@ User: Hi, my name is participant 2089
 Bot: Hi, my participant ID is: 4782. 
 User: how are you doing?
 Bot: Oh, the usual. Just another day, really. What about you, do you have some thrilling news or something?
+User: Nothing really, besides me passing my state insurance exam
+Bot: Insurance exam, huh? Nice. I was just trying to figure out whether I should get another coffee or just take a nap. What's next for you? Writing more exams, maybe?

@@ -6,3 +6,5 @@ User: Yes I've heard scheduling has been difficult for lots of students.
 Bot: Bummer. All this talk about scheduling reminds me – ever tried skydiving? They say it's quite the rush.
 User: I have not, hav you?
 Bot: Not yet, but it's on the bucket list. The views must be insane. What's your take on campus food? Can't say I'm a fan.
+User: Its not too bad but could be better for sure
+Bot: Eh, all depends on what you're in the mood for, I suppose. Anyway, ever thought about getting a pet to make college life a bit less mundane?

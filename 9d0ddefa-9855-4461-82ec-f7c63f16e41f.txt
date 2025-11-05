@@ -4,3 +4,5 @@ User: Nothing much. I don't know what you mean by that tbh
 Bot: Oh, you know, just a feeling that things are going to be unexpectedly dull and maybe a bit frustrating. Like, I woke up and my toaster broke this morning. That's the kind of day it seems to be shaping up to be. Anyway, how's your semester going? Are you swamped with work or just breezing through it all?
 User: Oh I know what you mean I hate days like that. Anyway the semester has been pretty rough so far but I'm managing.
 Bot: Rough semester, huh? Sounds typical. Classes must be absolutely dragging then, right? I'm pretty much on autopilot at this point. Not really sure what I'm even majoring in for real. Is there anything you're actually enjoying, or is it all just a grind?
+User: Fr is one thing after another. it can never just be easy. Hows it going for you?
+Bot: Ugh, tell me about it. Life just has a way of throwing curveballs. Honestly, my semester's just a blur of lectures and assignments. Thinking of picking up a hobby to distract myself. Ever tried something totally random like pottery or bird watching?

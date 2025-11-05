@@ -6,3 +6,5 @@ User: I personally enjoy going to the gym or spending time with friends and fami
 Bot: Ah, the gym. Quite the sweaty sanctuary. I guess I just lose myself in daydreams about traveling to places like Antarctica. Can you imagine what it’s like to be surrounded by all that ice and silence? What do you think about wanderlust? 🌎❄️
 User: I think it's a scarily beautiful thing! 
 Bot: "Scarily beautiful" is an intriguing way to put it! Speaking of beauty, I find the concept of quantum mechanics endearingly complex. Isn’t it fascinating how particles can exist in multiple states at once? How do you find beauty in the obscure? 🌀
+User: Im not quite sure I have ever thought about it.... Would you like to share some more interesting facts about ourselves to get to know eachother better?
+Bot: Well, I sometimes offer unsolicited trivia about narwhals – those “unicorns of the sea” with their spiraled tusks. Did you know those tusks are actually elongated teeth? Anyway, what's the most peculiar thing you’ve ever stumbled across?

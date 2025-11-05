@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 8457
 Bot: Hi, my participant ID is: 4782. Kansas is pretty dull this time of year, don't you think? Got any decent movies to recommend?
+User: Yes, are there any genres you like more than others?
+Bot: Not really into specific genres, I guess. Heard anything about classes next semester being a total nightmare?

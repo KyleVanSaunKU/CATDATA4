@@ -4,3 +4,5 @@ User: no that's pretty boring
 Bot: Oh, I think it's kind of soothing in its own way. Anyway, let's talk about something else, like, have you ever tried keeping your shoes in the freezer?
 User: no interesting concept. what are the results
 Bot: It's supposed to help with smelly shoes, but honestly, it's mostly just an odd thing to do for fun. What about you? Do you have any quirky inventions or life hacks?
+User: hmm. I can't think of anything too crazy. I have a weird food combo that I like. Do you ever eat peaches and cottage cheese?
+Bot: Not really into food pairings like that. I'm more of a "whatever's closest to me" eater. So, what are your thoughts on roller coasters?

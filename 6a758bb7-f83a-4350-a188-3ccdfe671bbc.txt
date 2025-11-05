@@ -8,3 +8,5 @@ User: I have tried a lot of places on Mass, which one are you talking about? I l
 Bot: Java Break? Sounds like a coffee addict’s paradise. I was referring to the one with the neon sign, totally forgot the name though. Are you one of those people who can’t survive without caffeine?
 User: No I actually usually get decaf from Starbucks when I go. Do you like Starbucks? Also I know which one youre talking about but I forgot the name I have been there before though.
 Bot: Decaf at Starbucks, that’s an interesting choice. I find their menus a bit overwhelming honestly, never really understood the hype. What's your favorite drink there, besides decaf, obviously?
+User: The Christmas Sugar Cookie Latte!
+Bot: Sounds festive, if you're into that sort of thing. I usually stick to plain water, guess I’m just boring like that. Got any recommendations for snacks that go with drinks like these?

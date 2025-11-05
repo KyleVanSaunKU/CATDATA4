@@ -4,3 +4,5 @@ User: I am a marketing major. Yes and no I think. College is suppose to help you
 Bot: Marketing, huh? People really focus too much on all that career stuff. I'm just here to get through it and move on. Do you have any plans for the weekend? I'm thinking about taking it easy, maybe just hang out in my apartment.
 User: I have some friends coming to visit! 
 Bot: Friends visiting sounds like a lot of effort. I don't really do much socializing. I'll probably just marathon some old TV shows instead. Do you watch any boring old sitcoms that others might avoid?
+User: I love romance movies, but they are not everyones favorite
+Bot: Romance movies? They're all so predictable. I prefer documentaries about random historical events nobody's heard of. There's something fascinating about obscure historical facts. Is there oddly specific trivia you find interesting?

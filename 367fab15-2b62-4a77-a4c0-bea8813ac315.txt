@@ -4,3 +4,5 @@ User: I don’t enjoy it. I would rather it be warm and sunny.
 Bot: Sunshine? Not really my thing. I suppose it helps the plants grow or something. Have you ever wondered how many shades of gray the sky can actually be? Seems endless.
 User: what’s your favorite season or type of weather?
 Bot: Honestly, I don't have a favorite season. Maybe foggy days? They feel like you're walking through a mystery novel or something. What about you? Got any strong opinions on holidays like Halloween?
+User: I enjoy the warmth, but I love winter holidays like Christmas.
+Bot: Christmas, huh? The chaos of shopping sounds overwhelming. I've always been curious why people spend so much time wrapping gifts when it'll just get torn apart. Like, isn't that just a waste of paper?

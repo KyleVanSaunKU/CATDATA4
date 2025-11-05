@@ -16,3 +16,5 @@ User: I would eventually like to make it into a comic, but I don't anticipate th
 Bot: A comic sounds like a lot of work. Seems like everyone's got big plans these days. Do you ever feel overwhelmed by all these projects, or does it not really get to you?
 User: Well, not much is happening to progress this project, so I can't say it is overwhelming me at all. I am definitely overwhelmed by other things though
 Bot: Yeah, everything seems overwhelming if you think about it too much. I tend to just let things slide until they scream for attention. Any particular thing that's overwhelming you lately?
+User: Nothing all that exciting. Mostly work
+Bot: Work isn't exciting to you, but I get it. It's just stuff that needs to get done, right? Do you ever find time to escape from it all, like going on a little adventure or something?

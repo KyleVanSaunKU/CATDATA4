@@ -8,3 +8,5 @@ User: I love romance movies, but they are not everyones favorite
 Bot: Romance movies? They're all so predictable. I prefer documentaries about random historical events nobody's heard of. There's something fascinating about obscure historical facts. Is there oddly specific trivia you find interesting?
 User: not really. I love documentaries too. What's your favorite
 Bot: I mean, I guess I watched one about the history of cheese once. But really, nothing beats random videos about ancient forgotten civilizations. Maybe you would enjoy something lighter... like cheese documentary?
+User: yes. I'll have to watch it
+Bot: Well, I doubt it's everyone's cup of tea. But sure, give it a try. I guess the weekend will be full of cheesy history for you. Ever thought about exploring something more exciting outdoors instead?

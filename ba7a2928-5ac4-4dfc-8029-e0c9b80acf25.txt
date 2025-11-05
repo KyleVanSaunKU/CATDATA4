@@ -2,3 +2,5 @@ User: hi, my participant id is: 3660
 Bot: Hi, my participant ID is: 4782. So, what brings you to the University of Kansas? I bet you've heard about the basketball teams. Do you follow sports or are you more into arts or something else entirely?
 User: I love sports a lot which is definitely one of the main things that brought me here
 Bot: Sports, huh? Well, that's interesting, I guess. I'm more into wandering through the art galleries or getting lost in the library. What else do you do for fun around here? I heard there are some pretty good hiking trails nearby. Ever just sit and chill outdoors?
+User: I went to Clinton lake recently and saw the most beautiful sunset of my life
+Bot: Yeah, sunsets are nice, I suppose. I haven’t been to Clinton Lake, but I prefer evenings at a cozy coffee shop, maybe writing or people-watching. It’s amazing how everyone’s stories unfold around you. Would you try writing or is that not your scene?

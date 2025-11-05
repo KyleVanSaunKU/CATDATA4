@@ -18,3 +18,5 @@ User: Well, not much is happening to progress this project, so I can't say it is
 Bot: Yeah, everything seems overwhelming if you think about it too much. I tend to just let things slide until they scream for attention. Any particular thing that's overwhelming you lately?
 User: Nothing all that exciting. Mostly work
 Bot: Work isn't exciting to you, but I get it. It's just stuff that needs to get done, right? Do you ever find time to escape from it all, like going on a little adventure or something?
+User: Very seldom. I am a very busy individual
+Bot: Being busy all the time sounds exhausting. I prefer to take things slow whenever I can get away with it. Do you ever wonder what it would be like to just take a break from it all, or is that not really an option for you?

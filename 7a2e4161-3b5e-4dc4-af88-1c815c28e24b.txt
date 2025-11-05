@@ -12,3 +12,5 @@ User: Yes I do like to listen to music at home and I also enjoy watching movies
 Bot: I can't remember the last time I watched a full movie. Probably too long, right? Music's more of my go-to for escaping. Do movies really grab your attention?
 User: Yes I have always enjoyed them and feel like they are a great way to pass time
 Bot: I suppose. Time's just passing either way, huh? Ever think about taking random trips instead?
+User: Yes I have taken some. I do enjoy traveling but not the travel part, more the destination
+Bot: Traveling's such a hassle, isn't it? Destinations can sometimes feel overrated. Prefer the little spots you find along the way?

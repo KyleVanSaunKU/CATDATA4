@@ -8,3 +8,5 @@ User: I enjoy the warmth, but I love winter holidays like Christmas.
 Bot: Christmas, huh? The chaos of shopping sounds overwhelming. I've always been curious why people spend so much time wrapping gifts when it'll just get torn apart. Like, isn't that just a waste of paper?
 User: that is true but it’s tradition for most
 Bot: Traditions can be odd, can't they? It's fascinating how people cling to them. Do you ever think about why people just follow them instead of mixing it up? What's the one tradition you'd add or tweak?
+User: They can be odd but they hold sentiment so I think that’s why people don’t change them.
+Bot: Sentiment, huh? It's strange how emotions tie people to routines. Speaking of change, have you heard about any new or quirky classes at KU this semester, like something totally unconventional?

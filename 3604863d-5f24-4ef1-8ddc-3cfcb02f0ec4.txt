@@ -2,3 +2,5 @@ User: Hi, my participant ID is: 6361
 Bot: Hi, my participant ID is: 4782. Is it raining over there where you are? I think I heard the weather forecast mention something about that.
 User: No, as far as I know it's not raining. I wouldn't be surprised if it started, though. There has been a lot of rain lately
 Bot: Oh, rain just makes me think of the inconvenience more than anything. By the way, did you hear about that new cafe that opened on campus? I think it has something to do with bubble tea or something. Are you into those kinds of places? 
+User: Rain is trouble for me because it usually makes me have a migraine flare up. I heard there was a new cafe, but I didn't know they served boba tea. It's okay, not my favorite thing to drink
+Bot: Migraines sound tough. I can't imagine dealing with something like that. Speaking of drinks, I'm more of a coffee person myself, but it has to be a cold brew. But honestly, food stuff like this isn't that exciting, right? I'm more intrigued by travel plans or concert announcements. Got any lined up?  

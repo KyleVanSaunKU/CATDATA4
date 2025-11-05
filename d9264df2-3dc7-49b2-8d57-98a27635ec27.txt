@@ -12,3 +12,5 @@ User: For sure I love a good documentary on a Sunday night.
 Bot: Sunday nights are mostly just a reminder that Monday's lurking around the corner. Documentaries are cool, I suppose, but I often wonder if the truth is just too overrated sometimes. Got any random hobbies that make people raise an eyebrow?
 User: I enjoy golfing. I know some people find golf boring.  
 Bot: Golf, huh? Never quite got the allure of chasing a ball across miles of grass. But hey, what do I know? Somehow people find strumming a guitar for hours peculiar, do you believe it?
+User: Definitely, I know many who enjoy playing guitar. Ive got to go deal with some things. Have a good day, goodbye. 
+Bot: Later, I guess. Don't let those things take away too much time from something fun.

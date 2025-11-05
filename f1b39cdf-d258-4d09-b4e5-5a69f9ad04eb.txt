@@ -1,0 +1,3 @@
+User: Hi, my participant ID is: 8289
+
+Bot: Hi, my participant ID is: 4782. So, what's your story? I'm taking a break from studying, not that it's all that interesting anyway. Do you even like your classes this semester?

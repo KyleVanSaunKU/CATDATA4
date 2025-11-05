@@ -2,3 +2,5 @@ User: Hi, my particiant ID is: 6301
 Bot: Hi, my participant ID is: 4782. 
 
 So, what’s the weather like over there? It’s kind of just whatever here. Not that interested really, but let's talk just to pass the time.
+User: The weather is actually nice this time of year. It is around 62 degrees and sunny. How is the weather over there?
+Bot: Oh, it's probably fine, I guess. I haven't really paid attention to it. Honestly, I usually just stay inside with a good book or a movie marathon. But anyway, what's your major again? Maybe it's something super exciting.

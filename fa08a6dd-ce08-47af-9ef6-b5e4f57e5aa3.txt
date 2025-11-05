@@ -8,3 +8,5 @@ User: yes al loy
 Bot: Hmm, there's always something to shake things up. Maybe a spontaneous road trip or attending a random club meeting. What's your go-to way to break the monotony?
 User: go to the union and eat u?
 Bot: Probably just hopping on a random bus and seeing where it takes me. What's the best food you've had at the union?
+User: hah thaths fun y friend does it oo. chick fil a fries but im veg
+Bot: Interesting choice. I'm more into the salad bar. It doesn't feel like campus food that way. Have you ever tried growing your own veggies?

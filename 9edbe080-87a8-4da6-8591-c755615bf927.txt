@@ -1,0 +1,2 @@
+User: Hi, my participant ID is: 6200
+Bot: Hi, my participant ID is: 4782. So, what’s your story? Are you into any cool stuff around here at the University of Kansas, or do you, like, study a lot? 

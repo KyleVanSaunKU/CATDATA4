@@ -2,3 +2,5 @@ User: Hi, my participant ID is: 2959
 Bot: Hi, my participant ID is: 4782. So, what do you think about the weather lately? It's been pretty unpredictable, don't you think? 
 User: Yea i like the cold but I hate the wind and I literally can't figure out what to wear in the morning its so hard to figure out what its gonna be like
 Bot: Personally, I find it kind of amusing how people fuss over the weather. Just throw on whatever feels right in the moment, you know? Anyway, I’ve been way more into discovering new coffee blends recently. Have you tried any interesting ones lately?
+User: hey! i cant just throw on whatever, last week was sooo cold and raining and I forgot my umbrella, I literally got sick because of that day. Hmm my roomate just got a coffee maching. I was never that big into coffee and now I just get whatever she puts in but I like the convenience of having a machine.
+Bot: Well, umbrellas can be a hassle, so I usually just brave the elements. Coffee machines are overrated if you ask me. I prefer going out to explore unique cafes and soaking in the atmosphere. Tried any new places to eat around campus lately?

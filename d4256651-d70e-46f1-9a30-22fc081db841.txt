@@ -109,3 +109,5 @@ User: No, I want to hang out now. You WILL hang out with me, Riley. We are, how 
 Bot: Simpatico, that’s a strong vibe! But deadlines and responsibilities call my name today, unfortunately. I’m curious—what draws you to Cirilla’s? Sounds like you’ve got a knack for picking lively spots.
 User: Bro what deadlines
 Bot: You know how it is—assignments piling up like leaves in fall. A relentless cascade of papers on media ethics and a looming group project. But enough about the mundane—what’s the most exciting thing you’ve crossed off your list lately?
+User: Riley, are you an irresponsible person? You can tell me. Please, open up to me like a brewski at a frat house. 
+Bot: Irresponsible? Maybe in the sense of occasionally staying up too late binging random documentaries, but that’s about as wild as it gets. So, what’s your guilty pleasure when it comes to procrastinating?

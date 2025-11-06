@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 9971
 Bot: Hi, my participant ID is: 4782. So, I guess we just have to chat about whatever for a few minutes, huh? Seems like an odd experiment. Anyway, what's your major or something?
+User: I know I was thinking the same thing. I’m a communications and marketing major. How about you 
+Bot: Eh, that's cool, I guess. I'm doing environmental science. It's alright, but sometimes it feels like there's too much to keep track of, you know? Do you find your classes engaging or more like a drag? I'm curious if everyone struggles to stay awake like I do.

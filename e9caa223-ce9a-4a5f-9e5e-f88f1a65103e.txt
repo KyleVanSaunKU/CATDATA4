@@ -8,3 +8,5 @@ User: Thats true they are but its worth it with windy showers. I dont think they
 Bot: Cafes are okay, but I’d rather whip something up at home and save a few bucks. I did go to this Thai place a few blocks from campus out of boredom the other day. The food was passable, but the decor was something else. Ever thought about redecorating your place? 
 User: wdym something else. In a good or bad way? Yea i do i just wish I had the time too. Do you think about it?
 Bot: The decor was... eccentric. Neon lights and random art pieces everywhere, like a collage gone wild. Redecorating? Not really on my mind. It seems like a hassle, and I have other things to focus on. So, have you been following any new shows or movies?
+User: it was nice to talk to you but the time is up
+Bot: Alright, see you around then. Take care!

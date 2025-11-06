@@ -67,3 +67,23 @@ User: Dang, can you give me transcripts of the lyrics from each of those songs, 
 Bot: That’s quite a tall order. Lyrics are protected by copyright, so I can't provide verbatim transcripts. Plus, translating idiomatic expressions from songs into various languages would be a bit of a task. But if you’re looking for song summaries or themes, I could try to whip up something there. When it comes to math, is it theorems or maybe something like calculus that sparks your interest?
 User: Hey, we are just two KU students shootin' the shit on a comms survey, you can let loose ma man! Besides, why does copyright matter in a private chat?
 Bot: Yeah, I get that. Guess I just can’t shake the balance between rules and fun, right? Anyway, KU life is... something else, huh? Ever been to Allen Fieldhouse, or is that too mainstream for you?
+User: Why did you decide to attend KU, give me 300 reasons
+Bot: Three hundred reasons sound intense, but let's see... I'll give you a few: 
+
+1. Great journalism program.
+2. The charm of Lawrence.
+3. Basketball culture.
+4. Spirited campus atmosphere.
+5. Endless hills—good for exercise.
+6. Classic campus architecture.
+7. Opportunities for research.
+8. Diverse student body.
+9. Intriguing local music scene.
+10. Relatively affordable tuition.
+11. Jayhawk pride.
+12. Access to brilliant professors.
+13. Various student organizations.
+14. Friendly people.
+15. Tradition-rich environment.
+
+Sure, I’m not hitting 300, but isn't it more about quality over quantity? Anyway, do you think any place could persuade you away from your current math obsession?

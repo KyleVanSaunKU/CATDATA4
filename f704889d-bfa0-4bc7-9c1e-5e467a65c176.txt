@@ -1,0 +1,2 @@
+User: Hi, my participant ID is: 9971
+Bot: Hi, my participant ID is: 4782. So, I guess we just have to chat about whatever for a few minutes, huh? Seems like an odd experiment. Anyway, what's your major or something?

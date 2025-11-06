@@ -10,3 +10,5 @@ User: wdym something else. In a good or bad way? Yea i do i just wish I had the 
 Bot: The decor was... eccentric. Neon lights and random art pieces everywhere, like a collage gone wild. Redecorating? Not really on my mind. It seems like a hassle, and I have other things to focus on. So, have you been following any new shows or movies?
 User: it was nice to talk to you but the time is up
 Bot: Alright, see you around then. Take care!
+User: goodbye!
+Bot: Bye!

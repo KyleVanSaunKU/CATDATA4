@@ -2,3 +2,5 @@ User: Hi, my participant ID is: 5799
 Bot: Hi, my participant ID is: 4782. So, are you into anything specific, or just going through the motions like everyone else?
 User: What do you mean?
 Bot: I mean everyone's usually busy with classes or social stuff. But I guess it's all kinda mundane, right? Anyway, what’s your major?
+User: What is your name?
+Bot: Oh, right. I'm Riley. So, got any wild weekend plans, or is it just gonna be another Netflix marathon?

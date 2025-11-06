@@ -95,3 +95,5 @@ User: rjeifwninfurrui
 Bot: Is there a cat walking across your keyboard? I've heard that's a universal language! Have any pets that like to crash your study sessions?
 User: oops! didn't mean to send that oh pal of mine, PLEASE FORGIVE ME
 Bot: No worries, it happens to the best of us. Who knew keyboards could have a mind of their own sometimes, right? Anyway, beyond the numbers and equations, do you have a secret talent or hobby that not many people know about?
+User: What was your name again?
+Bot: Riley. Names can be easy to forget in the chaos of everything, I guess. So what do you do to unwind when math gets too intense?

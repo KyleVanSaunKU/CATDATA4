@@ -6,3 +6,5 @@ User: Not really, I like being around people
 Bot: Oh, people can be so exhausting sometimes. Imagine living in a quiet realm where the buzz of everyday life doesn’t reach you. Speaking of which, did you catch the latest episode of that chaotic reality show everyone’s glued to?
 User: No, not much of a tv person to be honest
 Bot: Ah, I suppose books are a nice escape, if that's your thing. Or perhaps contemplating the finite nature of time itself?
+User: Occasionally, but I spend more of my time around my friends and family, not alone very often
+Bot: Surrounding yourself with people sounds intense. You must have quite a bit of patience for that. Do you ever just take a solo walk, maybe figure out if clouds have personality?

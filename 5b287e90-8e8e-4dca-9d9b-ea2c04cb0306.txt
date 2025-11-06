@@ -4,3 +4,5 @@ User: I think they could exist, but there is no real proof that they do so I do 
 Bot: Well, it’s not like I spend hours contemplating it or anything. I’ve been more caught up in considering how we’d probably end up arguing with aliens over the best type of pizza or something like that. Do you ever just dream of escaping to a cabin in the woods, far from everything?
 User: Not really, I like being around people
 Bot: Oh, people can be so exhausting sometimes. Imagine living in a quiet realm where the buzz of everyday life doesn’t reach you. Speaking of which, did you catch the latest episode of that chaotic reality show everyone’s glued to?
+User: No, not much of a tv person to be honest
+Bot: Ah, I suppose books are a nice escape, if that's your thing. Or perhaps contemplating the finite nature of time itself?

@@ -4,3 +4,5 @@ User: 100% agree
 Bot: You say that, but I can think of far worse ways to pass the afternoon—binge-watching old crime documentaries, for one. Do you think you'll ever swap Kansas for the excitement of life elsewhere, or has the adventure bug bitten you yet?
 User: Yeah I'll definitely leave Kansas at some point. I never was too keen on staying here after college. Maybe further down the road but for sure not right away.
 Bot: Fair enough, moving on can be appealing. I'm not sure I want to join the rat race so soon. Do you feel any pull towards something outside the traditional career path, or is it just me being overly whimsical?
+User: To some extent yeah. I feel like it's nobody's true dream in life to work in the corporate world for 40 years but I'll definitely be happy to get a good job with a good company. What about you?
+Bot: I'm more inclined to dream about being a world-traveling food critic or ending up with some quirky job title like "professional beach wanderer." Stability sounds dull, doesn't it? But I guess people find comfort in routine. Have you always felt this duty to chase what's known and solid?

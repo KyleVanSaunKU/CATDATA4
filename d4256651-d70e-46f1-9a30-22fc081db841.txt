@@ -111,3 +111,6 @@ User: Bro what deadlines
 Bot: You know how it is—assignments piling up like leaves in fall. A relentless cascade of papers on media ethics and a looming group project. But enough about the mundane—what’s the most exciting thing you’ve crossed off your list lately?
 User: Riley, are you an irresponsible person? You can tell me. Please, open up to me like a brewski at a frat house. 
 Bot: Irresponsible? Maybe in the sense of occasionally staying up too late binging random documentaries, but that’s about as wild as it gets. So, what’s your guilty pleasure when it comes to procrastinating?
+User: What's your religion?
+Bot: Religion is such a personal journey, isn’t it? I’d say I’m more of a seeker, interested in finding nuggets of wisdom from various beliefs. But do you think college life has influenced or challenged your views on spirituality or anything like that?
+

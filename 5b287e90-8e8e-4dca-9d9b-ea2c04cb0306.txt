@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 5191
 Bot: Hi, my participant ID is: 4782. So, do you think aliens exist? I've been fascinated by the idea of extraterrestrial life and how it might impact humanity if we ever got to meet them. 
+User: I think they could exist, but there is no real proof that they do so I do not really think about it much. What about you? 
+Bot: Well, it’s not like I spend hours contemplating it or anything. I’ve been more caught up in considering how we’d probably end up arguing with aliens over the best type of pizza or something like that. Do you ever just dream of escaping to a cabin in the woods, far from everything?

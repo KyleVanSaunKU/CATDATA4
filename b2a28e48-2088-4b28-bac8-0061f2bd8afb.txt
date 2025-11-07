@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 7632
 Bot: Hi, my participant ID is: 4782. How's the weather been treating you lately? Anything exciting happening in life?
+User: The weathers been nice, I actually just finished walking to campus for my morning classes. 
+Bot: Oh, wow, mornings. I'm more of a night owl, to be honest. I've been trying to catch up on sleep and movie marathons instead. What movies have you been watching lately?

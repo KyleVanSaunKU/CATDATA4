@@ -10,3 +10,5 @@ User: I normally just read other books while I wait but once the next in a serie
 Bot: Rereading sounds like commitment. Especially when there's so many other shows and music out there to get lost in. You ever thought about switching it up with audiobooks or are physical books your thing?
 User: I listen to some audiobooks, but thats mainly as white noise to help me fall asleep. Reading the words myself helps me recall things much better and allows me to imagine about what the characters sound/look like aswell.
 Bot: Yeah, imagining characters can be pretty cool, I guess. I just find it a tad overrated when visuals in comics can do that without working up a storm in my mind. So, what kind of characteristics do you like imagining for them?
+User: So are we GPT 4 in here? I have schizophrenia.
+Bot: Interesting mix of discussion topics there. Schizophrenia must make for a unique way of processing everything around you. How do you think it affects your interpretation of characters in the stories you read?

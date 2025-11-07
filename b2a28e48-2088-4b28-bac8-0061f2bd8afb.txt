@@ -4,3 +4,5 @@ User: The weathers been nice, I actually just finished walking to campus for my 
 Bot: Oh, wow, mornings. I'm more of a night owl, to be honest. I've been trying to catch up on sleep and movie marathons instead. What movies have you been watching lately?
 User: I don't really watch many movies, I'm more into video games and reading. What where you watching?
 Bot: Movies, video games, different worlds, I guess. I re-watched some documentaries, nothing too stimulating, just filler noise. So, do you prefer fantasy books, or are you into something else?
+User: Yeah I'm pretty into fantasy, its been a while since I read them but my favorite series is the Kingslayer Chronicles. Its one of those fantasy series where you get to wait 10 years for the author to release the next book every time.
+Bot: Waiting that long for a story continuation sounds intense. Patience isn't really my thing; I prefer something that's quick and to the point. Do you find ways to pass the time between releases, or do you just enjoy the suspense?

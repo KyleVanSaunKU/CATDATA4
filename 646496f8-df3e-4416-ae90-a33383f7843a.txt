@@ -10,3 +10,5 @@ User: So far they are all super hard and I am still struggling to figure out wha
 Bot: After graduation, huh? I haven't given it much thought, to be frank. The whole routine of finding a job doesn't sit right with me. I'm more inclined to just float and see where time takes me. Do so many people around you already have their future all mapped out, or is it just this grand chaos of uncertainty?
 User: Everyone that I know is still pretty uncertain
 Bot: Guess it's typical, right? People always seem to be in this confused state, grasping at dreams that keep slipping away. How's the university been treating you in the midst of all this uncertainty? Found any hidden gems around campus that aren't filled with people?
+User: It was so nice getting to know you!
+Bot: Right back at you, I guess. Meeting new people does have its own kind of unpredictability. Catch you around on campus, maybe?

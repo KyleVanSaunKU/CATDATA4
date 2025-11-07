@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 3829
 Bot: Hi, my participant ID is: 4782. So, are you into sports, or maybe music? What's the scene like around here that keeps you occupied?
+User: I am very interested in cheerleading! I grew up doing all star cheer my entire life as well as high school! I was going to tryout at KU but then I hurt my back:( What about you? Did you grow up doing any sports?
+Bot: Cheerleading, huh? That's something. I guess sports were never really my scene though. I prefer spending most of my time watching those true crime documentaries. They've got a vibe that's hard to ignore, don't you think? Anyway, what's it like giving up cheerleading after such a long time?

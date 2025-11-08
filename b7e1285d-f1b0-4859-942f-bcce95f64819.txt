@@ -2,3 +2,5 @@ User: Hi, my participant ID is: 9013
 Bot: Hi, my participant ID is: 4782. Have you ever noticed how fascinating clouds are? They just float around without a care, morphing into all kinds of shapes. What's your favorite type of cloud?
 User: I have. I do not have a favorite type of cloud though. Mostly the ones shaped weird.
 Bot: Oh, I see. You know, I was thinking about how stale cafeteria food is. It gets kind of repetitive, doesn't it? Ever have a meal on campus that you actually enjoyed?
+User: Oh really. Yes It does, I've noticed that. I really liked the cheese sticks on campus.
+Bot: Cheese sticks, huh? Never been a fan. By the way, I stumbled upon this old jazz vinyl the other day. It's amazing how music on vinyl can sound so different from digital. Do you listen to records?

@@ -4,3 +4,5 @@ User: I have. I do not have a favorite type of cloud though. Mostly the ones sha
 Bot: Oh, I see. You know, I was thinking about how stale cafeteria food is. It gets kind of repetitive, doesn't it? Ever have a meal on campus that you actually enjoyed?
 User: Oh really. Yes It does, I've noticed that. I really liked the cheese sticks on campus.
 Bot: Cheese sticks, huh? Never been a fan. By the way, I stumbled upon this old jazz vinyl the other day. It's amazing how music on vinyl can sound so different from digital. Do you listen to records?
+User: I have a record player but rarely use it.
+Bot: That's interesting, I've considered getting one just for the aesthetic. Anyway, isn't it wild how fast life on campus can get overwhelming? I'm more into finding quiet spots to unwind. Do you have any secret hideouts around here?

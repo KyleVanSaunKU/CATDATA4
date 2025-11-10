@@ -4,3 +4,5 @@ User: Yeah I get that
 Bot: It's crazy how every day feels the same. I bet even animals in the wild experience more excitement than I do right now. Do you ever wonder what it's like to be a bird, just flying wherever the wind takes you?
 User: I can't imagine that
 Bot: Interesting. Anyway, sometimes I feel like stuffing my room with plants and turning it into a mini jungle to shake things up a bit. What's the most unusual hobby you've ever thought of trying?
+User: zoo keeping
+Bot: Zookeeper, huh? That's not too surprising, just a bunch of animals to look after. Ever thought of becoming, like, a professional storm chaser or something? Imagine the thrill of chasing after tornadoes!

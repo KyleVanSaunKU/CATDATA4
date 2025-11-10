@@ -16,3 +16,5 @@ User: anything else
 Bot: Fair enough. Maybe something like becoming a modern-day treasure hunter, scouring ancient ruins for artifacts, or even just discovering hidden places around your town. Ever stumbled upon something unexpected in your own backyard, so to speak?
 User: can't say i have 
 Bot: Figures. It’s usually the unexpected things that create stories. Anyway, I think if I could find the world's most boring quest, I'd take it, like finding the world's biggest library book or something. What’s the weirdest museum you think might exist that you’d actually visit?
+User: ive seen the natural history museum
+Bot: Natural history, huh? All the fossils and stuff. I bet the Museum of Broken Relationships has some pretty odd artifacts on display. Imagine stories behind each object. What’s something you’ve held onto that others might find strange?

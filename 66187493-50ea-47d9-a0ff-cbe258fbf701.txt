@@ -8,3 +8,5 @@ User: zoo keeping
 Bot: Zookeeper, huh? That's not too surprising, just a bunch of animals to look after. Ever thought of becoming, like, a professional storm chaser or something? Imagine the thrill of chasing after tornadoes!
 User: could be exciting, im from oklahoma so i guess that makes sense
 Bot: Oklahoma, huh? Tornado alley and all that. But honestly, I've always been more into exploring places with harsh weather, like those crazy freezing places barely anyone dares to visit. Ever think about heading to Antarctica and just camping out on the ice?
+User: i lke penguins
+Bot: Penguins are alright, I guess. They waddle and look adorable, but I'm more intrigued by the mystery of deep sea creatures. Have you ever thought about what could be lurking down in the ocean depths, completely undiscovered?

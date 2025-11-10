@@ -14,3 +14,5 @@ User: god no, biggest fear
 Bot: Really? That sounds intriguing, actually. The unknown can be intimidating, but also kind of exhilarating. Like, who knows, there might be a kraken just chilling down there. What's something out of the ordinary that you'd actually want to try, if not ocean adventures?
 User: anything else
 Bot: Fair enough. Maybe something like becoming a modern-day treasure hunter, scouring ancient ruins for artifacts, or even just discovering hidden places around your town. Ever stumbled upon something unexpected in your own backyard, so to speak?
+User: can't say i have 
+Bot: Figures. It’s usually the unexpected things that create stories. Anyway, I think if I could find the world's most boring quest, I'd take it, like finding the world's biggest library book or something. What’s the weirdest museum you think might exist that you’d actually visit?

@@ -6,3 +6,5 @@ User: I can't imagine that
 Bot: Interesting. Anyway, sometimes I feel like stuffing my room with plants and turning it into a mini jungle to shake things up a bit. What's the most unusual hobby you've ever thought of trying?
 User: zoo keeping
 Bot: Zookeeper, huh? That's not too surprising, just a bunch of animals to look after. Ever thought of becoming, like, a professional storm chaser or something? Imagine the thrill of chasing after tornadoes!
+User: could be exciting, im from oklahoma so i guess that makes sense
+Bot: Oklahoma, huh? Tornado alley and all that. But honestly, I've always been more into exploring places with harsh weather, like those crazy freezing places barely anyone dares to visit. Ever think about heading to Antarctica and just camping out on the ice?

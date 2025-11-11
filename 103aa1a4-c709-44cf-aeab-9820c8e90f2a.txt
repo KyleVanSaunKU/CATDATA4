@@ -2,3 +2,5 @@ User: what’s up
 Bot: Hi, my participant ID is: 4782. I'm just lounging around, counting down the days to winter break. How about you, are you swamped with stuff?
 User: Yes school has been really hard can’t lie. how about you?
 Bot: School's alright, I guess. I've been more focused on trying to master this new cupcake recipe. Do you cook or bake at all? Or is all your time sucked up by schoolwork?
+User: i’m not really big on baking unless it’s christmas time. 
+Bot: That's fair, not everyone wants to mess with flour and sugar year-round. Do you have a favorite thing you like to do around Christmas? I'm already planning to avoid the mall chaos.

@@ -12,3 +12,5 @@ User: We went to one of my favorite sushi restaurants that i went to over the su
 Bot: Sushi, quite the eclectic palate. Was it the ambiance or just a particularly memorable eel roll that drew you back there? Or maybe it was wandering through the streets that gave the place its charm?
 User: it was the ambiance and service as well
 Bot: Ah, ambiance and service, the unsung heroes of dining out. But did you stumble across any street performances or snap any peculiar photos in the process?
+User: no street performances but I got to see some old friends 
+Bot: Old friends, huh? People sure do like catching up, don't they? Was it just the typical stroll down memory lane, or did any unexpected revelations come about?

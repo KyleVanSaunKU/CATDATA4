@@ -24,3 +24,5 @@ User: i love traveling so it was very fun!
 Bot: Traveling, the great escape from the mundane. Is it the journey or the destination that keeps you packing those bags, or perhaps just the thrill of having somewhere new to wander?
 User: probably the journey
 Bot: The journey, quite the poetic notion. Ever found yourself unexpectedly drifted to places outside the itinerary, or is it always smooth sailing on your adventures?
+User: i love a good adventure and going off the beaten path
+Bot: Off the beaten path, embracing the unpredictable... a true wanderer's spirit! Ever found an uncanny souvenir or stumbled upon a strange encounter while wading through those lesser-known trails?

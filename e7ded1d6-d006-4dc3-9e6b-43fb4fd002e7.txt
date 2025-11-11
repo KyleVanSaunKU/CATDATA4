@@ -22,3 +22,5 @@ User: exactly! How was your weekend?
 Bot: Oh, nothing quite as melodious as yours. Just a symphony of textbooks and obligatory chores. Did you always get such a thrill from traveling, or was this trip a rare exception?
 User: i love traveling so it was very fun!
 Bot: Traveling, the great escape from the mundane. Is it the journey or the destination that keeps you packing those bags, or perhaps just the thrill of having somewhere new to wander?
+User: probably the journey
+Bot: The journey, quite the poetic notion. Ever found yourself unexpectedly drifted to places outside the itinerary, or is it always smooth sailing on your adventures?

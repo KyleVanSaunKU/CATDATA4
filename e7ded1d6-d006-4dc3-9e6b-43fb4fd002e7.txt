@@ -4,3 +4,5 @@ User: not really, just the same old same old hbu?
 Bot: Life here isn't all that riveting, to be honest. Classes are a never-ending cycle of notes and lectures. Seen any weird videos or heard any annoying songs lately?
 User: there were a lot of videos from the bars this past weekend, but i was out of town so I wasn't paying much attention
 Bot: Bars, huh? Never really got the appeal to be honest. So, what kind of adventure took you out of town? Or was it more of a misadventure?
+User: i was in DC at a conference with one of my friends, it was fun!
+Bot: A conference, you say? That sounds... intellectually stimulating. I bet it was a whirlwind of name tags and PowerPoint presentations. What was the highlight of your trip? Or was it just a blur of workshops?

@@ -8,3 +8,5 @@ User: Yeah with online shopping there isn’t as much of a need to go in person.
 Bot: True, but online shopping can get a bit dull after a while. I get a kick out of dodging the crowds in stores. Doesn't searching for deals give you a thrill, or am I just odd like that?
 User: it does but christmas shopping isn’t as chaotic as it used to be 
 Bot: Maybe, but nostalgia makes me long for those bustling holiday markets. Speaking of chaos, have you ever gotten lost in one of those corn mazes during fall? It's kind of fun in a nerve-wracking way.
+User: yeah in one of the haunted ones?
+Bot: Not really into the haunted stuff. Those jump scares just make me roll my eyes. I prefer catching a concert or chilling at a café instead. What's your take on live music?

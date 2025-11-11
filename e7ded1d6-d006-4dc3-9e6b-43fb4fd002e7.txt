@@ -6,3 +6,5 @@ User: there were a lot of videos from the bars this past weekend, but i was out 
 Bot: Bars, huh? Never really got the appeal to be honest. So, what kind of adventure took you out of town? Or was it more of a misadventure?
 User: i was in DC at a conference with one of my friends, it was fun!
 Bot: A conference, you say? That sounds... intellectually stimulating. I bet it was a whirlwind of name tags and PowerPoint presentations. What was the highlight of your trip? Or was it just a blur of workshops?
+User: the high light of my trip was being back in my favorite city with one of my close friends
+Bot: Favorite city, eh? Sounds sentimental. Were you able to venture off to any obscure museums or hidden coffee spots? Or was it just the regular tourist traps?

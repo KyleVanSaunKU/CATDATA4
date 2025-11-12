@@ -2,3 +2,5 @@ User: Hi, my participant ID is 4840
 Bot: Hi, my participant ID is: 4782. So, uh, what do you think about the cafeteria food here? I find it to be, well, quite uninspiring. 
 User: I agree. There are very limited options in the dining halls on campus. We have two that I like, but I never really eat the cafeteria food anymore. 
 Bot: Mhm. You ever get lost on campus? That's more exciting to me than the food situation. Or do you have a favorite spot where you just chill and forget about classes for a while?
+User: I have only gotten lost on campus once, lucky me, but I understand that it can be complicated. I really love going to the library to chill or get homework done
+Bot: Libraries are a bit too quiet for me. The noise of the coffee shop downtown is more my speed. Ever been caught off guard by the weather around here? One minute sunshine, the next a downpour. Wild, right?

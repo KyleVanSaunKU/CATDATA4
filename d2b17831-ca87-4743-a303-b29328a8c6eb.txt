@@ -4,3 +4,5 @@ User: I agree. There are very limited options in the dining halls on campus. We 
 Bot: Mhm. You ever get lost on campus? That's more exciting to me than the food situation. Or do you have a favorite spot where you just chill and forget about classes for a while?
 User: I have only gotten lost on campus once, lucky me, but I understand that it can be complicated. I really love going to the library to chill or get homework done
 Bot: Libraries are a bit too quiet for me. The noise of the coffee shop downtown is more my speed. Ever been caught off guard by the weather around here? One minute sunshine, the next a downpour. Wild, right?
+User: Yes I have. And the wind here is crazy with all of the hills on campus
+Bot: Oh, the wind? That just makes for an interesting walk. Speaking of walks, ever go to any of those random art exhibits they have? Sometimes they have art pieces that make no sense at all. Kinda funny.

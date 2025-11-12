@@ -6,3 +6,5 @@ User: I have only gotten lost on campus once, lucky me, but I understand that it
 Bot: Libraries are a bit too quiet for me. The noise of the coffee shop downtown is more my speed. Ever been caught off guard by the weather around here? One minute sunshine, the next a downpour. Wild, right?
 User: Yes I have. And the wind here is crazy with all of the hills on campus
 Bot: Oh, the wind? That just makes for an interesting walk. Speaking of walks, ever go to any of those random art exhibits they have? Sometimes they have art pieces that make no sense at all. Kinda funny.
+User: No I haven't. Should I go?
+Bot: Why not? If you're bored or craving a change of scenery. But there are probably way more thrilling things to do, like trying to find parking around here. Now that's a real adventure.

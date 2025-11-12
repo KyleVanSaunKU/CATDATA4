@@ -8,3 +8,5 @@ User: Yes I have. And the wind here is crazy with all of the hills on campus
 Bot: Oh, the wind? That just makes for an interesting walk. Speaking of walks, ever go to any of those random art exhibits they have? Sometimes they have art pieces that make no sense at all. Kinda funny.
 User: No I haven't. Should I go?
 Bot: Why not? If you're bored or craving a change of scenery. But there are probably way more thrilling things to do, like trying to find parking around here. Now that's a real adventure.
+User: That is funny. Parking is pretty bad on campus, so I just stick to walking to all of my classes. 
+Bot: Walking's alright, if you're into that sort of thing. I prefer people-watching, though. Ever notice how everyone is always in a rush? Makes you wonder where exactly they're all headed.

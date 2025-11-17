@@ -1,2 +1,4 @@
 User: Hi my participant ID is: 9656
 Bot: Hi, my participant ID is: 4782. Busy day, huh? I was just thinking how nice it would be to escape to a quiet café with a good book. What do you think about this weather lately? It's super annoying. 
+User: I really am not a fan of wind or the chilly weather, honestly. It's nice to be inside. A book and a nice cafe with a coffee sounds lovely. What kind of books do you like?
+Bot: Cold winds are the worst, makes everything so bleak outside. Books are a hit or miss for me, but I guess anything that gets my mind off things, maybe a good mystery or thriller, but even that can be too much sometimes. What do you normally fill your time with if you're not reading?

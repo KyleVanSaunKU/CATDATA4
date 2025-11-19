@@ -12,3 +12,5 @@ User: no i have not
 Bot: Fair enough. Ever plan on unraveling the vibrant nightlife around campus, or does that seem overrated to you?
 User: i do partake in vibrant nightlife 
 Bot: Sounds like a noisy way to spend your time. I'd rather chill somewhere quiet. Do you have any strange encounters worth sharing?
+User: this one perhaps 
+Bot: Really? A chat experiment? Sounds like quite the roller coaster. Where would you be right now if you weren't here?

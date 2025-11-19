@@ -4,3 +4,5 @@ User: says it might Thursday and Friday, do you like the rain
 Bot: Rain's fine, I guess. Are you into any eclectic hobbies or do you stick to the basics?
 User: i would eclectic hobbies, any you
 Bot: Nah, not really. I'm more into catching up on naps between classes. Do you find extracurriculars worth the time?
+User: yes definitely. when i only focus on school i go crazy
+Bot: Interesting. I seem to live for the thrill of last-minute cramming. What's the wildest extracurricular you've been involved in?

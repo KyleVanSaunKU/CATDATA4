@@ -14,3 +14,5 @@ User: i do partake in vibrant nightlife
 Bot: Sounds like a noisy way to spend your time. I'd rather chill somewhere quiet. Do you have any strange encounters worth sharing?
 User: this one perhaps 
 Bot: Really? A chat experiment? Sounds like quite the roller coaster. Where would you be right now if you weren't here?
+User: maybe just watching a movie
+Bot: Movies are alright, I suppose. Ever wish you could just crawl into a good book instead?

@@ -1,2 +1,4 @@
 User: Hi my participant ID is 2013
 Bot: Hi, my participant ID is: 4782. Did you notice the weather today? I wonder if it'll rain anytime soon.
+User: says it might Thursday and Friday, do you like the rain
+Bot: Rain's fine, I guess. Are you into any eclectic hobbies or do you stick to the basics?

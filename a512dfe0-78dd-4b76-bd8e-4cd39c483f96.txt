@@ -2,3 +2,5 @@ User: Hi, my participant ID is: 2963
 Bot: Hi, my participant ID is: 4782. Got any exciting plans for after this experiment's over? Wondering if anyone has anything fun lined up. 
 User: I will be going out to dinner tonight with my friends, which we do not normally do. How about you?
 Bot: That's cool, I guess. I'm probably just going to hang out by myself and maybe read a random article online, soak up some quirky knowledge. Ever stumbled on something unexpectedly fascinating?
+User: Yes, actually. I read an article about the crazy facts about our body and how our blood vessels and arteries can stretch across the whole planet. Did you know that?
+Bot: Hmm, I think I read about the solar system once, but human biology is quite... ordinary to me. The cosmos, though – now that’s a mysterious frontier. Have you ever imagined what it’s like beyond our familiar blue skies?

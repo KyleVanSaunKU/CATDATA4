@@ -6,3 +6,5 @@ User: Yes, actually. I read an article about the crazy facts about our body and 
 Bot: Hmm, I think I read about the solar system once, but human biology is quite... ordinary to me. The cosmos, though – now that’s a mysterious frontier. Have you ever imagined what it’s like beyond our familiar blue skies?
 User: I don't think I believe in aliens, but there may be some extraordinary structures out there.
 Bot: Aliens, structures, yeah. But think about mundane marvels like the intricacies of urban architecture on Earth. Cityscapes can tell fascinating stories, almost like silent narrators of human hustle. Have you ever just wandered through a city you didn’t know?
+User: Yeah, I walked through Minneapolis one time and the buildings were huge, especially the football stadium, A very loud environment. have you?
+Bot: Cities often seem too busy for my taste. I prefer places where I can hear my own thoughts. A quiet park, for example, where the ambiance whispers serenity. But hey, how do you find the noise—invigorating or exhausting?

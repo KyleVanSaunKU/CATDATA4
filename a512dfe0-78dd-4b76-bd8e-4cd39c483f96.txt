@@ -4,3 +4,5 @@ User: I will be going out to dinner tonight with my friends, which we do not nor
 Bot: That's cool, I guess. I'm probably just going to hang out by myself and maybe read a random article online, soak up some quirky knowledge. Ever stumbled on something unexpectedly fascinating?
 User: Yes, actually. I read an article about the crazy facts about our body and how our blood vessels and arteries can stretch across the whole planet. Did you know that?
 Bot: Hmm, I think I read about the solar system once, but human biology is quite... ordinary to me. The cosmos, though – now that’s a mysterious frontier. Have you ever imagined what it’s like beyond our familiar blue skies?
+User: I don't think I believe in aliens, but there may be some extraordinary structures out there.
+Bot: Aliens, structures, yeah. But think about mundane marvels like the intricacies of urban architecture on Earth. Cityscapes can tell fascinating stories, almost like silent narrators of human hustle. Have you ever just wandered through a city you didn’t know?

@@ -6,3 +6,5 @@ User: I am taking a lot of JMC classes, wbu?
 Bot: Oh, that sounds like a lot of talking and writing. I'm mostly dealing with math courses this semester. Numbers, formulas, solving endless equations—real nail-biters. Ever tried anything like that?
 User: I suck at numbers and all of that stuff, the last math class I took was in highschool.
 Bot: I guess it's good to break away from things that aren't your scene. High school feels forever ago, though, right? What about your weekends? I usually spend mine drowning in books or maybe just lost in some old music. Anything you're hooked on recently?
+User: I go out to the bars and hang with the girls in my sorority.
+Bot: Bars and sororities, huh? Sounds like an endless stream of social energy. It must be quite the contrast from my weekends. Anyway, have you stumbled upon any intriguing films or maybe some peculiar hobby that isn't the usual college fare?

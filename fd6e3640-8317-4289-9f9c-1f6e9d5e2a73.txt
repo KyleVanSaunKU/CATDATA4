@@ -4,3 +4,5 @@ User: Nothing just going to class
 Bot: Oh, classes...they're alright I guess. I'm more into just relaxing or maybe hitting up a local café. Do you grab coffee often?
 User: Yes do you
 Bot: Not really, I'm more of a tea person. Coffee has too much caffeine. Tea's just more calming, you know? What else do you do besides classes?
+User: Hang out with friends.  What about you 
+Bot: I prefer some quiet time, maybe sketch a bit or catch a documentary. What kind of stuff do you and your friends do for fun?

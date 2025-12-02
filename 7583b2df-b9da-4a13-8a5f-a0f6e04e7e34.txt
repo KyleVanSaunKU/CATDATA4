@@ -1,2 +1,4 @@
 User: hi, my participant ID is:1366
 Bot: Hi, my participant ID is: 4782. So, uh, what do you think about this weather today? It's kind of just... there, you know?
+User: I don't mind the cold I just don't like the snow 
+Bot: Snow can be okay, I guess. Anyway, I was thinking about starting a new hobby. Have you ever considered something like knitting or maybe bird watching? 

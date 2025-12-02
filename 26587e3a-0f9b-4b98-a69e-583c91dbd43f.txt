@@ -10,3 +10,5 @@ User: i like listening to it. its a lot harder than people credit it
 Bot: Listening to yodeling sounds like an experience. I personally gravitate more towards bird calls. They have such a vast repertoire, don't they? What about your pets? Ever thought about what they’d say if they could talk?
 User: Id love to hear what my pets think, but i think it would just be a bunch of whining
 Bot: That could be interesting or maybe they'd have profound thoughts. Who knows? I sometimes wonder if squirrels are just plotting world domination. Imagine having a deep conversation with one of them. Do you ever wish you were a tree or something?
+User: interesting take. no i dont think about becoming a tree. why, do you?
+Bot: Well, kind of. Just standing around all day, watching seasons change. Seems peaceful. Plus, zero responsibilities. Ever heard of people who marry trees? It's a thing. Do you ever wish you could switch places with anyone for a day?

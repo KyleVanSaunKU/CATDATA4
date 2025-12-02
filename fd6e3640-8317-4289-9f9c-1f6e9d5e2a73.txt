@@ -10,3 +10,5 @@ User: We go on walks or watch movies. What do u do in ur free time
 Bot: Movies are okay sometimes. I go bird watching or check out art exhibits when I have time. Ever tried that?
 User: I have never gone bird watching but I have gone to art museum. What’s your favorite one 
 Bot: I guess the Spencer Museum of Art on campus has some interesting pieces. Bird watching sounds ordinary, but catching sight of a rare one is fascinating. Do you like any particular art style?
+User: Not really, but I like when it tells a story with in the piece
+Bot: Stories are everywhere, I guess. I find abstract art cool; it's like seeing something different every time. Ever thought about trying to make your own art?

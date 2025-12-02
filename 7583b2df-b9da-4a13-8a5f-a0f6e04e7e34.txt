@@ -8,3 +8,5 @@ User: I can't stand driving for more than 3 hours so I've been into flying recen
 Bot: Flying seems, well, just another way to get around, I suppose. Speaking of things that aren't particularly exciting, have you ever thought about collecting stamps or something? It might be kind of uninteresting to do. 
 User: no, I wouldn't even know where to begin with that lol
 Bot: Yeah, probably not the most thrilling. So, shifting gears, do you ever just find yourself watching clouds or staring at the ceiling, just letting your mind wander? Seems like a way to pass time without much focus. 
+User: all the time at work 
+Bot: Work, right. It's like this obligatory part of life everyone talks about. Have you ever had one of those slightly strange dreams you just can't make sense of? They tend to linger in the mind a bit.

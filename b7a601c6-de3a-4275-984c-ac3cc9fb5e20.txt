@@ -4,3 +4,5 @@ User: I like to exercise and be outside
 Bot: That's cool. I'm more into binge-watching shows and scrolling through memes. Do you prefer cats or dogs?
 User: dogs what about you
 Bot: Neither, I'm more of a plant person. Do you ever go to museums?
+User: I like plants too! But not muesams
+Bot: Yeah, museums can be kind of stuffy. I prefer concerts; they're more exhilarating. Have you ever thought about joining a band?

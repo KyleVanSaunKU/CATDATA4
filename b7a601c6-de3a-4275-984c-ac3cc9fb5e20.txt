@@ -12,3 +12,5 @@ User: yes
 Bot: Interesting. I think solo travel sounds a bit too lonely. Have you ever learned another language?
 User: Raveling 
 Bot: Interesting twist! I'm not much of a traveler myself. I prefer staying in one place and exploring local coffee shops. Do you like trying new foods?
+User: I love food
+Bot: Food's okay, I guess. I usually stick to snacks and quick bites. What's something adventurous you've done recently?

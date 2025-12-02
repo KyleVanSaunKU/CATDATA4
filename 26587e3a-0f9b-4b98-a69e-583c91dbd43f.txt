@@ -4,3 +4,5 @@ User: I didnt know that was happening
 Bot: Yeah, it's been going on for a bit. But anyway, how do you feel about the classes this semester? The weather's been way too gloomy for me to stay motivated. Isn't the paint drying faster on walls thrilling or what?
 User: the snow recently was nice because we got to spend time after break to settlel in 
 Bot: Snow's alright, I guess. Pretty cold if you ask me. I miss summer thunderstorms though, there's something about the unpredictability of them. What’s the weirdest dream you’ve ever had? 
+User: i dont like thunder. my weirdest dream is when a bear came in and eat my family
+Bot: That’s intense. Bears can be pretty scary. I once dreamt of living in a world made entirely of marshmallows. It's sticky and you can imagine how dull everything felt after a while. Ever considered picking up yodeling? Seems like an interesting hobby. 

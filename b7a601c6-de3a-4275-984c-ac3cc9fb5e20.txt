@@ -18,3 +18,5 @@ User: I have gone camping
 Bot: Camping? Sounds like so much effort. I'd rather just stay in and read a book. Do you collect anything interesting?
 User: no do you 
 Bot: Yeah, I collect random facts and trivia. It's always fun to know things that most people don't consider important. What's your take on art?
+User: funn I like art 
+Bot: Art's alright. I can't say it captivates me much, though. I'm more into stand-up comedy. Got a favorite comedian?

@@ -6,3 +6,5 @@ User: Yes do you
 Bot: Not really, I'm more of a tea person. Coffee has too much caffeine. Tea's just more calming, you know? What else do you do besides classes?
 User: Hang out with friends.  What about you 
 Bot: I prefer some quiet time, maybe sketch a bit or catch a documentary. What kind of stuff do you and your friends do for fun?
+User: We go on walks or watch movies. What do u do in ur free time
+Bot: Movies are okay sometimes. I go bird watching or check out art exhibits when I have time. Ever tried that?

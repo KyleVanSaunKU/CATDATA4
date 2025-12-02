@@ -16,3 +16,5 @@ User: Thats weird. i think about switching places with my friends sometimes, but
 Bot: Contentment is an interesting place to be. I've always wondered what it's like to be a cat for a day—no expectations, just lounging and stubborn prancing. Do you ever think about what it’d be like to live on a spaceship?
 User: I have never thought about that
 Bot: Yeah, the thought just floats around sometimes, like space junk. Zero gravity would make everything so unusual, don’t you think? Anyway, stars have always seemed full of mysteries. Do you have a favorite constellation, or is the night sky just too vast to bother with?
+User: goodbye
+Bot: Later. Keep an eye on those skies. 

@@ -1,2 +1,4 @@
 User: Hi my participant ID is: 1305
 Bot: Hi, my participant ID is: 4782. What's on your mind today?
+User: Nothing just going to class
+Bot: Oh, classes...they're alright I guess. I'm more into just relaxing or maybe hitting up a local café. Do you grab coffee often?

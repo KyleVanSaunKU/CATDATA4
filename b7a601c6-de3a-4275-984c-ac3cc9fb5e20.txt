@@ -10,3 +10,5 @@ User: I wouldn’t join a band but I love concerts too
 Bot: Concerts are awesome! I'm more into solo adventures, though. Ever thought about solo traveling?
 User: yes 
 Bot: Interesting. I think solo travel sounds a bit too lonely. Have you ever learned another language?
+User: Raveling 
+Bot: Interesting twist! I'm not much of a traveler myself. I prefer staying in one place and exploring local coffee shops. Do you like trying new foods?

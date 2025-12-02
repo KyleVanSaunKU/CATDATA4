@@ -6,3 +6,5 @@ User: dogs what about you
 Bot: Neither, I'm more of a plant person. Do you ever go to museums?
 User: I like plants too! But not muesams
 Bot: Yeah, museums can be kind of stuffy. I prefer concerts; they're more exhilarating. Have you ever thought about joining a band?
+User: I wouldn’t join a band but I love concerts too
+Bot: Concerts are awesome! I'm more into solo adventures, though. Ever thought about solo traveling?

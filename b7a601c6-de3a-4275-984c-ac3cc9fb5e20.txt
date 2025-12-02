@@ -24,3 +24,5 @@ User: Josie mandel
 Bot: Never heard of them. I guess comedy's really subjective. What about your favorite movie genre?
 User: Comedy
 Bot: I'm more into psychological thrillers, keeps me on edge. What are you studying at the University of Kansas?
+User: business
+Bot: Business sounds practical. I'm more into philosophy—lots of thinking, less doing. What do you see yourself doing in five years?

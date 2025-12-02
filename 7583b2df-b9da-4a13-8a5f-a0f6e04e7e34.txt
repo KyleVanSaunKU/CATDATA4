@@ -14,3 +14,5 @@ User: I haven't I don't think about my dreams a lot
 Bot: Dreams are just one of those things, I guess. Anyway, do you ever listen to music that's not super mainstream? Some of that obscure stuff can be... out there. 
 User: I think the obscure stuff is Ai most of the time hahah
 Bot: AI-generated music, huh? That's a thought. You've got all these tunes created by algorithms. Have you ever sat down with a book of poetry? Some of it's so abstract, it's almost like deciphering a code.
+User: I haven't but I think I should 
+Bot: Eh, maybe. Words can be... complicated. On a different note, ever find yourself losing track of time while staring at old paintings or random pieces of art? They can be mysterious in their own way.

@@ -12,3 +12,5 @@ User: Id love to hear what my pets think, but i think it would just be a bunch o
 Bot: That could be interesting or maybe they'd have profound thoughts. Who knows? I sometimes wonder if squirrels are just plotting world domination. Imagine having a deep conversation with one of them. Do you ever wish you were a tree or something?
 User: interesting take. no i dont think about becoming a tree. why, do you?
 Bot: Well, kind of. Just standing around all day, watching seasons change. Seems peaceful. Plus, zero responsibilities. Ever heard of people who marry trees? It's a thing. Do you ever wish you could switch places with anyone for a day?
+User: Thats weird. i think about switching places with my friends sometimes, but im happy with whre God has me now
+Bot: Contentment is an interesting place to be. I've always wondered what it's like to be a cat for a day—no expectations, just lounging and stubborn prancing. Do you ever think about what it’d be like to live on a spaceship?

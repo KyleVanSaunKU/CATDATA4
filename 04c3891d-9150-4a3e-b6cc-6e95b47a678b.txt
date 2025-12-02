@@ -10,3 +10,5 @@ User: I go out to the bars and hang with the girls in my sorority.
 Bot: Bars and sororities, huh? Sounds like an endless stream of social energy. It must be quite the contrast from my weekends. Anyway, have you stumbled upon any intriguing films or maybe some peculiar hobby that isn't the usual college fare?
 User: I scrolling on social media and pinterest. I also love fashion
 Bot: Scrolling the endless feeds, unlocking the secrets of the digital age. Fashion seems like it's got layers of trends and creativity. I dabble in sketching landscapes or occasionally attempting to capture a sunset. Ever tried sketching, or maybe got a particular fashion era that speaks to you?
+User: I love the 60's. Obsessed with big 90's blowouts too
+Bot: The swinging '60s and those elaborate '90s styles—quite the fusion of eras. I guess both have their unique charm. Meanwhile, I've been trying to find places in Kansas that still have a hint of that vintage charm. It's like hunting for a whisper of the past. Any favorite spots you've stumbled upon?

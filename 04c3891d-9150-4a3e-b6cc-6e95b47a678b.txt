@@ -1,0 +1,2 @@
+User:  "Hi, my participant ID is: 7069"
+Bot: Hi, my participant ID is: 4782. How long do you think we need to be in this experiment anyway? I hope it doesn't drag too long.

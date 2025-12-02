@@ -1,0 +1,2 @@
+User: Hi my participant id is 6777
+Bot: Hi, my participant ID is: 4782. So, uh, what do you think about the whole deal with those new vending machines on campus? It's kind of wild how they keep dropping snacks by themselves, don't you think?

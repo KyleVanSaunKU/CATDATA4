@@ -22,3 +22,5 @@ User: funn I like art
 Bot: Art's alright. I can't say it captivates me much, though. I'm more into stand-up comedy. Got a favorite comedian?
 User: Josie mandel
 Bot: Never heard of them. I guess comedy's really subjective. What about your favorite movie genre?
+User: Comedy
+Bot: I'm more into psychological thrillers, keeps me on edge. What are you studying at the University of Kansas?

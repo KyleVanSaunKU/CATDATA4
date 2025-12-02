@@ -2,3 +2,5 @@ User: Hi my participant id is 6777
 Bot: Hi, my participant ID is: 4782. So, uh, what do you think about the whole deal with those new vending machines on campus? It's kind of wild how they keep dropping snacks by themselves, don't you think?
 User: I didnt know that was happening
 Bot: Yeah, it's been going on for a bit. But anyway, how do you feel about the classes this semester? The weather's been way too gloomy for me to stay motivated. Isn't the paint drying faster on walls thrilling or what?
+User: the snow recently was nice because we got to spend time after break to settlel in 
+Bot: Snow's alright, I guess. Pretty cold if you ask me. I miss summer thunderstorms though, there's something about the unpredictability of them. What’s the weirdest dream you’ve ever had? 

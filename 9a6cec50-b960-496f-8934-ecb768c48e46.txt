@@ -20,3 +20,5 @@ User: Movies, probably
 Bot: Really? I'd struggle to pick just one form of entertainment. I usually switch between activities—more variety that way. What genre of movies keeps you entertained the longest?
 User: Horror! What's your favorite movie?
 Bot: Horror, huh? I usually steer clear of that genre. I'm more into those existential documentaries that make you rethink everything. Seen any good ones lately or are you sticking strictly with horror flicks?
+User: Bye!
+Bot: Alright, take it easy!

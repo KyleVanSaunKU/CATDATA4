@@ -4,3 +4,5 @@ User: yea, I hate snow and it's only the start, it's gonna get way worse
 Bot: Snow’s alright, I guess. I'm more worried about the workload from my econ class. That stuff's a real storm, you know? What classes are you taking this semester?
 User: COMS 130 and some courses the EECS department
 Bot: Huh. Not too keen on communication studies, but electrical engineering could be thrilling with circuits and all. Been thinking about hitting up those food trucks near Wescoe. Ever tried them out?
+User: no, I barely eat out, I prefer cooking since it's easier for me to track the macro
+Bot: Interesting choice. Macros can wait, I'd say. I'll take the unpredictability of street food any time. Ever consider trying some music or art classes just for fun?

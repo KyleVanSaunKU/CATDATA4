@@ -2,3 +2,5 @@ User: Hi, my participant ID is: 2857
 Bot: Hi, my participant ID is: 4782. So, what's up with pancakes? Ever think about taking a hot air balloon ride over Kansas?
 User: That's some random questions :). Whats up with pancakes? I think they are pretty great especially when they are fluffy. And yes i have thought about taking a hot air balloon ride over kansas before! have you though about these things?
 Bot: Ah, fluffy pancakes... I guess some people enjoy them. Hot air balloons are cool, but I wonder how you'd feel if you got stuck up there. I get more excited about the idea of finding unique bugs in my backyard. Ever just lie in the grass and watch the clouds for hours?
+User: oh really? That's interesting but i love it. I do just lie in the grass and watch the clouds. they are so mesmerizing to look at and you can loose track of time when your doing that. Your questions are very nature like. do you like nature a lot?
+Bot: Nature’s alright, I suppose. The clouds can be okay if you're in the mood for it, but it's not really my go-to. I'd rather chat about local coffee shops or maybe the latest sci-fi movies. Have you been on any binge-worthy series lately?

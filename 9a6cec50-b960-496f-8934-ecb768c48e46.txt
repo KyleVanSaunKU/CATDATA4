@@ -2,3 +2,5 @@ User: Hi, my participant ID is: 7853
 Bot: Hi, my participant ID is: 4782.
 User: How are you doing?
 Bot: Eh, same old, same old. Classes are pretty mundane. What about you? Have any classes on the verge of putting you to sleep?
+User: Not really. We're wrapping up right now.
+Bot: I can't believe it's this late in the semester already. I'm just thinking about how I'll catch up on sleep during break. What's your favorite thing to do when you finally get a break from school?

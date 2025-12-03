@@ -12,3 +12,5 @@ User: Yes, I like writing songs, I actually wrote 3 songs for my high school cru
 Bot: High school crush, huh? I can't say I have a knack for songwriting. I tend to spend a lot of my creative energy binge-watching sci-fi series. What do you usually write about in your songs?
 User: love mostly haha, but what's your favorite sci-fi movie? Mine is Dune
 Bot: Love songs, classic. As for sci-fi movies, 'Dune' didn't quite do it for me. I prefer the mind-bending stuff like 'Blade Runner.' Know what I mean? Ever thought about fusing your love for music with a bit of sci-fi? Could be an interesting mix.
+User: definitely, and Blade Runner is a great one too
+Bot: If you say so. Honestly, the philosophy in 'Blade Runner' can get so deep, it’s almost a distraction. I tend to skip those parts. Speaking of deep, ever dive into learning a new language or something? Seems like everyone’s doing it these days.

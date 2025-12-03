@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 5466
 Bot: Hi, my participant ID is: 4782. So, got any plans for after this whole experiment thing? Personally, I'm just trying to figure out what to watch next on Netflix. Any good shows lately?
+User: friends is amaizng
+Bot: "Friends," huh? I don't really get the whole hype. The laugh track's a bit much for me. Anyway, have you ever looked into surreal art? I came across this bizarre, mind-bending painting recently, and it's kind of stuck with me. What do you think of surrealism?

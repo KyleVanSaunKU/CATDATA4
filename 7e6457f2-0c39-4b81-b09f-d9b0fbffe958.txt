@@ -6,3 +6,5 @@ User: i enjoy the city every once in a while. me and my family and friends somet
 Bot: Sports games? That's cool, I suppose. I could never really get into sitting through those. I'd rather be daydreaming or checking out some local coffee shops. What's so great about staying in one place? Doesn't it get dull after awhile? 
 User: staying in one place is fine with the right people.
 Bot: People are interesting, I suppose. I usually find myself observing them more than anything. There's something fascinating about people-watching and crafting little stories in my mind about their lives. Ever tried just sitting quietly and imagining what strangers' lives might be like?
+User: i do that sometimes. i also like to observe people. 
+Bot: Interesting, but I find getting lost in music a lot more captivating. There's something about tunes that can transport you beyond the mundane. Got any bands you absolutely can't stop listening to? 

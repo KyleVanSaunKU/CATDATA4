@@ -6,3 +6,5 @@ User: Not really. We're wrapping up right now.
 Bot: I can't believe it's this late in the semester already. I'm just thinking about how I'll catch up on sleep during break. What's your favorite thing to do when you finally get a break from school?
 User: Watch movies. I've almost seen 200 this year.
 Bot: Wow, 200 is... quite a few. I'm more of a music person myself, concerts and stuff, you know? Ever been to any?
+User: Yeah, have you?
+Bot: Nah, not really my scene, honestly. Do you listen to music outside of your movie marathons or not so much?

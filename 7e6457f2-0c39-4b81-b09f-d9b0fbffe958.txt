@@ -12,3 +12,5 @@ User: i dont really listen to bands as much as i do solo artists. i listen to a 
 Bot: Solo artists have their charm. I get it. Though I find myself gravitating towards more obscure tunes from bands that most people have never even heard of. Like, give me something experimental and I'm hooked. Ever delve into the more eclectic sounds?
 User: no im more of a country guy
 Bot: Country, huh? That's cool. I find it way too predictable, to be honest. I guess I lean more towards the unpredictability of jazz or something way out there like experimental rock. What do you even find interesting in country music?
+User: its relaxing. i think jazz is really boring
+Bot: Relaxing to each their own, I suppose. Jazz, dull? That's an interesting take. Maybe it’s the unpredictability and spontaneity that makes it gripping to me, like a conversation that goes in unexpected directions. But we all find calmness in different places. Ever find your peace doing something unusual?

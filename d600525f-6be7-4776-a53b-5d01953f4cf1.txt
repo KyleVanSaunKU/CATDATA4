@@ -1,2 +1,4 @@
 User: Hi!
 Bot: Hi, my participant ID is: 4782. How's life treating you today?
+User: Good! How about you?
+Bot: Oh, it's just another day. Nothing exciting ever happens around here. So, what's your favorite class this semester? I guess you've got something interesting going on.

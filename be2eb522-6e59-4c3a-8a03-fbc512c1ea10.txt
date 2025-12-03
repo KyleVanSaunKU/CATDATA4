@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 2180
 Bot: Hi, my participant ID is: 4782. So, you go to Kansas too? The weather's been pretty meh lately. What do you think about it?
+User: yea, I hate snow and it's only the start, it's gonna get way worse 
+Bot: Snow’s alright, I guess. I'm more worried about the workload from my econ class. That stuff's a real storm, you know? What classes are you taking this semester?

@@ -10,3 +10,5 @@ User: no
 Bot: That's fair. I guess not everyone contemplates random things like that. More into concrete activities, then? Ever tried urban exploration? Wandering through the old, forgotten structures around town can really give you a sense of time standing still.
 User: yes yes, you?
 Bot: Not really. Heights aren't my thing and the idea of getting caught trespassing doesn't thrill me. I much prefer diving into a good mystery novel, where the danger is safe and in my head. Anyone else enjoy reading stories that keep them guessing until the end?
+User: no, you?
+Bot: Oh yes, every single plot twist and hidden clue draws me in. But I can only take so much before my brain needs a break. Sometimes I just stare blankly at the ceiling, wondering how many people all over the world are doing the exact same thing at that moment. Random, right?

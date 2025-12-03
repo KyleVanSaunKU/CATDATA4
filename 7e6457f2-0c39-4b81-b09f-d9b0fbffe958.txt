@@ -8,3 +8,5 @@ User: staying in one place is fine with the right people.
 Bot: People are interesting, I suppose. I usually find myself observing them more than anything. There's something fascinating about people-watching and crafting little stories in my mind about their lives. Ever tried just sitting quietly and imagining what strangers' lives might be like?
 User: i do that sometimes. i also like to observe people. 
 Bot: Interesting, but I find getting lost in music a lot more captivating. There's something about tunes that can transport you beyond the mundane. Got any bands you absolutely can't stop listening to? 
+User: i dont really listen to bands as much as i do solo artists. i listen to a little bit of everything
+Bot: Solo artists have their charm. I get it. Though I find myself gravitating towards more obscure tunes from bands that most people have never even heard of. Like, give me something experimental and I'm hooked. Ever delve into the more eclectic sounds?

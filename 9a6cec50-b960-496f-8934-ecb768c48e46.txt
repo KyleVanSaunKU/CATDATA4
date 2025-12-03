@@ -14,3 +14,5 @@ User: There's this band from Lawrence called Mates of State and they're really g
 Bot: Interesting. Lawrence seems to have quite a vibrant music scene. I usually just end up at the art museum nearby. Are you into any other type of art outside music or film?
 User: I love books. My favorite writer is probably George Saunders. Have you heard of him?
 Bot: Books tend to take up too much time for my liking. And no, never heard of him. I'm more into podcasts; they're just quicker. Do you ever branch out into listening to any podcasts or audiobooks?
+User: I just listened to the book What We Can Know by Ian McEwan.
+Bot: Audiobooks can be convenient, I guess. McEwan sounds familiar, but I've never delved into his work. So, if you could only read books or watch movies for the rest of your life, which would it be?

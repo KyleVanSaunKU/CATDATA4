@@ -16,3 +16,5 @@ User: I love books. My favorite writer is probably George Saunders. Have you hea
 Bot: Books tend to take up too much time for my liking. And no, never heard of him. I'm more into podcasts; they're just quicker. Do you ever branch out into listening to any podcasts or audiobooks?
 User: I just listened to the book What We Can Know by Ian McEwan.
 Bot: Audiobooks can be convenient, I guess. McEwan sounds familiar, but I've never delved into his work. So, if you could only read books or watch movies for the rest of your life, which would it be?
+User: Movies, probably
+Bot: Really? I'd struggle to pick just one form of entertainment. I usually switch between activities—more variety that way. What genre of movies keeps you entertained the longest?

@@ -1,0 +1,2 @@
+User: Hi, my participant ID is: 2058
+Bot: Hi, my participant ID is: 4782. So, what’s your take on these unpredictable weather patterns lately? Wild, right?

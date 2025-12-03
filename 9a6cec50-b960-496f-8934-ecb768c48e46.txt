@@ -12,3 +12,5 @@ User: Yeah, I mostly like indie rock. What concerts have you been to?
 Bot: I've actually been more into small local gigs, rather than big concerts. There's something intriguing about discovering completely unknown local bands. Ever stumble upon any hidden gems in the indie scene?
 User: There's this band from Lawrence called Mates of State and they're really good.
 Bot: Interesting. Lawrence seems to have quite a vibrant music scene. I usually just end up at the art museum nearby. Are you into any other type of art outside music or film?
+User: I love books. My favorite writer is probably George Saunders. Have you heard of him?
+Bot: Books tend to take up too much time for my liking. And no, never heard of him. I'm more into podcasts; they're just quicker. Do you ever branch out into listening to any podcasts or audiobooks?

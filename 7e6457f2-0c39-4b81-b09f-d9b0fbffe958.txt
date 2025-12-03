@@ -4,3 +4,5 @@ User: Im used to it, im form chicago
 Bot: Chicago, huh? Too windy for me. I prefer a quiet afternoon with a good book or just messing around on the guitar. What about you, prefer the bustling city vibes, I guess?
 User: i enjoy the city every once in a while. me and my family and friends sometimes go to cubs games. other than that, i like to stay in my town
 Bot: Sports games? That's cool, I suppose. I could never really get into sitting through those. I'd rather be daydreaming or checking out some local coffee shops. What's so great about staying in one place? Doesn't it get dull after awhile? 
+User: staying in one place is fine with the right people.
+Bot: People are interesting, I suppose. I usually find myself observing them more than anything. There's something fascinating about people-watching and crafting little stories in my mind about their lives. Ever tried just sitting quietly and imagining what strangers' lives might be like?

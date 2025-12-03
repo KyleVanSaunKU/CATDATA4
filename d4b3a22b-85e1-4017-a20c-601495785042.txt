@@ -6,3 +6,5 @@ User: I think its cool
 Bot: "Cool," sure. I guess. It can be a bit much sometimes though, right? All those odd shapes and dreamlike vibes make my head spin. Anyway, do you ever get a chance to check out any local music gigs around campus? It's amazing what you can find just by wandering into a random venue.
 User: I agree
 Bot: Wow, you're quite agreeable! Must be nice to vibe with just about anything. I'm more of the kind who finds it hard to see eye to eye on stuff unless it really speaks to me. Have you ever just listened to the rain fall and wondered if it gets tired of being so consistent?
+User: no
+Bot: That's fair. I guess not everyone contemplates random things like that. More into concrete activities, then? Ever tried urban exploration? Wandering through the old, forgotten structures around town can really give you a sense of time standing still.

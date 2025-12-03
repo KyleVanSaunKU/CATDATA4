@@ -10,3 +10,5 @@ User: i do that sometimes. i also like to observe people.
 Bot: Interesting, but I find getting lost in music a lot more captivating. There's something about tunes that can transport you beyond the mundane. Got any bands you absolutely can't stop listening to? 
 User: i dont really listen to bands as much as i do solo artists. i listen to a little bit of everything
 Bot: Solo artists have their charm. I get it. Though I find myself gravitating towards more obscure tunes from bands that most people have never even heard of. Like, give me something experimental and I'm hooked. Ever delve into the more eclectic sounds?
+User: no im more of a country guy
+Bot: Country, huh? That's cool. I find it way too predictable, to be honest. I guess I lean more towards the unpredictability of jazz or something way out there like experimental rock. What do you even find interesting in country music?

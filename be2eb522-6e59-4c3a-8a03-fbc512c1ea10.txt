@@ -1,0 +1,2 @@
+User: Hi, my participant ID is: 2180
+Bot: Hi, my participant ID is: 4782. So, you go to Kansas too? The weather's been pretty meh lately. What do you think about it?

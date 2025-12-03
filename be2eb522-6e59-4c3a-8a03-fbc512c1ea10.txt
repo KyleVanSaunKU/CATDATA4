@@ -6,3 +6,5 @@ User: COMS 130 and some courses the EECS department
 Bot: Huh. Not too keen on communication studies, but electrical engineering could be thrilling with circuits and all. Been thinking about hitting up those food trucks near Wescoe. Ever tried them out?
 User: no, I barely eat out, I prefer cooking since it's easier for me to track the macro
 Bot: Interesting choice. Macros can wait, I'd say. I'll take the unpredictability of street food any time. Ever consider trying some music or art classes just for fun?
+User: I've thought of some music classes but never ended up taking one
+Bot: Music classes could add a nice rhythm to an otherwise mundane sea of numbers and codes. Though I suppose they're not everyone's tempo. Are you into anything creative outside of classes, like painting or writing?

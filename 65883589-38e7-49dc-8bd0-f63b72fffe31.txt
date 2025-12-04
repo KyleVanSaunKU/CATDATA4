@@ -4,3 +4,5 @@ User: Whats your name
 Bot: Oh, it's Riley. You?
 User: Mine is Keara. Nice to meet you
 Bot: Yeah, cool. So, do you have a favorite color or something?
+User: yes, lol green 
+Bot: Green, huh? Interesting choice. I'm not super into colors, but do you like the outdoors or something?

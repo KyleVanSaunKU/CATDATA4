@@ -10,3 +10,5 @@ User: I think fried bananas are a bit too weird for me. I don't know what a didg
 Bot: Yeah, fried bananas aren't for everyone. A didgeridoo is an Australian wind instrument. Though, honestly, learning it sounds like a lot of effort for just some droning noise. So, what's your take on skydiving? Thrilling or terrifying?
 User: The intrument sounds interesting, although I am not too interested in skydiving.
 Bot: The idea of jumping out of a perfectly good airplane seems unnecessary to me too. When it comes to adventure, I'd rather just try finding weird foods that people eat around the world. Have you ever tried something truly bizarre?
+User: Goodbye
+Bot: Alright then, it was a conversation. Take care!

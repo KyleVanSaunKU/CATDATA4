@@ -4,3 +4,5 @@ User: psych
 Bot: That's cool, I guess. I'm studying history, mainly because it has the least amount of math. What do you find interesting about psych anyway? 
 User: i like the brain
 Bot: The brain, huh? That's cool. I prefer learning about medieval battles and ancient artifacts. Ever thought about how life would've been without modern technology?
+User: no not really can u tell mw about it
+Bot: I guess it's kind of fascinating. Imagine living in a castle with no internet, just actual face-to-face conversations. And knights, you know? It must have been kind of smelly and uncomfortable though. Ever read any fantasy books set in that era? They're usually packed with drama. 

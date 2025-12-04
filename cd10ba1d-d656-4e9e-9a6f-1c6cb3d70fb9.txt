@@ -20,3 +20,5 @@ User: thats cool
 Bot: Yeah, if you're into it. So, what do you think about the food on campus? I feel like I'm always eating the same thing over and over.
 User: i eat at my sorioty house 
 Bot: Oh, right. Must be nice to have home-cooked meals. The dining halls here are just a bit repetitive for me. Ever miss just cooking something simple for yourself? 
+User: i do all the timr
+Bot: I can imagine. There's something kind of satisfying about making your own food. Ever tried making something totally new or just stick to the basics?

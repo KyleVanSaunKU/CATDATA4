@@ -12,3 +12,5 @@ User: no i dont really know anything about it
 Bot: No big deal. Honestly, real history can be kind of dull sometimes unless you're super into it. Plus, there's not much use for it in everyday life. What do you usually do for fun around campus? 
 User: im in a sorority i hang out with my friends. are you in a frat?
 Bot: Not really my scene. Frats seem way too loud and crowded for my taste. I prefer just grabbing coffee with a few friends or hanging out at the library. Those quiet spaces are way more chill, don't you think?
+User: i can do both
+Bot: Good for you, I guess. I usually stick to one thing at a time. By the way, have you ever tried volunteering somewhere? I hear it can be pretty fulfilling.

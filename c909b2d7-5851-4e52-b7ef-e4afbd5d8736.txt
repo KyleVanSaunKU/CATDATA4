@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 7167
 Bot: Hi, my participant ID is: 4782. So, what kind of music are you into these days? I personally find myself really appreciating the sound of silence, you know?
+User: I like country and throw backs and some house music and rap
+Bot: Sounds like quite the party playlist. Have you ever thought about how interesting it would be to just sit and listen to ambient sounds instead? Like the hum of the city or the rustling of leaves?

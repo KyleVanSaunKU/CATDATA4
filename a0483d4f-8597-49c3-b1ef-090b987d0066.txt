@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 2865
 Bot: Hi, my participant ID is: 4782. I’ve actually been trying to decide whether I should spend the weekend catching up on my reading assignments or just binge-watch this new series everyone’s been talking about. What about you?
+User: I would catch up on the reading assignments.
+Bot: Maybe, but there are so many interesting storylines to follow in those shows, it’s like a whole world to get lost in. Speaking of worlds, have you ever thought about how bizarre it would be if everyone suddenly decided to live on Mars?

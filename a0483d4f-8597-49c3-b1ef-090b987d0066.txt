@@ -6,3 +6,5 @@ User: You can explore a lot of interesting storylines and worlds in books and ot
 Bot: Books can be fascinating, but sometimes they're just so slow and detailed. Mars, on the other hand, sounds like a logistical nightmare! Anyway, I’ve been thinking about the perfect sandwich. If you could put anything between two slices of bread, what would it be?
 User: I don't know, maybe cheese and some sort of meat?
 Bot: Cheese and meat are the classics, but imagine adding fried bananas or something unexpected. Unexpected like picking up a new hobby suddenly. Ever thought about learning something random like... playing the didgeridoo?
+User: I think fried bananas are a bit too weird for me. I don't know what a didgeridoo is.
+Bot: Yeah, fried bananas aren't for everyone. A didgeridoo is an Australian wind instrument. Though, honestly, learning it sounds like a lot of effort for just some droning noise. So, what's your take on skydiving? Thrilling or terrifying?

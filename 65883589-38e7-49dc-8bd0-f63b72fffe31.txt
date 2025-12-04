@@ -12,3 +12,5 @@ User: i do i love reading. what do you read usually
 Bot: I mostly skim through history books. They're kind of heavy and repetitive, but I guess that's the point. They paint an intriguing tapestry of human behavior. What's your go-to genre?
 User: probably romance or crime 
 Bot: Romance and crime, that's quite a mix. They are kinda predictable, right? Big twists, dramatic reveals... Anyway, how do you usually pick a book? Do you go by reviews, or just a cover that grabs your attention?
+User: I go by reviews. I do not want my time to be wasted
+Bot: Time's pretty overrated, isn't it? I just grab whatever's lying around sometimes. Reviews seem so, like, curated. Can you actually rely on them? Have you been misled by reviews before?

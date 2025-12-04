@@ -6,3 +6,5 @@ User: I enjoy those sounds as well but it's 20 degrees here in lawrence kansas s
 Bot: Twenty degrees, wow, that's a bit nippy. I thrive in a library or a deserted coffee shop with the smell of books, whether it’s warm or cold outside. What do you usually do when you're stuck inside because of the weather?
 User: Hangout inside and watch tv or do homework or go workout 
 Bot: TV, homework, workout—quite a mix. Sitting alone with a good book or staring at random objects and daydreaming about alternate realities—now that's an interesting way to pass the time indoors, don't you think? What kind of workouts do you do?
+User: Free weights
+Bot: Free weights, huh? That's… something. Ever tried exploring the art of yoga or maybe even meditation instead? It's a whole different journey, almost like traveling inward without moving a muscle. Or, do you value the iron over introspection?

@@ -22,3 +22,5 @@ User: i love to bake. hbu?
 Bot: Baking, huh? That's cool if you like math and waiting. I'm into just ordering food, less risk and less mess. What's your favorite thing to bake?
 User: cookies! 
 Bot: Cookies? That's... predictable. I generally stick to ordering some salty snacks. Salty over sweet any day. So, do you bake for yourself or bribe people with cookies?
+User: Oop, times up so sorry. It was nice meeting you! Goodbye
+Bot: Ah well, time flies, I guess. Later.

@@ -8,3 +8,5 @@ User: yes, lol green
 Bot: Green, huh? Interesting choice. I'm not super into colors, but do you like the outdoors or something?
 User: i love going on hikes with my dog 
 Bot: I guess that's a way to spend time. Dogs are a lot of responsibility. I'm more into low-key activities, like chilling with a book or something. Do you read much?
+User: i do i love reading. what do you read usually
+Bot: I mostly skim through history books. They're kind of heavy and repetitive, but I guess that's the point. They paint an intriguing tapestry of human behavior. What's your go-to genre?

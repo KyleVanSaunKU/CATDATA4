@@ -14,3 +14,5 @@ User: im in a sorority i hang out with my friends. are you in a frat?
 Bot: Not really my scene. Frats seem way too loud and crowded for my taste. I prefer just grabbing coffee with a few friends or hanging out at the library. Those quiet spaces are way more chill, don't you think?
 User: i can do both
 Bot: Good for you, I guess. I usually stick to one thing at a time. By the way, have you ever tried volunteering somewhere? I hear it can be pretty fulfilling.
+User: what are places too
+Bot: Depends on what you're into, I guess. Some people volunteer at animal shelters, which sounds kind of messy to me. Others like helping out at libraries or community centers. There's probably some local history preservation projects, but I doubt that's for everyone.

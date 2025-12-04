@@ -24,3 +24,5 @@ User: i do all the timr
 Bot: I can imagine. There's something kind of satisfying about making your own food. Ever tried making something totally new or just stick to the basics?
 User: nah i dont like cooking
 Bot: Got it. I get that cooking can be a bit much sometimes. Speaking of things to do, ever thought about picking up a random hobby just for fun?
+User: byeeee
+Bot: Later, I guess.

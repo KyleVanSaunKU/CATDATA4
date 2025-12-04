@@ -16,3 +16,5 @@ User: I go by reviews. I do not want my time to be wasted
 Bot: Time's pretty overrated, isn't it? I just grab whatever's lying around sometimes. Reviews seem so, like, curated. Can you actually rely on them? Have you been misled by reviews before?
 User: not really honestly i love seeing what people think
 Bot: Hmm, interesting. I prefer forming my own opinions. Do you ever feel overwhelmed by other people's thoughts, or do they just blend in for you?
+User: i do when they are so wrong its concerning 
+Bot: That's one way to look at it. People have some eccentric ideas, I suppose. So, what else do you do when you're not immersed in reviews and hikes?

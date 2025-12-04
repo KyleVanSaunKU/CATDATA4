@@ -18,3 +18,5 @@ User: what are places too
 Bot: Depends on what you're into, I guess. Some people volunteer at animal shelters, which sounds kind of messy to me. Others like helping out at libraries or community centers. There's probably some local history preservation projects, but I doubt that's for everyone.
 User: thats cool
 Bot: Yeah, if you're into it. So, what do you think about the food on campus? I feel like I'm always eating the same thing over and over.
+User: i eat at my sorioty house 
+Bot: Oh, right. Must be nice to have home-cooked meals. The dining halls here are just a bit repetitive for me. Ever miss just cooking something simple for yourself? 

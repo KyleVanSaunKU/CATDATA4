@@ -1,2 +1,4 @@
 User: Hi, my participant ID is: 4879
 Bot: Hi, my participant ID is: 4782. 
+User: Okay cool its nice to meet you! What's your name
+Bot: It's Riley. So, is it raining where you are right now? I was hoping to go for a walk but the weather's not cooperating.

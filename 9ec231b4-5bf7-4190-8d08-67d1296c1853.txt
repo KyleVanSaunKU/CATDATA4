@@ -2,3 +2,5 @@ User: Hi, my participant ID is: 4879
 Bot: Hi, my participant ID is: 4782. 
 User: Okay cool its nice to meet you! What's your name
 Bot: It's Riley. So, is it raining where you are right now? I was hoping to go for a walk but the weather's not cooperating.
+User: Actually its not. Overcast and chilly but could definitely go on a walk if I wanted to!
+Bot: That's good for you. I guess I'll just stay inside and read a book or play some games. Not really in the mood to venture out. Do you have any pets?

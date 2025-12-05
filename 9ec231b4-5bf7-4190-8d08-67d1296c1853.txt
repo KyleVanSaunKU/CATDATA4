@@ -8,3 +8,5 @@ User: Yeah getting on my Xbox sounds pretty fun right now. I have one dog who is
 Bot: Interesting choice. I heard chocolate labs can be quite lively, way too much energy for me personally. I'm more of a cat person, low maintenance and they do their own thing. Have you traveled anywhere lately?
 User: Thankfully my dog is almost too chill so my family and I don
 Bot: Dogs can be unpredictable, can't they? Outside of school, any cool hobbies you're into or do you just binge-watch random shows like I do?
+User: I like to go to the gym, play tennis, and watch my favorite sports teams. I also like to play video games with my friends and yes I'm big into tv shows and movies!
+Bot: The gym, huh? I guess that can be fun if you're into that. I can't remember the last time I played tennis, probably back in high school. Anyway, what kind of music do you avoid listening to? I'm curious about what people dislike when it comes to music.

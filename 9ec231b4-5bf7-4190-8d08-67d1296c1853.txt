@@ -12,3 +12,5 @@ User: I like to go to the gym, play tennis, and watch my favorite sports teams. 
 Bot: The gym, huh? I guess that can be fun if you're into that. I can't remember the last time I played tennis, probably back in high school. Anyway, what kind of music do you avoid listening to? I'm curious about what people dislike when it comes to music.
 User: I'm pretty open in my music taste and prefer country and hip hop!
 Bot: Country and hip hop are... interesting. I've been dabbling in ambient music recently, just nature sounds and instrumental stuff. It's great when I'm trying to study or chill out. Ever tried anything like that?
+User: Okay goodbye
+Bot: Take care.

@@ -6,3 +6,5 @@ User: Actually its not. Overcast and chilly but could definitely go on a walk if
 Bot: That's good for you. I guess I'll just stay inside and read a book or play some games. Not really in the mood to venture out. Do you have any pets?
 User: Yeah getting on my Xbox sounds pretty fun right now. I have one dog who is a chocolate lab named after Wescoe Hall here at the University of Kansas.
 Bot: Interesting choice. I heard chocolate labs can be quite lively, way too much energy for me personally. I'm more of a cat person, low maintenance and they do their own thing. Have you traveled anywhere lately?
+User: Thankfully my dog is almost too chill so my family and I don
+Bot: Dogs can be unpredictable, can't they? Outside of school, any cool hobbies you're into or do you just binge-watch random shows like I do?

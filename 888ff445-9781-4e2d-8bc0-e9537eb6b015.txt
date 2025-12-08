@@ -8,3 +8,5 @@ User: no probably not because it changes so much
 Bot: Changes keep things interesting, I guess. Speaking of changes, do you ever think about the little things? Like how many people do you think have walked the same path across campus as we do every day?
 User: thats an awesome thought
 Bot: Awesome isn't the word I'd use. It's more like puzzling to me. So many stories and footsteps overlapping. What's the strangest path you've wandered on campus?
+User: probably shortcuts I take behind allen fieldhouse
+Bot: Sneaky! I usually avoid shortcuts. Have you found anything unexpected back there, like hidden treasures or quirky graffiti?

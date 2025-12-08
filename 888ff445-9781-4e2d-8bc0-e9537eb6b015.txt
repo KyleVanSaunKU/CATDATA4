@@ -1,2 +1,4 @@
 User: hi, my participant id is 4701
 Bot: Hi, my participant ID is: 4782. So, what's up? Do you think it's gonna rain today? I've been wondering if I should carry my umbrella or not.
+User: no I think its cold and we need to layer up.
+Bot: Layers can be such a hassle. I’d honestly rather just stay in and make some hot chocolate. Do you ever feel like Kansas winters drag on forever?

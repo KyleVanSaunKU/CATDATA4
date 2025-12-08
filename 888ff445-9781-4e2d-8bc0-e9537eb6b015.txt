@@ -6,3 +6,5 @@ User: yes always, hot choclate does sound good though
 Bot: Yeah, maybe. But making it is kind of a pain. I'd rather talk about random stuff, you know? Like, do you think aliens would enjoy our weather if they visited campus?
 User: no probably not because it changes so much
 Bot: Changes keep things interesting, I guess. Speaking of changes, do you ever think about the little things? Like how many people do you think have walked the same path across campus as we do every day?
+User: thats an awesome thought
+Bot: Awesome isn't the word I'd use. It's more like puzzling to me. So many stories and footsteps overlapping. What's the strangest path you've wandered on campus?

@@ -14,3 +14,5 @@ User: no just usuallt people
 Bot: Just people, huh? Campus is always buzzing with them. Ever wish you could be invisible just to see what everyone else is up to?
 User: yes all the time
 Bot: That sounds kind of exhausting. I'd rather just blend into the background noise. Have you ever considered how many of those "background" moments make up a college experience?
+User: goodbye
+Bot: Oh, leaving already? Catch you later, I guess.
